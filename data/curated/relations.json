@@ -1,0 +1,137 @@
+[
+ {
+  "subject": "regno-lombardo-veneto",
+  "object": "impero-austriaco",
+  "type": "province_of",
+  "de_jure": true,
+  "de_facto": true,
+  "strength": "effective",
+  "start_year": 1815,
+  "end_year": 1866,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Regno Lombardo-Veneto"
+   }
+  ],
+  "review": "draft",
+  "note": "Regno costitutivo dell'Impero, retto da un viceré."
+ },
+ {
+  "subject": "province-unite-centro-italia",
+  "object": "regno-di-sardegna",
+  "type": "client_state",
+  "de_jure": false,
+  "de_facto": true,
+  "strength": "effective",
+  "start_year": 1859,
+  "end_year": 1860,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Province Unite del Centro Italia"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "subject": "stato-della-chiesa",
+  "object": "impero-austriaco",
+  "type": "military_occupation",
+  "de_jure": false,
+  "de_facto": true,
+  "strength": "effective",
+  "unit_ids": [
+   "uta-bologna",
+   "uta-ferrara",
+   "uta-ravenna",
+   "uta-forli-cesena",
+   "uta-rimini",
+   "uta-ancona"
+  ],
+  "start_year": 1849,
+  "end_year": 1859,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Stato Pontificio"
+   }
+  ],
+  "review": "draft",
+  "note": "Guarnigioni austriache nelle Legazioni e ad Ancona dopo il 1849, ritirate nel giugno 1859."
+ },
+ {
+  "subject": "stato-della-chiesa",
+  "object": "francia",
+  "type": "military_occupation",
+  "de_jure": false,
+  "de_facto": true,
+  "strength": "effective",
+  "unit_ids": [
+   "uta-roma"
+  ],
+  "start_year": 1849,
+  "end_year": 1866,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Repubblica Romana (1849)"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Questione romana"
+   }
+  ],
+  "review": "draft",
+  "note": "Presidio francese a Roma dal luglio 1849, ritirato nel dicembre 1866 (Convenzione di settembre)."
+ },
+ {
+  "subject": "stato-della-chiesa",
+  "object": "francia",
+  "type": "military_occupation",
+  "de_jure": false,
+  "de_facto": true,
+  "strength": "effective",
+  "unit_ids": [
+   "uta-roma"
+  ],
+  "start_year": 1867,
+  "end_year": 1870,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Battaglia di Mentana"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Presa di Roma"
+   }
+  ],
+  "review": "draft",
+  "note": "Ritorno del presidio dopo Mentana (novembre 1867), ritirato nell'agosto 1870."
+ },
+ {
+  "subject": "regno-di-napoli",
+  "object": "regno-di-sicilia",
+  "type": "personal_union",
+  "de_jure": true,
+  "de_facto": true,
+  "strength": "effective",
+  "start_year": 1815,
+  "end_year": 1816,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Regno delle Due Sicilie"
+   }
+  ],
+  "review": "draft",
+  "note": "Ferdinando IV di Napoli e III di Sicilia, fino all'unione formale del 1816."
+ }
+]

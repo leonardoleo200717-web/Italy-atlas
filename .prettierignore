@@ -1,0 +1,7 @@
+dist
+public/data
+data/raw
+CLAUDE.md
+data/curated
+tests/golden/*.json
+public/fonts

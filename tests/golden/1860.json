@@ -1,0 +1,57 @@
+{
+ "year": 1860,
+ "reviewed_by": "draft (da revisionare)",
+ "cases": [
+  {
+   "place": "Napoli",
+   "lon": 14.25,
+   "lat": 40.85,
+   "expect": "regno-di-sardegna",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Plebisciti risorgimentali"
+   }
+  },
+  {
+   "place": "Napoli",
+   "lon": 14.25,
+   "lat": 40.85,
+   "expect": "regno-delle-due-sicilie",
+   "mode": "de_jure",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Assedio di Gaeta (1860-1861)"
+   }
+  },
+  {
+   "place": "Nizza",
+   "lon": 7.26,
+   "lat": 43.72,
+   "expect": "francia",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Trattato di Torino (1860)"
+   }
+  },
+  {
+   "place": "Ancona",
+   "lon": 13.5,
+   "lat": 43.6,
+   "expect": "regno-di-sardegna",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Plebisciti risorgimentali"
+   }
+  },
+  {
+   "place": "Roma",
+   "lon": 12.5,
+   "lat": 41.9,
+   "expect": "stato-della-chiesa",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Stato Pontificio"
+   }
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "year": 1200,
+ "reviewed_by": "draft (da revisionare)",
+ "cases": [
+  {
+   "place": "Palermo",
+   "lon": 13.3,
+   "lat": 38.05,
+   "expect": "regno-di-sicilia",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Regno di Sicilia"
+   }
+  },
+  {
+   "place": "Bari",
+   "lon": 16.8,
+   "lat": 41.05,
+   "expect": "regno-di-sicilia",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Regno di Sicilia"
+   }
+  },
+  {
+   "place": "Roma",
+   "lon": 12.5,
+   "lat": 41.9,
+   "expect": "stato-della-chiesa",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Stato Pontificio"
+   }
+  },
+  {
+   "place": "Milano",
+   "lon": 9.19,
+   "lat": 45.46,
+   "expect": "sacro-romano-impero",
+   "note": "Sovranità imperiale de iure; comuni autonomi de facto dopo la pace di Costanza (1183).",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Pace di Costanza"
+   }
+  },
+  {
+   "place": "Cagliari",
+   "lon": 9.05,
+   "lat": 39.3,
+   "expect": "giudicato-di-cagliari",
+   "known_issue": "Cliopatria v0.2.1 termina il Giudicato di Cagliari nel 1187 e attribuisce l'area a Pisa; il giudicato esistette fino al 1258.",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Giudicato di Cagliari"
+   }
+  }
+ ]
+}

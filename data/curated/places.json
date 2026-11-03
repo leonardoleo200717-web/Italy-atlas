@@ -1,0 +1,727 @@
+[
+ {
+  "id": "roma",
+  "names": [
+   {
+    "name": "Roma",
+    "start_year": -752,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Rome"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Rome"
+ },
+ {
+  "id": "milano",
+  "names": [
+   {
+    "name": "Mediolanum",
+    "start_year": -221,
+    "end_year": 476
+   },
+   {
+    "name": "Milano",
+    "start_year": 476,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Milan"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Milan"
+ },
+ {
+  "id": "ravenna",
+  "names": [
+   {
+    "name": "Ravenna",
+    "start_year": -26,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Ravenna"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Ravenna"
+ },
+ {
+  "id": "torino",
+  "names": [
+   {
+    "name": "Torino",
+    "start_year": 476,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Turin"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Turin"
+ },
+ {
+  "id": "napoli",
+  "names": [
+   {
+    "name": "Neapolis",
+    "start_year": -469,
+    "end_year": 476
+   },
+   {
+    "name": "Napoli",
+    "start_year": 476,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Naples"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Naples"
+ },
+ {
+  "id": "palermo",
+  "names": [
+   {
+    "name": "Panormus",
+    "start_year": -253,
+    "end_year": 831
+   },
+   {
+    "name": "Balarm",
+    "start_year": 831,
+    "end_year": 1072
+   },
+   {
+    "name": "Palermo",
+    "start_year": 1072,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Palermo"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Palermo"
+ },
+ {
+  "id": "siracusa",
+  "names": [
+   {
+    "name": "Syrakousai",
+    "start_year": -732,
+    "end_year": -211
+   },
+   {
+    "name": "Syracusae",
+    "start_year": -211,
+    "end_year": 476
+   },
+   {
+    "name": "Siracusa",
+    "start_year": 476,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Siracusa"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Siracusa"
+ },
+ {
+  "id": "taranto",
+  "names": [
+   {
+    "name": "Taras",
+    "start_year": -705,
+    "end_year": -271
+   },
+   {
+    "name": "Tarentum",
+    "start_year": -271,
+    "end_year": 476
+   },
+   {
+    "name": "Taranto",
+    "start_year": 476,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Taranto"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Taranto"
+ },
+ {
+  "id": "firenze",
+  "names": [
+   {
+    "name": "Florentia",
+    "start_year": -58,
+    "end_year": 476
+   },
+   {
+    "name": "Firenze",
+    "start_year": 476,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Florence"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Florence"
+ },
+ {
+  "id": "venezia",
+  "names": [
+   {
+    "name": "Venezia",
+    "start_year": 811,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Venice"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Venice"
+ },
+ {
+  "id": "genova",
+  "names": [
+   {
+    "name": "Genova",
+    "start_year": 476,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Genoa"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Genoa"
+ },
+ {
+  "id": "cagliari",
+  "names": [
+   {
+    "name": "Cagliari",
+    "start_year": 476,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Cagliari"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Cagliari"
+ },
+ {
+  "id": "bologna",
+  "names": [
+   {
+    "name": "Bologna",
+    "start_year": 476,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Bologna"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Bologna"
+ },
+ {
+  "id": "parma",
+  "names": [
+   {
+    "name": "Parma",
+    "start_year": 476,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Parma"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Parma"
+ },
+ {
+  "id": "modena",
+  "names": [
+   {
+    "name": "Modena",
+    "start_year": 476,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Modena"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Modena"
+ },
+ {
+  "id": "pisa",
+  "names": [
+   {
+    "name": "Pisa",
+    "start_year": 476,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Pisa"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Pisa"
+ },
+ {
+  "id": "siena",
+  "names": [
+   {
+    "name": "Siena",
+    "start_year": 476,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Siena"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Siena"
+ },
+ {
+  "id": "benevento",
+  "names": [
+   {
+    "name": "Beneventum",
+    "start_year": -267,
+    "end_year": 476
+   },
+   {
+    "name": "Benevento",
+    "start_year": 476,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Benevento"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Benevento"
+ },
+ {
+  "id": "bari",
+  "names": [
+   {
+    "name": "Bari",
+    "start_year": 476,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Bari"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Bari"
+ },
+ {
+  "id": "messina",
+  "names": [
+   {
+    "name": "Messina",
+    "start_year": 476,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Messina"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Messina"
+ },
+ {
+  "id": "ancona",
+  "names": [
+   {
+    "name": "Ancona",
+    "start_year": 476,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Ancona"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Ancona"
+ },
+ {
+  "id": "trieste",
+  "names": [
+   {
+    "name": "Trieste",
+    "start_year": 476,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Trieste"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Trieste"
+ },
+ {
+  "id": "trento",
+  "names": [
+   {
+    "name": "Trento",
+    "start_year": 476,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Trento"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Trento"
+ },
+ {
+  "id": "verona",
+  "names": [
+   {
+    "name": "Verona",
+    "start_year": 476,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Verona"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Verona"
+ },
+ {
+  "id": "ferrara",
+  "names": [
+   {
+    "name": "Ferrara",
+    "start_year": 1000,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Ferrara"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Ferrara"
+ },
+ {
+  "id": "san-marino",
+  "names": [
+   {
+    "name": "San Marino",
+    "start_year": 1000,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: San Marino"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "San Marino"
+ },
+ {
+  "id": "valletta",
+  "names": [
+   {
+    "name": "La Valletta",
+    "start_year": 1566,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Valletta"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Valletta"
+ },
+ {
+  "id": "ajaccio",
+  "names": [
+   {
+    "name": "Ajaccio",
+    "start_year": 1492,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Ajaccio"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Ajaccio"
+ },
+ {
+  "id": "vienna",
+  "names": [
+   {
+    "name": "Vienna",
+    "start_year": 1000,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Vienna"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Vienna"
+ },
+ {
+  "id": "parigi",
+  "names": [
+   {
+    "name": "Parigi",
+    "start_year": 987,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "populated places: Paris"
+   }
+  ],
+  "review": "draft",
+  "ne_name": "Paris"
+ },
+ {
+  "id": "pavia",
+  "names": [
+   {
+    "name": "Ticinum",
+    "start_year": -89,
+    "end_year": 568
+   },
+   {
+    "name": "Pavia",
+    "start_year": 568,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Pavia"
+   }
+  ],
+  "review": "draft",
+  "lon": 9.158,
+  "lat": 45.185
+ },
+ {
+  "id": "lucca",
+  "names": [
+   {
+    "name": "Lucca",
+    "start_year": 476,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Lucca"
+   }
+  ],
+  "review": "draft",
+  "lon": 10.503,
+  "lat": 43.843
+ },
+ {
+  "id": "massa",
+  "names": [
+   {
+    "name": "Massa",
+    "start_year": 1000,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Massa"
+   }
+  ],
+  "review": "draft",
+  "lon": 10.141,
+  "lat": 44.035
+ },
+ {
+  "id": "mantova",
+  "names": [
+   {
+    "name": "Mantova",
+    "start_year": 476,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Mantova"
+   }
+  ],
+  "review": "draft",
+  "lon": 10.791,
+  "lat": 45.156
+ },
+ {
+  "id": "aquileia",
+  "names": [
+   {
+    "name": "Aquileia",
+    "start_year": -180,
+    "end_year": 2027
+   }
+  ],
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Aquileia"
+   }
+  ],
+  "review": "draft",
+  "lon": 13.37,
+  "lat": 45.77
+ }
+]

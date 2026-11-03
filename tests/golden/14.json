@@ -1,0 +1,36 @@
+{
+ "year": 14,
+ "reviewed_by": "draft (da revisionare)",
+ "cases": [
+  {
+   "place": "Roma",
+   "lon": 12.5,
+   "lat": 41.9,
+   "expect": "impero-romano",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Augusto"
+   }
+  },
+  {
+   "place": "Milano",
+   "lon": 9.19,
+   "lat": 45.46,
+   "expect": "impero-romano",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Mediolanum"
+   }
+  },
+  {
+   "place": "Trento",
+   "lon": 11.12,
+   "lat": 46.07,
+   "expect": "impero-romano",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Tridentum"
+   }
+  }
+ ]
+}

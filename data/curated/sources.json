@@ -1,0 +1,85 @@
+[
+ {
+  "id": "src-cliopatria",
+  "title": "Cliopatria (Seshat Global History Databank), Bennett et al., Scientific Data 12, 247 (2025)",
+  "url": "https://github.com/Seshat-Global-History-Databank/cliopatria",
+  "license": "CC BY 4.0",
+  "usage": "Layer politico L1 (macro-stati) per tutte le epoche; layer esterno",
+  "kind": "data",
+  "version": "v0.2.1",
+  "attribution": "Cliopatria v0.2.1, Seshat Global History Databank, CC BY 4.0 (doi:10.1038/s41597-025-04516-9)"
+ },
+ {
+  "id": "src-ne",
+  "title": "Natural Earth 1:10m (land, lakes, rivers, admin-0 boundary lines, admin-1 states/provinces)",
+  "url": "https://www.naturalearthdata.com",
+  "license": "Pubblico dominio",
+  "usage": "Basemap fisica; geometrie delle UTA (province moderne come approssimazione)",
+  "kind": "data",
+  "version": "nvkelso/natural-earth-vector v5.1.2 (checksum in data/raw/sources.lock.json)",
+  "attribution": "Made with Natural Earth"
+ },
+ {
+  "id": "src-noto",
+  "title": "Noto Sans (glifi PBF da protomaps/basemaps-assets, generati con maplibre/font-maker)",
+  "url": "https://github.com/protomaps/basemaps-assets",
+  "license": "SIL Open Font License 1.1",
+  "usage": "Glifi delle etichette della mappa (public/fonts)",
+  "kind": "data",
+  "attribution": "Noto Sans © Google, SIL OFL 1.1"
+ },
+ {
+  "id": "src-wikipedia-it",
+  "title": "Wikipedia in lingua italiana",
+  "url": "https://it.wikipedia.org",
+  "license": "Testi CC BY-SA 4.0 (solo citazione di fatti, nessun testo copiato)",
+  "usage": "Riferimento per date, regni ed eventi; la voce è indicata in `loc`",
+  "kind": "reference"
+ },
+ {
+  "id": "src-wikipedia-en",
+  "title": "Wikipedia in lingua inglese",
+  "url": "https://en.wikipedia.org",
+  "license": "Testi CC BY-SA 4.0 (solo citazione di fatti, nessun testo copiato)",
+  "usage": "Riferimento; le voci collegate alle entità Cliopatria",
+  "kind": "reference"
+ },
+ {
+  "id": "src-requisiti",
+  "title": "REQUIREMENTS «Atlante d'Italia» v1.0 (CLAUDE.md, §10.1-10.2)",
+  "license": "Documento di progetto",
+  "usage": "Periodizzazione convenzionale (epoche) e anni-snapshot",
+  "kind": "reference"
+ },
+ {
+  "id": "src-treccani",
+  "title": "Enciclopedia Treccani",
+  "url": "https://www.treccani.it",
+  "license": "Copyright (citazione di fatti, non copia)",
+  "usage": "Riferimento",
+  "kind": "reference"
+ },
+ {
+  "id": "src-euratlas-ref",
+  "title": "Euratlas Periodis",
+  "url": "https://www.euratlas.net",
+  "license": "Commerciale",
+  "usage": "Solo consultazione: nessun dato redistribuito",
+  "kind": "reference"
+ },
+ {
+  "id": "src-centennia-ref",
+  "title": "Centennia Historical Atlas",
+  "url": "https://historicalatlas.com",
+  "license": "Proprietaria",
+  "usage": "Solo consultazione: nessun dato redistribuito",
+  "kind": "reference"
+ },
+ {
+  "id": "src-todo",
+  "title": "FONTE DA TROVARE",
+  "license": "—",
+  "usage": "Segnaposto: la build --strict fallisce se presente",
+  "kind": "todo"
+ }
+]

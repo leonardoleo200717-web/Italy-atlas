@@ -1,0 +1,1352 @@
+[
+ {
+  "unit_ids": [
+   "uta-torino",
+   "uta-cuneo",
+   "uta-asti",
+   "uta-alessandria",
+   "uta-vercelli",
+   "uta-biella",
+   "uta-novara",
+   "uta-verbano-cusio-ossola",
+   "uta-aosta",
+   "uta-genova",
+   "uta-savona",
+   "uta-imperia",
+   "uta-la-spezia",
+   "uta-sassari",
+   "uta-nuoro",
+   "uta-olbia-tempio",
+   "uta-oristano",
+   "uta-medio-campidano",
+   "uta-cagliari",
+   "uta-ogliastra",
+   "uta-carbonia-iglesias"
+  ],
+  "polity_id": "regno-di-sardegna",
+  "mode": "de_facto",
+  "start_year": 1815,
+  "end_year": 1861,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Congresso di Vienna"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Regno di Sardegna (1720-1861)"
+   }
+  ],
+  "review": "draft",
+  "note": "La Liguria (ex Repubblica di Genova) annessa nel 1815."
+ },
+ {
+  "unit_ids": [
+   "uta-pavia"
+  ],
+  "polity_id": "regno-di-sardegna",
+  "mode": "de_facto",
+  "start_year": 1815,
+  "end_year": 1861,
+  "certainty": "low",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Lomellina"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Trattato di Worms (1743)"
+   }
+  ],
+  "review": "draft",
+  "note": "UTA mista: Lomellina e Oltrepò sabaudi; Pavia città lombardo-austriaca fino al 1859."
+ },
+ {
+  "unit_ids": [
+   "uta-nizza",
+   "uta-savoia"
+  ],
+  "polity_id": "regno-di-sardegna",
+  "mode": "de_facto",
+  "start_year": 1815,
+  "end_year": 1860,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Congresso di Vienna"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Trattato di Torino (1860)"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "unit_ids": [
+   "uta-nizza",
+   "uta-savoia"
+  ],
+  "polity_id": "francia",
+  "mode": "de_facto",
+  "start_year": 1860,
+  "end_year": 1915,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Trattato di Torino (1860)"
+   }
+  ],
+  "review": "draft",
+  "note": "Cessione con il trattato del 24 marzo 1860, ratificata da plebisciti (aprile 1860)."
+ },
+ {
+  "unit_ids": [
+   "uta-corsica"
+  ],
+  "polity_id": "francia",
+  "mode": "de_facto",
+  "start_year": 1815,
+  "end_year": 1915,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Corsica"
+   }
+  ],
+  "review": "draft",
+  "note": "Francese dal trattato di Versailles (1768)."
+ },
+ {
+  "unit_ids": [
+   "uta-varese",
+   "uta-como",
+   "uta-lecco",
+   "uta-sondrio",
+   "uta-milano",
+   "uta-monza-e-brianza",
+   "uta-bergamo",
+   "uta-brescia",
+   "uta-cremona",
+   "uta-lodi"
+  ],
+  "polity_id": "regno-lombardo-veneto",
+  "mode": "de_facto",
+  "start_year": 1815,
+  "end_year": 1859,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Congresso di Vienna"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Regno Lombardo-Veneto"
+   }
+  ],
+  "review": "draft",
+  "note": "Nel 1848 Milano fu retta dal Governo provvisorio (marzo-agosto); a fine anno il controllo austriaco era ristabilito."
+ },
+ {
+  "unit_ids": [
+   "uta-padova",
+   "uta-rovigo",
+   "uta-vicenza",
+   "uta-verona",
+   "uta-treviso",
+   "uta-belluno",
+   "uta-udine",
+   "uta-pordenone",
+   "uta-mantova"
+  ],
+  "polity_id": "regno-lombardo-veneto",
+  "mode": "de_facto",
+  "start_year": 1815,
+  "end_year": 1866,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Congresso di Vienna"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Regno Lombardo-Veneto"
+   }
+  ],
+  "review": "draft",
+  "note": "Mantova restò austriaca anche dopo il 1859 (armistizio di Villafranca, trattato di Zurigo)."
+ },
+ {
+  "unit_ids": [
+   "uta-venezia"
+  ],
+  "polity_id": "regno-lombardo-veneto",
+  "mode": "de_facto",
+  "start_year": 1815,
+  "end_year": 1848,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Regno Lombardo-Veneto"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "unit_ids": [
+   "uta-venezia"
+  ],
+  "polity_id": "repubblica-di-san-marco",
+  "mode": "de_facto",
+  "start_year": 1848,
+  "end_year": 1849,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Repubblica di San Marco"
+   }
+  ],
+  "review": "draft",
+  "note": "Proclamata il 22 marzo 1848, capitolò il 22-24 agosto 1849. A fine 1848 controllava Venezia e la laguna; il resto della provincia moderna era già tornato agli Austriaci."
+ },
+ {
+  "unit_ids": [
+   "uta-venezia"
+  ],
+  "polity_id": "regno-lombardo-veneto",
+  "mode": "de_facto",
+  "start_year": 1849,
+  "end_year": 1866,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Regno Lombardo-Veneto"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "unit_ids": [
+   "uta-varese",
+   "uta-como",
+   "uta-lecco",
+   "uta-sondrio",
+   "uta-milano",
+   "uta-monza-e-brianza",
+   "uta-bergamo",
+   "uta-brescia",
+   "uta-cremona",
+   "uta-lodi"
+  ],
+  "polity_id": "regno-di-sardegna",
+  "mode": "de_facto",
+  "start_year": 1859,
+  "end_year": 1861,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Seconda guerra d'indipendenza italiana"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Trattato di Zurigo"
+   }
+  ],
+  "review": "draft",
+  "note": "Controllo di fatto dal giugno 1859 (Magenta, Solferino); cessione col trattato di Zurigo (10 novembre 1859)."
+ },
+ {
+  "unit_ids": [
+   "uta-padova",
+   "uta-rovigo",
+   "uta-vicenza",
+   "uta-verona",
+   "uta-treviso",
+   "uta-belluno",
+   "uta-udine",
+   "uta-pordenone",
+   "uta-mantova",
+   "uta-venezia"
+  ],
+  "polity_id": "regno-d-italia",
+  "mode": "de_facto",
+  "start_year": 1866,
+  "end_year": 1915,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Terza guerra d'indipendenza italiana"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Trattato di Vienna (1866)"
+   }
+  ],
+  "review": "draft",
+  "note": "Trattato di Vienna (3 ottobre 1866) e plebiscito (21-22 ottobre 1866)."
+ },
+ {
+  "unit_ids": [
+   "uta-trento",
+   "uta-bolzano",
+   "uta-gorizia",
+   "uta-trieste",
+   "uta-istria"
+  ],
+  "polity_id": "impero-austriaco",
+  "mode": "de_facto",
+  "start_year": 1815,
+  "end_year": 1867,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Congresso di Vienna"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Litorale austriaco"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Contea del Tirolo"
+   }
+  ],
+  "review": "draft",
+  "note": "Tirolo e Litorale non facevano parte del Regno Lombardo-Veneto."
+ },
+ {
+  "unit_ids": [
+   "uta-trento",
+   "uta-bolzano",
+   "uta-gorizia",
+   "uta-trieste",
+   "uta-istria"
+  ],
+  "polity_id": "austria-ungheria",
+  "mode": "de_facto",
+  "start_year": 1867,
+  "end_year": 1915,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Austria-Ungheria"
+   }
+  ],
+  "review": "draft",
+  "note": "Cisleitania dopo il compromesso del 1867."
+ },
+ {
+  "unit_ids": [
+   "uta-parma",
+   "uta-piacenza"
+  ],
+  "polity_id": "ducato-di-parma",
+  "mode": "de_facto",
+  "start_year": 1815,
+  "end_year": 1859,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Congresso di Vienna"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ducato di Parma e Piacenza"
+   }
+  ],
+  "review": "draft",
+  "note": "Maria Luigia d'Asburgo (1814-1847), poi i Borbone-Parma."
+ },
+ {
+  "unit_ids": [
+   "uta-modena",
+   "uta-reggio-emilia"
+  ],
+  "polity_id": "ducato-di-modena",
+  "mode": "de_facto",
+  "start_year": 1815,
+  "end_year": 1859,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Congresso di Vienna"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ducato di Modena e Reggio"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "unit_ids": [
+   "uta-massa-carrara"
+  ],
+  "polity_id": "ducato-di-massa-e-carrara",
+  "mode": "de_facto",
+  "start_year": 1815,
+  "end_year": 1829,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ducato di Massa e Carrara"
+   }
+  ],
+  "review": "draft",
+  "note": "A Maria Beatrice d'Este fino alla morte (1829), poi unito a Modena."
+ },
+ {
+  "unit_ids": [
+   "uta-massa-carrara"
+  ],
+  "polity_id": "ducato-di-modena",
+  "mode": "de_facto",
+  "start_year": 1829,
+  "end_year": 1859,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ducato di Massa e Carrara"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ducato di Modena e Reggio"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "unit_ids": [
+   "uta-lucca"
+  ],
+  "polity_id": "ducato-di-lucca",
+  "mode": "de_facto",
+  "start_year": 1815,
+  "end_year": 1847,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Congresso di Vienna"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ducato di Lucca"
+   }
+  ],
+  "review": "draft",
+  "note": "Amministrazione provvisoria austriaca fino al 1817; la Garfagnana (inclusa nella UTA) era modenese."
+ },
+ {
+  "unit_ids": [
+   "uta-lucca"
+  ],
+  "polity_id": "granducato-di-toscana",
+  "mode": "de_facto",
+  "start_year": 1847,
+  "end_year": 1859,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ducato di Lucca"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Granducato di Toscana"
+   }
+  ],
+  "review": "draft",
+  "note": "Riversione alla Toscana nell'ottobre 1847 (trattato di Firenze del 1844)."
+ },
+ {
+  "unit_ids": [
+   "uta-firenze",
+   "uta-prato",
+   "uta-pistoia",
+   "uta-arezzo",
+   "uta-siena",
+   "uta-grosseto",
+   "uta-livorno",
+   "uta-pisa"
+  ],
+  "polity_id": "granducato-di-toscana",
+  "mode": "de_facto",
+  "start_year": 1815,
+  "end_year": 1859,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Congresso di Vienna"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Granducato di Toscana"
+   }
+  ],
+  "review": "draft",
+  "note": "Il congresso aggiunse lo Stato dei Presidi, Piombino e l'Elba."
+ },
+ {
+  "unit_ids": [
+   "uta-bologna",
+   "uta-ferrara",
+   "uta-ravenna",
+   "uta-forli-cesena",
+   "uta-rimini"
+  ],
+  "polity_id": "stato-della-chiesa",
+  "mode": "de_facto",
+  "start_year": 1815,
+  "end_year": 1859,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Congresso di Vienna"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Stato Pontificio"
+   }
+  ],
+  "review": "draft",
+  "note": "Legazioni di Romagna restituite dal Congresso di Vienna. Repubblica Romana febbraio-luglio 1849 non rappresentata (a fine 1849 il potere pontificio era restaurato)."
+ },
+ {
+  "unit_ids": [
+   "uta-pesaro-e-urbino",
+   "uta-ancona",
+   "uta-macerata",
+   "uta-fermo",
+   "uta-ascoli-piceno",
+   "uta-perugia",
+   "uta-terni",
+   "uta-rieti"
+  ],
+  "polity_id": "stato-della-chiesa",
+  "mode": "de_facto",
+  "start_year": 1815,
+  "end_year": 1860,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Congresso di Vienna"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Stato Pontificio"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "unit_ids": [
+   "uta-roma",
+   "uta-viterbo",
+   "uta-frosinone",
+   "uta-latina",
+   "uta-vaticano"
+  ],
+  "polity_id": "stato-della-chiesa",
+  "mode": "de_facto",
+  "start_year": 1815,
+  "end_year": 1870,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Congresso di Vienna"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Stato Pontificio"
+   }
+  ],
+  "review": "draft",
+  "note": "Latina e Frosinone includono aree napoletane (vedi note UTA)."
+ },
+ {
+  "unit_ids": [
+   "uta-parma",
+   "uta-piacenza",
+   "uta-modena",
+   "uta-reggio-emilia",
+   "uta-massa-carrara",
+   "uta-firenze",
+   "uta-prato",
+   "uta-pistoia",
+   "uta-arezzo",
+   "uta-siena",
+   "uta-grosseto",
+   "uta-livorno",
+   "uta-pisa",
+   "uta-lucca",
+   "uta-bologna",
+   "uta-ferrara",
+   "uta-ravenna",
+   "uta-forli-cesena",
+   "uta-rimini"
+  ],
+  "polity_id": "province-unite-centro-italia",
+  "mode": "de_facto",
+  "start_year": 1859,
+  "end_year": 1860,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Province Unite del Centro Italia"
+   }
+  ],
+  "review": "draft",
+  "note": "Governi provvisori dopo la fuga dei sovrani (aprile-giugno 1859), coordinati da Farini, Ricasoli e Cipriani; annessione col plebiscito dell'11-12 marzo 1860."
+ },
+ {
+  "unit_ids": [
+   "uta-parma",
+   "uta-piacenza",
+   "uta-modena",
+   "uta-reggio-emilia",
+   "uta-massa-carrara",
+   "uta-firenze",
+   "uta-prato",
+   "uta-pistoia",
+   "uta-arezzo",
+   "uta-siena",
+   "uta-grosseto",
+   "uta-livorno",
+   "uta-pisa",
+   "uta-lucca",
+   "uta-bologna",
+   "uta-ferrara",
+   "uta-ravenna",
+   "uta-forli-cesena",
+   "uta-rimini",
+   "uta-pesaro-e-urbino",
+   "uta-ancona",
+   "uta-macerata",
+   "uta-fermo",
+   "uta-ascoli-piceno",
+   "uta-perugia",
+   "uta-terni",
+   "uta-rieti"
+  ],
+  "polity_id": "regno-di-sardegna",
+  "mode": "de_facto",
+  "start_year": 1860,
+  "end_year": 1861,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Plebisciti risorgimentali"
+   }
+  ],
+  "review": "draft",
+  "note": "Plebisciti del marzo 1860 (Emilia, Toscana) e del 4-5 novembre 1860 (Marche, Umbria)."
+ },
+ {
+  "unit_ids": [
+   "uta-napoli",
+   "uta-caserta",
+   "uta-benevento",
+   "uta-avellino",
+   "uta-salerno",
+   "uta-l-aquila",
+   "uta-teramo",
+   "uta-pescara",
+   "uta-chieti",
+   "uta-campobasso",
+   "uta-isernia",
+   "uta-foggia",
+   "uta-barletta-andria-trani",
+   "uta-bari",
+   "uta-brindisi",
+   "uta-lecce",
+   "uta-taranto",
+   "uta-matera",
+   "uta-potenza",
+   "uta-cosenza",
+   "uta-crotone",
+   "uta-catanzaro",
+   "uta-vibo-valentia",
+   "uta-reggio-calabria",
+   "uta-palermo",
+   "uta-trapani",
+   "uta-agrigento",
+   "uta-caltanissetta",
+   "uta-enna",
+   "uta-catania",
+   "uta-ragusa",
+   "uta-siracusa",
+   "uta-messina"
+  ],
+  "polity_id": "regno-di-sardegna",
+  "mode": "de_facto",
+  "start_year": 1860,
+  "end_year": 1861,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Spedizione dei Mille"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Plebisciti risorgimentali"
+   }
+  ],
+  "review": "draft",
+  "note": "Plebiscito del 21 ottobre 1860; Gaeta (febbraio 1861), la cittadella di Messina e Civitella del Tronto (marzo 1861) restarono borbonici fino all'inizio del 1861."
+ },
+ {
+  "unit_ids": [
+   "uta-napoli",
+   "uta-caserta",
+   "uta-benevento",
+   "uta-avellino",
+   "uta-salerno",
+   "uta-l-aquila",
+   "uta-teramo",
+   "uta-pescara",
+   "uta-chieti",
+   "uta-campobasso",
+   "uta-isernia",
+   "uta-foggia",
+   "uta-barletta-andria-trani",
+   "uta-bari",
+   "uta-brindisi",
+   "uta-lecce",
+   "uta-taranto",
+   "uta-matera",
+   "uta-potenza",
+   "uta-cosenza",
+   "uta-crotone",
+   "uta-catanzaro",
+   "uta-vibo-valentia",
+   "uta-reggio-calabria"
+  ],
+  "polity_id": "regno-di-napoli",
+  "mode": "de_facto",
+  "start_year": 1815,
+  "end_year": 1816,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Congresso di Vienna"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Regno di Napoli"
+   }
+  ],
+  "review": "draft",
+  "note": "Murat fino al maggio 1815, poi Ferdinando IV di Borbone."
+ },
+ {
+  "unit_ids": [
+   "uta-palermo",
+   "uta-trapani",
+   "uta-agrigento",
+   "uta-caltanissetta",
+   "uta-enna",
+   "uta-catania",
+   "uta-ragusa",
+   "uta-siracusa",
+   "uta-messina"
+  ],
+  "polity_id": "regno-di-sicilia",
+  "mode": "de_facto",
+  "start_year": 1815,
+  "end_year": 1816,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Regno di Sicilia"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "unit_ids": [
+   "uta-napoli",
+   "uta-caserta",
+   "uta-benevento",
+   "uta-avellino",
+   "uta-salerno",
+   "uta-l-aquila",
+   "uta-teramo",
+   "uta-pescara",
+   "uta-chieti",
+   "uta-campobasso",
+   "uta-isernia",
+   "uta-foggia",
+   "uta-barletta-andria-trani",
+   "uta-bari",
+   "uta-brindisi",
+   "uta-lecce",
+   "uta-taranto",
+   "uta-matera",
+   "uta-potenza",
+   "uta-cosenza",
+   "uta-crotone",
+   "uta-catanzaro",
+   "uta-vibo-valentia",
+   "uta-reggio-calabria",
+   "uta-messina"
+  ],
+  "polity_id": "regno-delle-due-sicilie",
+  "mode": "de_facto",
+  "start_year": 1816,
+  "end_year": 1860,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Regno delle Due Sicilie"
+   }
+  ],
+  "review": "draft",
+  "note": "Unione formale dei due regni con la legge dell'8 dicembre 1816. La UTA di Benevento include l'enclave pontificia."
+ },
+ {
+  "unit_ids": [
+   "uta-palermo",
+   "uta-trapani",
+   "uta-agrigento",
+   "uta-caltanissetta",
+   "uta-enna",
+   "uta-catania",
+   "uta-ragusa",
+   "uta-siracusa"
+  ],
+  "polity_id": "regno-delle-due-sicilie",
+  "mode": "de_facto",
+  "start_year": 1816,
+  "end_year": 1848,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Regno delle Due Sicilie"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "unit_ids": [
+   "uta-palermo",
+   "uta-trapani",
+   "uta-agrigento",
+   "uta-caltanissetta",
+   "uta-enna",
+   "uta-catania",
+   "uta-ragusa",
+   "uta-siracusa"
+  ],
+  "polity_id": "regno-di-sicilia-1848",
+  "mode": "de_facto",
+  "start_year": 1848,
+  "end_year": 1849,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Rivoluzione siciliana del 1848"
+   }
+  ],
+  "review": "draft",
+  "note": "Insurrezione del 12 gennaio 1848; Messina riconquistata nel settembre 1848, Palermo nel maggio 1849."
+ },
+ {
+  "unit_ids": [
+   "uta-palermo",
+   "uta-trapani",
+   "uta-agrigento",
+   "uta-caltanissetta",
+   "uta-enna",
+   "uta-catania",
+   "uta-ragusa",
+   "uta-siracusa"
+  ],
+  "polity_id": "regno-delle-due-sicilie",
+  "mode": "de_facto",
+  "start_year": 1849,
+  "end_year": 1860,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Regno delle Due Sicilie"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "unit_ids": [
+   "uta-torino",
+   "uta-cuneo",
+   "uta-asti",
+   "uta-alessandria",
+   "uta-vercelli",
+   "uta-biella",
+   "uta-novara",
+   "uta-verbano-cusio-ossola",
+   "uta-aosta",
+   "uta-genova",
+   "uta-savona",
+   "uta-imperia",
+   "uta-la-spezia",
+   "uta-sassari",
+   "uta-nuoro",
+   "uta-olbia-tempio",
+   "uta-oristano",
+   "uta-medio-campidano",
+   "uta-cagliari",
+   "uta-ogliastra",
+   "uta-carbonia-iglesias",
+   "uta-pavia",
+   "uta-varese",
+   "uta-como",
+   "uta-lecco",
+   "uta-sondrio",
+   "uta-milano",
+   "uta-monza-e-brianza",
+   "uta-bergamo",
+   "uta-brescia",
+   "uta-cremona",
+   "uta-lodi",
+   "uta-parma",
+   "uta-piacenza",
+   "uta-modena",
+   "uta-reggio-emilia",
+   "uta-massa-carrara",
+   "uta-firenze",
+   "uta-prato",
+   "uta-pistoia",
+   "uta-arezzo",
+   "uta-siena",
+   "uta-grosseto",
+   "uta-livorno",
+   "uta-pisa",
+   "uta-lucca",
+   "uta-bologna",
+   "uta-ferrara",
+   "uta-ravenna",
+   "uta-forli-cesena",
+   "uta-rimini",
+   "uta-pesaro-e-urbino",
+   "uta-ancona",
+   "uta-macerata",
+   "uta-fermo",
+   "uta-ascoli-piceno",
+   "uta-perugia",
+   "uta-terni",
+   "uta-rieti",
+   "uta-napoli",
+   "uta-caserta",
+   "uta-benevento",
+   "uta-avellino",
+   "uta-salerno",
+   "uta-l-aquila",
+   "uta-teramo",
+   "uta-pescara",
+   "uta-chieti",
+   "uta-campobasso",
+   "uta-isernia",
+   "uta-foggia",
+   "uta-barletta-andria-trani",
+   "uta-bari",
+   "uta-brindisi",
+   "uta-lecce",
+   "uta-taranto",
+   "uta-matera",
+   "uta-potenza",
+   "uta-cosenza",
+   "uta-crotone",
+   "uta-catanzaro",
+   "uta-vibo-valentia",
+   "uta-reggio-calabria",
+   "uta-palermo",
+   "uta-trapani",
+   "uta-agrigento",
+   "uta-caltanissetta",
+   "uta-enna",
+   "uta-catania",
+   "uta-ragusa",
+   "uta-siracusa",
+   "uta-messina"
+  ],
+  "polity_id": "regno-d-italia",
+  "mode": "de_facto",
+  "start_year": 1861,
+  "end_year": 1915,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Proclamazione del Regno d'Italia"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Regno d'Italia (1861-1946)"
+   }
+  ],
+  "review": "draft",
+  "note": "Legge del 17 marzo 1861."
+ },
+ {
+  "unit_ids": [
+   "uta-roma",
+   "uta-viterbo",
+   "uta-frosinone",
+   "uta-latina"
+  ],
+  "polity_id": "regno-d-italia",
+  "mode": "de_facto",
+  "start_year": 1870,
+  "end_year": 1915,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Presa di Roma"
+   }
+  ],
+  "review": "draft",
+  "note": "Breccia di Porta Pia (20 settembre 1870), plebiscito del 2 ottobre 1870."
+ },
+ {
+  "unit_ids": [
+   "uta-vaticano"
+  ],
+  "polity_id": "santa-sede",
+  "mode": "de_facto",
+  "start_year": 1870,
+  "end_year": 1915,
+  "certainty": "disputed",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Questione romana"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Legge delle guarentigie"
+   }
+  ],
+  "review": "draft",
+  "note": "Il papa conservò il possesso dei palazzi vaticani; la sovranità italiana non fu mai riconosciuta dalla Santa Sede fino ai Patti Lateranensi (1929)."
+ },
+ {
+  "unit_ids": [
+   "uta-san-marino"
+  ],
+  "polity_id": "repubblica-di-san-marino",
+  "mode": "de_facto",
+  "start_year": 1815,
+  "end_year": 1915,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "San Marino"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "unit_ids": [
+   "uta-ticino"
+  ],
+  "polity_id": "confederazione-svizzera",
+  "mode": "de_facto",
+  "start_year": 1815,
+  "end_year": 1915,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Canton Ticino"
+   }
+  ],
+  "review": "draft",
+  "note": "Cantone della Confederazione dal 1803."
+ },
+ {
+  "unit_ids": [
+   "uta-malta"
+  ],
+  "polity_id": "regno-unito",
+  "mode": "de_facto",
+  "start_year": 1815,
+  "end_year": 1915,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Storia di Malta"
+   }
+  ],
+  "review": "draft",
+  "note": "Colonia della Corona britannica (riconosciuta dal trattato di Parigi del 1814)."
+ },
+ {
+  "unit_ids": [
+   "uta-parma",
+   "uta-piacenza"
+  ],
+  "polity_id": "ducato-di-parma",
+  "mode": "de_jure",
+  "start_year": 1859,
+  "end_year": 1860,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Trattato di Zurigo"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ducato di Parma e Piacenza"
+   }
+  ],
+  "review": "draft",
+  "note": "Il trattato di Zurigo (10 novembre 1859) prevedeva la restaurazione dei sovrani: fino ai plebisciti del marzo 1860 il titolo giuridico restava loro."
+ },
+ {
+  "unit_ids": [
+   "uta-modena",
+   "uta-reggio-emilia",
+   "uta-massa-carrara"
+  ],
+  "polity_id": "ducato-di-modena",
+  "mode": "de_jure",
+  "start_year": 1859,
+  "end_year": 1860,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Trattato di Zurigo"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ducato di Modena e Reggio"
+   }
+  ],
+  "review": "draft",
+  "note": "Il trattato di Zurigo (10 novembre 1859) prevedeva la restaurazione dei sovrani: fino ai plebisciti del marzo 1860 il titolo giuridico restava loro."
+ },
+ {
+  "unit_ids": [
+   "uta-firenze",
+   "uta-prato",
+   "uta-pistoia",
+   "uta-arezzo",
+   "uta-siena",
+   "uta-grosseto",
+   "uta-livorno",
+   "uta-pisa",
+   "uta-lucca"
+  ],
+  "polity_id": "granducato-di-toscana",
+  "mode": "de_jure",
+  "start_year": 1859,
+  "end_year": 1860,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Trattato di Zurigo"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Granducato di Toscana"
+   }
+  ],
+  "review": "draft",
+  "note": "Il trattato di Zurigo (10 novembre 1859) prevedeva la restaurazione dei sovrani: fino ai plebisciti del marzo 1860 il titolo giuridico restava loro."
+ },
+ {
+  "unit_ids": [
+   "uta-bologna",
+   "uta-ferrara",
+   "uta-ravenna",
+   "uta-forli-cesena",
+   "uta-rimini"
+  ],
+  "polity_id": "stato-della-chiesa",
+  "mode": "de_jure",
+  "start_year": 1859,
+  "end_year": 1860,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Stato Pontificio"
+   }
+  ],
+  "review": "draft",
+  "note": "Il trattato di Zurigo (10 novembre 1859) prevedeva la restaurazione dei sovrani: fino ai plebisciti del marzo 1860 il titolo giuridico restava loro."
+ },
+ {
+  "unit_ids": [
+   "uta-napoli",
+   "uta-caserta",
+   "uta-benevento",
+   "uta-avellino",
+   "uta-salerno",
+   "uta-l-aquila",
+   "uta-teramo",
+   "uta-pescara",
+   "uta-chieti",
+   "uta-campobasso",
+   "uta-isernia",
+   "uta-foggia",
+   "uta-barletta-andria-trani",
+   "uta-bari",
+   "uta-brindisi",
+   "uta-lecce",
+   "uta-taranto",
+   "uta-matera",
+   "uta-potenza",
+   "uta-cosenza",
+   "uta-crotone",
+   "uta-catanzaro",
+   "uta-vibo-valentia",
+   "uta-reggio-calabria",
+   "uta-palermo",
+   "uta-trapani",
+   "uta-agrigento",
+   "uta-caltanissetta",
+   "uta-enna",
+   "uta-catania",
+   "uta-ragusa",
+   "uta-siracusa",
+   "uta-messina"
+  ],
+  "polity_id": "regno-delle-due-sicilie",
+  "mode": "de_jure",
+  "start_year": 1860,
+  "end_year": 1861,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Regno delle Due Sicilie"
+   },
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Assedio di Gaeta (1860-1861)"
+   }
+  ],
+  "review": "draft",
+  "note": "Francesco II non abdicò; la capitolazione di Gaeta è del 13 febbraio 1861."
+ },
+ {
+  "unit_ids": [
+   "uta-vaticano"
+  ],
+  "polity_id": "regno-d-italia",
+  "mode": "de_jure",
+  "start_year": 1870,
+  "end_year": 1915,
+  "certainty": "disputed",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Legge delle guarentigie"
+   }
+  ],
+  "review": "draft",
+  "note": "Per la legge italiana (1871) i palazzi vaticani erano in territorio italiano, con garanzie di extraterritorialità di fatto."
+ },
+ {
+  "unit_ids": [
+   "uta-bologna",
+   "uta-ferrara",
+   "uta-ravenna",
+   "uta-forli-cesena",
+   "uta-rimini",
+   "uta-pesaro-e-urbino",
+   "uta-ancona",
+   "uta-macerata",
+   "uta-fermo",
+   "uta-ascoli-piceno",
+   "uta-perugia",
+   "uta-terni",
+   "uta-rieti"
+  ],
+  "polity_id": "stato-della-chiesa",
+  "mode": "claim",
+  "start_year": 1860,
+  "end_year": 1870,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Questione romana"
+   }
+  ],
+  "review": "draft",
+  "note": "Pio IX non riconobbe le annessioni del 1859-1860."
+ },
+ {
+  "unit_ids": [
+   "uta-bologna",
+   "uta-ferrara",
+   "uta-ravenna",
+   "uta-forli-cesena",
+   "uta-rimini",
+   "uta-pesaro-e-urbino",
+   "uta-ancona",
+   "uta-macerata",
+   "uta-fermo",
+   "uta-ascoli-piceno",
+   "uta-perugia",
+   "uta-terni",
+   "uta-rieti",
+   "uta-roma",
+   "uta-viterbo",
+   "uta-frosinone",
+   "uta-latina"
+  ],
+  "polity_id": "santa-sede",
+  "mode": "claim",
+  "start_year": 1870,
+  "end_year": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Questione romana"
+   }
+  ],
+  "review": "draft",
+  "note": "La Santa Sede non riconobbe la perdita dello Stato pontificio fino ai Patti Lateranensi (1929)."
+ }
+]

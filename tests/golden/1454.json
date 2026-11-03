@@ -1,0 +1,68 @@
+{
+ "year": 1454,
+ "reviewed_by": "draft (da revisionare)",
+ "cases": [
+  {
+   "place": "Milano",
+   "lon": 9.19,
+   "lat": 45.46,
+   "expect": "ducato-di-milano",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Ducato di Milano"
+   }
+  },
+  {
+   "place": "Firenze",
+   "lon": 11.25,
+   "lat": 43.77,
+   "expect": "repubblica-di-firenze",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Repubblica di Firenze"
+   }
+  },
+  {
+   "place": "Roma",
+   "lon": 12.5,
+   "lat": 41.9,
+   "expect": "stato-della-chiesa",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Stato Pontificio"
+   }
+  },
+  {
+   "place": "Padova",
+   "lon": 11.88,
+   "lat": 45.41,
+   "expect": "repubblica-di-venezia",
+   "note": "Veneziana dal 1405.",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Repubblica di Venezia"
+   }
+  },
+  {
+   "place": "Napoli",
+   "lon": 14.3,
+   "lat": 40.9,
+   "expect": "corona-d-aragona",
+   "note": "Alfonso V re d'Aragona e di Napoli: Cliopatria assegna il regno alla Corona d'Aragona tra il 1450 e il 1458.",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Alfonso V d'Aragona"
+   }
+  },
+  {
+   "place": "Palermo",
+   "lon": 13.3,
+   "lat": 38.05,
+   "expect": "corona-d-aragona",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Regno di Sicilia"
+   }
+  }
+ ]
+}

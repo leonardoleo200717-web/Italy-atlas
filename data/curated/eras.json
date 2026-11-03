@@ -1,0 +1,23 @@
+[
+  { "id": "preromani", "n": 1, "name": "Popoli preromani", "start_year": -899, "end_year": -508, "weight": 1.0, "certainty": "medium", "sources": [{ "id": "src-requisiti", "loc": "§10.1 n. 1" }], "note": "c. 900 – 509 a.C.; inizio convenzionale" },
+  { "id": "roma-repubblicana", "n": 2, "name": "Roma repubblicana", "start_year": -508, "end_year": -26, "weight": 1.3, "certainty": "medium", "sources": [{ "id": "src-requisiti", "loc": "§10.1 n. 2" }], "note": "509 – 27 a.C." },
+  { "id": "alto-impero", "n": 3, "name": "Alto e medio Impero", "start_year": -26, "end_year": 284, "weight": 0.9, "certainty": "high", "sources": [{ "id": "src-requisiti", "loc": "§10.1 n. 3" }], "note": "27 a.C. – 284" },
+  { "id": "tardo-antico", "n": 4, "name": "Tardo antico", "start_year": 284, "end_year": 476, "weight": 0.7, "certainty": "high", "sources": [{ "id": "src-requisiti", "loc": "§10.1 n. 4" }] },
+  { "id": "ostrogoti", "n": 5, "name": "Odoacre e Ostrogoti", "start_year": 476, "end_year": 553, "weight": 0.5, "certainty": "high", "sources": [{ "id": "src-requisiti", "loc": "§10.1 n. 5" }] },
+  { "id": "bizantini", "n": 6, "name": "Guerra gotica e Bisanzio", "start_year": 535, "end_year": 568, "weight": 0.4, "certainty": "medium", "sources": [{ "id": "src-requisiti", "loc": "§10.1 n. 6" }], "note": "Si sovrappone all'epoca 5; presenza bizantina in Italia fino al 1071" },
+  { "id": "longobardi", "n": 7, "name": "Longobardi", "start_year": 568, "end_year": 774, "weight": 0.8, "certainty": "high", "sources": [{ "id": "src-requisiti", "loc": "§10.1 n. 7" }] },
+  { "id": "carolingi", "n": 8, "name": "Carolingi e «re nazionali»", "start_year": 774, "end_year": 962, "weight": 0.8, "certainty": "high", "sources": [{ "id": "src-requisiti", "loc": "§10.1 n. 8" }] },
+  { "id": "ottoni-normanni", "n": 9, "name": "Ottoni/Salici e Normanni", "start_year": 962, "end_year": 1130, "weight": 0.9, "certainty": "high", "sources": [{ "id": "src-requisiti", "loc": "§10.1 n. 9" }] },
+  { "id": "eta-comunale", "n": 10, "name": "Età comunale e Regno normanno-svevo", "start_year": 1130, "end_year": 1266, "weight": 1.1, "certainty": "high", "sources": [{ "id": "src-requisiti", "loc": "§10.1 n. 10" }] },
+  { "id": "signorie", "n": 11, "name": "Angioini, Aragonesi, signorie", "start_year": 1266, "end_year": 1454, "weight": 1.4, "certainty": "high", "sources": [{ "id": "src-requisiti", "loc": "§10.1 n. 11" }] },
+  { "id": "lodi", "n": 12, "name": "Equilibrio di Lodi", "start_year": 1454, "end_year": 1494, "weight": 0.7, "certainty": "high", "sources": [{ "id": "src-requisiti", "loc": "§10.1 n. 12" }] },
+  { "id": "guerre-italia", "n": 13, "name": "Guerre d'Italia", "start_year": 1494, "end_year": 1559, "weight": 0.9, "certainty": "high", "sources": [{ "id": "src-requisiti", "loc": "§10.1 n. 13" }] },
+  { "id": "spagnoli", "n": 14, "name": "Preponderanza spagnola", "start_year": 1559, "end_year": 1713, "weight": 0.8, "certainty": "high", "sources": [{ "id": "src-requisiti", "loc": "§10.1 n. 14" }] },
+  { "id": "settecento", "n": 15, "name": "Settecento austriaco e borbonico", "start_year": 1713, "end_year": 1796, "weight": 0.8, "certainty": "high", "sources": [{ "id": "src-requisiti", "loc": "§10.1 n. 15" }] },
+  { "id": "napoleonica", "n": 16, "name": "Età napoleonica", "start_year": 1796, "end_year": 1815, "weight": 0.8, "certainty": "high", "sources": [{ "id": "src-requisiti", "loc": "§10.1 n. 16" }] },
+  { "id": "restaurazione", "n": 17, "name": "Restaurazione", "start_year": 1815, "end_year": 1848, "weight": 0.7, "certainty": "high", "sources": [{ "id": "src-requisiti", "loc": "§10.1 n. 17" }] },
+  { "id": "risorgimento", "n": 18, "name": "Risorgimento", "start_year": 1848, "end_year": 1870, "weight": 0.9, "certainty": "high", "sources": [{ "id": "src-requisiti", "loc": "§10.1 n. 18" }] },
+  { "id": "italia-liberale", "n": 19, "name": "Italia liberale e colonie", "start_year": 1870, "end_year": 1922, "weight": 0.8, "certainty": "high", "sources": [{ "id": "src-requisiti", "loc": "§10.1 n. 19" }] },
+  { "id": "fascismo", "n": 20, "name": "Fascismo e guerra", "start_year": 1922, "end_year": 1946, "weight": 0.7, "certainty": "high", "sources": [{ "id": "src-requisiti", "loc": "§10.1 n. 20" }] },
+  { "id": "repubblica", "n": 21, "name": "Repubblica", "start_year": 1946, "end_year": 2027, "weight": 0.8, "certainty": "high", "sources": [{ "id": "src-requisiti", "loc": "§10.1 n. 21" }], "note": "1946 – oggi" }
+]

@@ -1,0 +1,1090 @@
+[
+ {
+  "person_id": "p-augusto",
+  "polity_id": "impero-romano",
+  "title": "Imperatore (princeps)",
+  "start_year": -26,
+  "end_year": 14,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Augusto"
+   }
+  ],
+  "review": "draft",
+  "note": "Titolo di Augustus dal 16 gennaio 27 a.C."
+ },
+ {
+  "person_id": "p-tiberio",
+  "polity_id": "impero-romano",
+  "title": "Imperatore",
+  "start_year": 14,
+  "end_year": 37,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Tiberio"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-onorio",
+  "polity_id": "impero-romano-d-occidente",
+  "title": "Imperatore d'Occidente",
+  "start_year": 395,
+  "end_year": 423,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Onorio (imperatore)"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-teodorico",
+  "polity_id": "regno-ostrogoto",
+  "title": "Re degli Ostrogoti e d'Italia",
+  "start_year": 493,
+  "end_year": 526,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Teodorico il Grande"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-giustiniano",
+  "polity_id": "impero-romano-d-oriente",
+  "title": "Imperatore d'Oriente",
+  "start_year": 527,
+  "end_year": 565,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Giustiniano I"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-maurizio",
+  "polity_id": "impero-romano-d-oriente",
+  "title": "Imperatore d'Oriente",
+  "start_year": 582,
+  "end_year": 602,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Maurizio (imperatore)"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-agilulfo",
+  "polity_id": "regno-longobardo",
+  "title": "Re dei Longobardi",
+  "start_year": 591,
+  "end_year": 616,
+  "legitimacy": "both",
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Agilulfo"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-carlo-magno",
+  "polity_id": "impero-carolingio",
+  "title": "Re dei Franchi; imperatore dal 25 dicembre 800",
+  "start_year": 768,
+  "end_year": 814,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Carlo Magno"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-carlo-magno",
+  "polity_id": "regno-d-italia-medievale",
+  "title": "Re dei Longobardi (rex Langobardorum)",
+  "start_year": 774,
+  "end_year": 814,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Carlo Magno"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-pipino-d-italia",
+  "polity_id": "regno-d-italia-medievale",
+  "title": "Re d'Italia (subordinato a Carlo Magno)",
+  "start_year": 781,
+  "end_year": 810,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Pipino d'Italia"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-ottone-iii",
+  "polity_id": "sacro-romano-impero",
+  "title": "Imperatore (re di Germania dal 983)",
+  "start_year": 996,
+  "end_year": 1002,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ottone III di Sassonia"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-federico-ii",
+  "polity_id": "regno-di-sicilia",
+  "title": "Re di Sicilia",
+  "start_year": 1198,
+  "end_year": 1250,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Federico II di Svevia"
+   }
+  ],
+  "review": "draft",
+  "note": "Sotto tutela fino al 1208."
+ },
+ {
+  "person_id": "p-federico-ii",
+  "polity_id": "sacro-romano-impero",
+  "title": "Imperatore",
+  "start_year": 1220,
+  "end_year": 1250,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Federico II di Svevia"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-alfonso-v",
+  "polity_id": "corona-d-aragona",
+  "title": "Re d'Aragona",
+  "start_year": 1416,
+  "end_year": 1458,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Alfonso V d'Aragona"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-alfonso-v",
+  "polity_id": "regno-di-napoli",
+  "title": "Re di Napoli (Alfonso I)",
+  "start_year": 1442,
+  "end_year": 1458,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Alfonso V d'Aragona"
+   }
+  ],
+  "review": "draft",
+  "note": "Conquista di Napoli nel giugno 1442."
+ },
+ {
+  "person_id": "p-ferrante",
+  "polity_id": "regno-di-napoli",
+  "title": "Re di Napoli (Ferdinando I)",
+  "start_year": 1458,
+  "end_year": 1494,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ferdinando I di Napoli"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-francesco-sforza",
+  "polity_id": "ducato-di-milano",
+  "title": "Duca di Milano",
+  "start_year": 1450,
+  "end_year": 1466,
+  "legitimacy": "de_facto",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Francesco Sforza"
+   }
+  ],
+  "review": "draft",
+  "note": "Acclamato nel 1450; non ottenne mai l'investitura imperiale."
+ },
+ {
+  "person_id": "p-francesco-foscari",
+  "polity_id": "repubblica-di-venezia",
+  "title": "Doge",
+  "start_year": 1423,
+  "end_year": 1457,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Francesco Foscari"
+   }
+  ],
+  "review": "draft",
+  "note": "Deposto nell'ottobre 1457."
+ },
+ {
+  "person_id": "p-niccolo-v",
+  "polity_id": "stato-della-chiesa",
+  "title": "Papa",
+  "start_year": 1447,
+  "end_year": 1455,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Papa Niccolò V"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-cosimo-il-vecchio",
+  "polity_id": "repubblica-di-firenze",
+  "title": "Signore di fatto della Repubblica",
+  "start_year": 1434,
+  "end_year": 1464,
+  "legitimacy": "de_facto",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Cosimo de' Medici"
+   }
+  ],
+  "review": "draft",
+  "note": "Nessuna carica sovrana: egemonia attraverso le magistrature repubblicane."
+ },
+ {
+  "person_id": "p-lorenzo-il-magnifico",
+  "polity_id": "repubblica-di-firenze",
+  "title": "Signore di fatto della Repubblica",
+  "start_year": 1469,
+  "end_year": 1492,
+  "legitimacy": "de_facto",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Lorenzo de' Medici"
+   }
+  ],
+  "review": "draft",
+  "note": "Firenze resta de iure una repubblica."
+ },
+ {
+  "person_id": "p-carlo-v",
+  "polity_id": "impero-spagnolo",
+  "title": "Re di Spagna (Carlo I)",
+  "start_year": 1516,
+  "end_year": 1556,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Carlo V d'Asburgo"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-carlo-v",
+  "polity_id": "sacro-romano-impero",
+  "title": "Imperatore (incoronato a Bologna nel 1530)",
+  "start_year": 1519,
+  "end_year": 1556,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Carlo V d'Asburgo"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-filippo-ii",
+  "polity_id": "impero-spagnolo",
+  "title": "Re di Spagna",
+  "start_year": 1556,
+  "end_year": 1598,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Filippo II di Spagna"
+   }
+  ],
+  "review": "draft",
+  "note": "Re di Napoli dal 1554, duca di Milano dal 1540."
+ },
+ {
+  "person_id": "p-vittorio-emanuele-i",
+  "polity_id": "regno-di-sardegna",
+  "title": "Re di Sardegna",
+  "start_year": 1802,
+  "end_year": 1821,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Vittorio Emanuele I di Savoia"
+   }
+  ],
+  "review": "draft",
+  "note": "Abdicò dopo i moti del 1821."
+ },
+ {
+  "person_id": "p-carlo-felice",
+  "polity_id": "regno-di-sardegna",
+  "title": "Re di Sardegna",
+  "start_year": 1821,
+  "end_year": 1831,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Carlo Felice di Savoia"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-carlo-alberto",
+  "polity_id": "regno-di-sardegna",
+  "title": "Re di Sardegna",
+  "start_year": 1831,
+  "end_year": 1849,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Carlo Alberto di Savoia"
+   }
+  ],
+  "review": "draft",
+  "note": "Abdicò dopo Novara (23 marzo 1849)."
+ },
+ {
+  "person_id": "p-vittorio-emanuele-ii",
+  "polity_id": "regno-di-sardegna",
+  "title": "Re di Sardegna",
+  "start_year": 1849,
+  "end_year": 1861,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Vittorio Emanuele II di Savoia"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-vittorio-emanuele-ii",
+  "polity_id": "regno-d-italia",
+  "title": "Re d'Italia",
+  "start_year": 1861,
+  "end_year": 1878,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Vittorio Emanuele II di Savoia"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-umberto-i",
+  "polity_id": "regno-d-italia",
+  "title": "Re d'Italia",
+  "start_year": 1878,
+  "end_year": 1900,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Umberto I di Savoia"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-vittorio-emanuele-iii",
+  "polity_id": "regno-d-italia",
+  "title": "Re d'Italia",
+  "start_year": 1900,
+  "end_year": 1946,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Vittorio Emanuele III di Savoia"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-pio-vii",
+  "polity_id": "stato-della-chiesa",
+  "title": "Papa",
+  "start_year": 1800,
+  "end_year": 1823,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Papa Pio VII"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-leone-xii",
+  "polity_id": "stato-della-chiesa",
+  "title": "Papa",
+  "start_year": 1823,
+  "end_year": 1829,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Papa Leone XII"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-pio-viii",
+  "polity_id": "stato-della-chiesa",
+  "title": "Papa",
+  "start_year": 1829,
+  "end_year": 1830,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Papa Pio VIII"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-gregorio-xvi",
+  "polity_id": "stato-della-chiesa",
+  "title": "Papa",
+  "start_year": 1831,
+  "end_year": 1846,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Papa Gregorio XVI"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-pio-ix",
+  "polity_id": "stato-della-chiesa",
+  "title": "Papa",
+  "start_year": 1846,
+  "end_year": 1870,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Papa Pio IX"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-pio-ix",
+  "polity_id": "santa-sede",
+  "title": "Papa",
+  "start_year": 1870,
+  "end_year": 1878,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Papa Pio IX"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-leone-xiii",
+  "polity_id": "santa-sede",
+  "title": "Papa",
+  "start_year": 1878,
+  "end_year": 1903,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Papa Leone XIII"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-pio-x",
+  "polity_id": "santa-sede",
+  "title": "Papa",
+  "start_year": 1903,
+  "end_year": 1914,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Papa Pio X"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-benedetto-xv",
+  "polity_id": "santa-sede",
+  "title": "Papa",
+  "start_year": 1914,
+  "end_year": 1922,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Papa Benedetto XV"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-francesco-i-austria",
+  "polity_id": "impero-austriaco",
+  "title": "Imperatore d'Austria",
+  "start_year": 1804,
+  "end_year": 1835,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Francesco II d'Asburgo-Lorena"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-francesco-i-austria",
+  "polity_id": "regno-lombardo-veneto",
+  "title": "Re del Lombardo-Veneto",
+  "start_year": 1815,
+  "end_year": 1835,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Francesco II d'Asburgo-Lorena"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-ferdinando-i-austria",
+  "polity_id": "impero-austriaco",
+  "title": "Imperatore d'Austria",
+  "start_year": 1835,
+  "end_year": 1848,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ferdinando I d'Austria"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-ferdinando-i-austria",
+  "polity_id": "regno-lombardo-veneto",
+  "title": "Re del Lombardo-Veneto",
+  "start_year": 1835,
+  "end_year": 1848,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ferdinando I d'Austria"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-francesco-giuseppe",
+  "polity_id": "impero-austriaco",
+  "title": "Imperatore d'Austria",
+  "start_year": 1848,
+  "end_year": 1867,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Francesco Giuseppe d'Austria"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-francesco-giuseppe",
+  "polity_id": "regno-lombardo-veneto",
+  "title": "Re del Lombardo-Veneto",
+  "start_year": 1848,
+  "end_year": 1866,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Francesco Giuseppe d'Austria"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-francesco-giuseppe",
+  "polity_id": "austria-ungheria",
+  "title": "Imperatore d'Austria e re d'Ungheria",
+  "start_year": 1867,
+  "end_year": 1916,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Francesco Giuseppe d'Austria"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-maria-luigia",
+  "polity_id": "ducato-di-parma",
+  "title": "Duchessa di Parma, Piacenza e Guastalla",
+  "start_year": 1815,
+  "end_year": 1847,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Maria Luigia d'Asburgo-Lorena"
+   }
+  ],
+  "review": "draft",
+  "note": "Ducato assegnato nel 1814 (trattato di Fontainebleau), confermato a Vienna."
+ },
+ {
+  "person_id": "p-carlo-ii-parma",
+  "polity_id": "ducato-di-lucca",
+  "title": "Duca di Lucca (Carlo Ludovico)",
+  "start_year": 1824,
+  "end_year": 1847,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Carlo II di Parma"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-carlo-ii-parma",
+  "polity_id": "ducato-di-parma",
+  "title": "Duca di Parma",
+  "start_year": 1847,
+  "end_year": 1849,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Carlo II di Parma"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-carlo-iii-parma",
+  "polity_id": "ducato-di-parma",
+  "title": "Duca di Parma",
+  "start_year": 1849,
+  "end_year": 1854,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Carlo III di Parma"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-roberto-i-parma",
+  "polity_id": "ducato-di-parma",
+  "title": "Duca di Parma (reggenza della madre Luisa Maria)",
+  "start_year": 1854,
+  "end_year": 1859,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Roberto I di Parma"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-maria-luisa-lucca",
+  "polity_id": "ducato-di-lucca",
+  "title": "Duchessa di Lucca",
+  "start_year": 1817,
+  "end_year": 1824,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Maria Luisa di Borbone-Spagna"
+   }
+  ],
+  "review": "draft",
+  "note": "Prese possesso del ducato nel dicembre 1817."
+ },
+ {
+  "person_id": "p-francesco-iv-modena",
+  "polity_id": "ducato-di-modena",
+  "title": "Duca di Modena e Reggio",
+  "start_year": 1814,
+  "end_year": 1846,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Francesco IV di Modena"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-francesco-v-modena",
+  "polity_id": "ducato-di-modena",
+  "title": "Duca di Modena e Reggio",
+  "start_year": 1846,
+  "end_year": 1859,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Francesco V di Modena"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-maria-beatrice",
+  "polity_id": "ducato-di-massa-e-carrara",
+  "title": "Duchessa di Massa e principessa di Carrara",
+  "start_year": 1815,
+  "end_year": 1829,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Maria Beatrice d'Este"
+   }
+  ],
+  "review": "draft",
+  "note": "Restaurata nel 1814."
+ },
+ {
+  "person_id": "p-ferdinando-iii-toscana",
+  "polity_id": "granducato-di-toscana",
+  "title": "Granduca di Toscana",
+  "start_year": 1814,
+  "end_year": 1824,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ferdinando III di Toscana"
+   }
+  ],
+  "review": "draft",
+  "note": "Già granduca nel 1790-1801."
+ },
+ {
+  "person_id": "p-leopoldo-ii-toscana",
+  "polity_id": "granducato-di-toscana",
+  "title": "Granduca di Toscana",
+  "start_year": 1824,
+  "end_year": 1859,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Leopoldo II di Toscana"
+   }
+  ],
+  "review": "draft",
+  "note": "Lasciò Firenze il 27 aprile 1859; breve esilio anche nel 1849."
+ },
+ {
+  "person_id": "p-murat",
+  "polity_id": "regno-di-napoli-napoleonico",
+  "title": "Re di Napoli",
+  "start_year": 1808,
+  "end_year": 1815,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Gioacchino Murat"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-ferdinando-i-due-sicilie",
+  "polity_id": "regno-di-napoli",
+  "title": "Re di Napoli (Ferdinando IV)",
+  "start_year": 1815,
+  "end_year": 1816,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ferdinando I delle Due Sicilie"
+   }
+  ],
+  "review": "draft",
+  "note": "Già re dal 1759, con le interruzioni del 1799 e del 1806-1815."
+ },
+ {
+  "person_id": "p-ferdinando-i-due-sicilie",
+  "polity_id": "regno-di-sicilia",
+  "title": "Re di Sicilia (Ferdinando III)",
+  "start_year": 1815,
+  "end_year": 1816,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ferdinando I delle Due Sicilie"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-ferdinando-i-due-sicilie",
+  "polity_id": "regno-delle-due-sicilie",
+  "title": "Re delle Due Sicilie",
+  "start_year": 1816,
+  "end_year": 1825,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ferdinando I delle Due Sicilie"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-francesco-i-due-sicilie",
+  "polity_id": "regno-delle-due-sicilie",
+  "title": "Re delle Due Sicilie",
+  "start_year": 1825,
+  "end_year": 1830,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Francesco I delle Due Sicilie"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-ferdinando-ii-due-sicilie",
+  "polity_id": "regno-delle-due-sicilie",
+  "title": "Re delle Due Sicilie",
+  "start_year": 1830,
+  "end_year": 1859,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ferdinando II delle Due Sicilie"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-francesco-ii-due-sicilie",
+  "polity_id": "regno-delle-due-sicilie",
+  "title": "Re delle Due Sicilie",
+  "start_year": 1859,
+  "end_year": 1861,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Francesco II delle Due Sicilie"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-ruggero-settimo",
+  "polity_id": "regno-di-sicilia-1848",
+  "title": "Presidente del governo del Regno di Sicilia",
+  "start_year": 1848,
+  "end_year": 1849,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ruggero Settimo"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "person_id": "p-daniele-manin",
+  "polity_id": "repubblica-di-san-marco",
+  "title": "Presidente della Repubblica",
+  "start_year": 1848,
+  "end_year": 1849,
+  "legitimacy": "both",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Daniele Manin"
+   }
+  ],
+  "review": "draft"
+ }
+]

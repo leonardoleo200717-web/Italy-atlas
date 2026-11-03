@@ -1,0 +1,48 @@
+{
+ "year": 1870,
+ "reviewed_by": "draft (da revisionare)",
+ "cases": [
+  {
+   "place": "Roma",
+   "lon": 12.5,
+   "lat": 41.9,
+   "expect": "regno-d-italia",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Presa di Roma"
+   }
+  },
+  {
+   "place": "Vaticano",
+   "lon": 12.4535,
+   "lat": 41.9035,
+   "expect": "santa-sede",
+   "note": "Questione romana.",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Questione romana"
+   }
+  },
+  {
+   "place": "Vaticano",
+   "lon": 12.4535,
+   "lat": 41.9035,
+   "expect": "regno-d-italia",
+   "mode": "de_jure",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Legge delle guarentigie"
+   }
+  },
+  {
+   "place": "Trento",
+   "lon": 11.12,
+   "lat": 46.07,
+   "expect": "austria-ungheria",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Austria-Ungheria"
+   }
+  }
+ ]
+}

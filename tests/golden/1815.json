@@ -1,0 +1,137 @@
+{
+ "year": 1815,
+ "reviewed_by": "draft (da revisionare)",
+ "cases": [
+  {
+   "place": "Milano",
+   "lon": 9.19,
+   "lat": 45.46,
+   "expect": "regno-lombardo-veneto",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Regno Lombardo-Veneto"
+   }
+  },
+  {
+   "place": "Venezia",
+   "lon": 12.335,
+   "lat": 45.44,
+   "expect": "regno-lombardo-veneto",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Regno Lombardo-Veneto"
+   }
+  },
+  {
+   "place": "Torino",
+   "lon": 7.67,
+   "lat": 45.07,
+   "expect": "regno-di-sardegna",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Regno di Sardegna (1720-1861)"
+   }
+  },
+  {
+   "place": "Genova",
+   "lon": 8.93,
+   "lat": 44.41,
+   "expect": "regno-di-sardegna",
+   "note": "Ex Repubblica di Genova annessa dal Congresso.",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Congresso di Vienna"
+   }
+  },
+  {
+   "place": "Firenze",
+   "lon": 11.25,
+   "lat": 43.77,
+   "expect": "granducato-di-toscana",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Granducato di Toscana"
+   }
+  },
+  {
+   "place": "Parma",
+   "lon": 10.32,
+   "lat": 44.8,
+   "expect": "ducato-di-parma",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Ducato di Parma e Piacenza"
+   }
+  },
+  {
+   "place": "Modena",
+   "lon": 10.92,
+   "lat": 44.65,
+   "expect": "ducato-di-modena",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Ducato di Modena e Reggio"
+   }
+  },
+  {
+   "place": "Lucca",
+   "lon": 10.5,
+   "lat": 43.84,
+   "expect": "ducato-di-lucca",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Ducato di Lucca"
+   }
+  },
+  {
+   "place": "Roma",
+   "lon": 12.5,
+   "lat": 41.9,
+   "expect": "stato-della-chiesa",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Stato Pontificio"
+   }
+  },
+  {
+   "place": "Bologna",
+   "lon": 11.34,
+   "lat": 44.5,
+   "expect": "stato-della-chiesa",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Legazioni"
+   }
+  },
+  {
+   "place": "Napoli",
+   "lon": 14.25,
+   "lat": 40.85,
+   "expect": "regno-di-napoli",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Regno di Napoli"
+   }
+  },
+  {
+   "place": "Palermo",
+   "lon": 13.35,
+   "lat": 38.12,
+   "expect": "regno-di-sicilia",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Regno di Sicilia"
+   }
+  },
+  {
+   "place": "Trento",
+   "lon": 11.12,
+   "lat": 46.07,
+   "expect": "impero-austriaco",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Contea del Tirolo"
+   }
+  }
+ ]
+}

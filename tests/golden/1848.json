@@ -1,0 +1,47 @@
+{
+ "year": 1848,
+ "reviewed_by": "draft (da revisionare)",
+ "cases": [
+  {
+   "place": "Venezia",
+   "lon": 12.335,
+   "lat": 45.44,
+   "expect": "repubblica-di-san-marco",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Repubblica di San Marco"
+   }
+  },
+  {
+   "place": "Palermo",
+   "lon": 13.35,
+   "lat": 38.12,
+   "expect": "regno-di-sicilia-1848",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Rivoluzione siciliana del 1848"
+   }
+  },
+  {
+   "place": "Messina",
+   "lon": 15.5,
+   "lat": 38.18,
+   "expect": "regno-delle-due-sicilie",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Rivoluzione siciliana del 1848"
+   }
+  },
+  {
+   "place": "Milano",
+   "lon": 9.19,
+   "lat": 45.46,
+   "expect": "regno-lombardo-veneto",
+   "note": "Governo provvisorio solo da marzo ad agosto 1848.",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Cinque giornate di Milano"
+   }
+  }
+ ]
+}

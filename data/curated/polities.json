@@ -1,0 +1,763 @@
+[
+ {
+  "id": "regno-di-sardegna",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Regno di Sardegna"
+   }
+  ],
+  "kind": "kingdom",
+  "family": "savoia-italia",
+  "start_year": 1720,
+  "end_year": 1861,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Regno di Sardegna (1720-1861)"
+   }
+  ],
+  "review": "draft",
+  "government": [
+   {
+    "type": "monarchia assoluta",
+    "start_year": 1720,
+    "end_year": 1848
+   },
+   {
+    "type": "monarchia costituzionale (Statuto Albertino)",
+    "start_year": 1848,
+    "end_year": 1861
+   }
+  ],
+  "capitals": [
+   {
+    "place_id": "torino",
+    "start_year": 1720,
+    "end_year": 1861
+   }
+  ],
+  "successors": [
+   "regno-d-italia"
+  ],
+  "note": "Stati sabaudi: Piemonte, Savoia, Nizza, Sardegna e, dal 1815, Liguria."
+ },
+ {
+  "id": "regno-d-italia",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Regno d'Italia"
+   }
+  ],
+  "kind": "kingdom",
+  "family": "savoia-italia",
+  "start_year": 1861,
+  "end_year": 1946,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Regno d'Italia (1861-1946)"
+   }
+  ],
+  "review": "draft",
+  "government": [
+   {
+    "type": "monarchia costituzionale (Statuto Albertino)",
+    "start_year": 1861,
+    "end_year": 1946
+   }
+  ],
+  "capitals": [
+   {
+    "place_id": "torino",
+    "start_year": 1861,
+    "end_year": 1865
+   },
+   {
+    "place_id": "firenze",
+    "start_year": 1865,
+    "end_year": 1871
+   },
+   {
+    "place_id": "roma",
+    "start_year": 1871,
+    "end_year": 1946
+   }
+  ],
+  "predecessors": [
+   "regno-di-sardegna"
+  ],
+  "successors": [
+   "repubblica-italiana"
+  ]
+ },
+ {
+  "id": "regno-lombardo-veneto",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Regno Lombardo-Veneto"
+   },
+   {
+    "lang": "de",
+    "name": "Königreich Lombardo-Venetien"
+   }
+  ],
+  "kind": "kingdom",
+  "family": "austria",
+  "start_year": 1815,
+  "end_year": 1866,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Regno Lombardo-Veneto"
+   }
+  ],
+  "review": "draft",
+  "government": [
+   {
+    "type": "regno della Corona asburgica (viceré)",
+    "start_year": 1815,
+    "end_year": 1866
+   }
+  ],
+  "capitals": [
+   {
+    "place_id": "milano",
+    "start_year": 1815,
+    "end_year": 1859
+   },
+   {
+    "place_id": "venezia",
+    "start_year": 1815,
+    "end_year": 1866
+   }
+  ],
+  "successors": [
+   "regno-di-sardegna",
+   "regno-d-italia"
+  ],
+  "note": "Due capitali: Milano e Venezia."
+ },
+ {
+  "id": "impero-austriaco",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Impero austriaco"
+   },
+   {
+    "lang": "de",
+    "name": "Kaisertum Österreich"
+   }
+  ],
+  "kind": "empire",
+  "family": "austria",
+  "start_year": 1804,
+  "end_year": 1867,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Impero austriaco"
+   }
+  ],
+  "review": "draft",
+  "capitals": [
+   {
+    "place_id": "vienna",
+    "start_year": 1804,
+    "end_year": 1867
+   }
+  ],
+  "successors": [
+   "austria-ungheria"
+  ]
+ },
+ {
+  "id": "austria-ungheria",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Austria-Ungheria"
+   }
+  ],
+  "kind": "empire",
+  "family": "austria",
+  "start_year": 1867,
+  "end_year": 1918,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Austria-Ungheria"
+   }
+  ],
+  "review": "draft",
+  "capitals": [
+   {
+    "place_id": "vienna",
+    "start_year": 1867,
+    "end_year": 1918
+   }
+  ],
+  "predecessors": [
+   "impero-austriaco"
+  ]
+ },
+ {
+  "id": "ducato-di-parma",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Ducato di Parma e Piacenza"
+   }
+  ],
+  "kind": "duchy",
+  "family": "indipendenti",
+  "start_year": 1545,
+  "end_year": 1860,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ducato di Parma e Piacenza"
+   }
+  ],
+  "review": "draft",
+  "capitals": [
+   {
+    "place_id": "parma",
+    "start_year": 1545,
+    "end_year": 1860
+   }
+  ],
+  "note": "Interrotto dal dominio francese (1802-1814). Fine formale con le annessioni del marzo 1860 (de facto nel 1859).",
+  "successors": [
+   "province-unite-centro-italia"
+  ]
+ },
+ {
+  "id": "ducato-di-modena",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Ducato di Modena e Reggio"
+   }
+  ],
+  "kind": "duchy",
+  "family": "austria",
+  "start_year": 1452,
+  "end_year": 1860,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ducato di Modena e Reggio"
+   }
+  ],
+  "review": "draft",
+  "tint_offset": 2,
+  "capitals": [
+   {
+    "place_id": "modena",
+    "start_year": 1598,
+    "end_year": 1860
+   }
+  ],
+  "note": "Dal 1814 agli Asburgo-Este (secondogenitura: tinta chiara come scelta cartografica). Interrotto dal 1796 al 1814. Fine formale con le annessioni del marzo 1860 (de facto nel 1859).",
+  "successors": [
+   "province-unite-centro-italia"
+  ]
+ },
+ {
+  "id": "ducato-di-massa-e-carrara",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Ducato di Massa e Carrara"
+   }
+  ],
+  "kind": "duchy",
+  "family": "indipendenti",
+  "start_year": 1664,
+  "end_year": 1829,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ducato di Massa e Carrara"
+   }
+  ],
+  "review": "draft",
+  "capitals": [
+   {
+    "place_id": "massa",
+    "start_year": 1664,
+    "end_year": 1829
+   }
+  ],
+  "successors": [
+   "ducato-di-modena"
+  ],
+  "note": "Data d'inizio del titolo ducale da verificare."
+ },
+ {
+  "id": "ducato-di-lucca",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Ducato di Lucca"
+   }
+  ],
+  "kind": "duchy",
+  "family": "indipendenti",
+  "start_year": 1815,
+  "end_year": 1847,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ducato di Lucca"
+   }
+  ],
+  "review": "draft",
+  "capitals": [
+   {
+    "place_id": "lucca",
+    "start_year": 1815,
+    "end_year": 1847
+   }
+  ],
+  "successors": [
+   "granducato-di-toscana"
+  ]
+ },
+ {
+  "id": "granducato-di-toscana",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Granducato di Toscana"
+   }
+  ],
+  "kind": "state",
+  "family": "austria",
+  "start_year": 1569,
+  "end_year": 1860,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Granducato di Toscana"
+   }
+  ],
+  "review": "draft",
+  "tint_offset": 2,
+  "capitals": [
+   {
+    "place_id": "firenze",
+    "start_year": 1569,
+    "end_year": 1860
+   }
+  ],
+  "government": [
+   {
+    "type": "granducato mediceo",
+    "start_year": 1569,
+    "end_year": 1737
+   },
+   {
+    "type": "granducato lorenese",
+    "start_year": 1737,
+    "end_year": 1859
+   }
+  ],
+  "note": "Asburgo-Lorena dal 1737 (secondogenitura: tinta chiara come scelta cartografica); Regno d'Etruria 1801-1807. Fine formale con le annessioni del marzo 1860 (de facto nel 1859).",
+  "successors": [
+   "province-unite-centro-italia"
+  ]
+ },
+ {
+  "id": "stato-della-chiesa",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Stato della Chiesa"
+   },
+   {
+    "lang": "la",
+    "name": "Status Ecclesiasticus"
+   }
+  ],
+  "kind": "state",
+  "family": "papato",
+  "start_year": 756,
+  "end_year": 1870,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Stato Pontificio"
+   }
+  ],
+  "review": "draft",
+  "capitals": [
+   {
+    "place_id": "roma",
+    "start_year": 756,
+    "end_year": 1870
+   }
+  ],
+  "government": [
+   {
+    "type": "monarchia elettiva teocratica",
+    "start_year": 756,
+    "end_year": 1870
+   }
+  ],
+  "note": "Data d'inizio convenzionale (donazione di Pipino, 756); interruzioni nel 1798-1799, 1809-1814 e 1849.",
+  "successors": [
+   "regno-d-italia",
+   "santa-sede"
+  ]
+ },
+ {
+  "id": "santa-sede",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Santa Sede (Questione romana)"
+   }
+  ],
+  "kind": "other",
+  "family": "papato",
+  "start_year": 1870,
+  "end_year": 1929,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Questione romana"
+   }
+  ],
+  "review": "draft",
+  "tint_offset": 1,
+  "note": "Dopo la presa di Roma il papa, «prigioniero in Vaticano», non riconobbe il Regno d'Italia fino ai Patti Lateranensi (1929).",
+  "predecessors": [
+   "stato-della-chiesa"
+  ]
+ },
+ {
+  "id": "regno-di-napoli",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Regno di Napoli"
+   }
+  ],
+  "kind": "kingdom",
+  "family": "sicilia-napoli",
+  "start_year": 1282,
+  "end_year": 1816,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Regno di Napoli"
+   }
+  ],
+  "review": "draft",
+  "capitals": [
+   {
+    "place_id": "napoli",
+    "start_year": 1282,
+    "end_year": 1816
+   }
+  ],
+  "successors": [
+   "regno-delle-due-sicilie"
+  ],
+  "note": "Nome storiografico del regno peninsulare dopo i Vespri (1282); feudo papale."
+ },
+ {
+  "id": "regno-di-sicilia",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Regno di Sicilia"
+   }
+  ],
+  "kind": "kingdom",
+  "family": "sicilia-napoli",
+  "start_year": 1130,
+  "end_year": 1816,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Regno di Sicilia"
+   }
+  ],
+  "review": "draft",
+  "capitals": [
+   {
+    "place_id": "palermo",
+    "start_year": 1130,
+    "end_year": 1816
+   }
+  ],
+  "successors": [
+   "regno-delle-due-sicilie"
+  ],
+  "note": "Dopo il 1282 limitato all'isola."
+ },
+ {
+  "id": "regno-delle-due-sicilie",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Regno delle Due Sicilie"
+   }
+  ],
+  "kind": "kingdom",
+  "family": "sicilia-napoli",
+  "start_year": 1816,
+  "end_year": 1861,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Regno delle Due Sicilie"
+   }
+  ],
+  "review": "draft",
+  "capitals": [
+   {
+    "place_id": "napoli",
+    "start_year": 1816,
+    "end_year": 1861
+   }
+  ],
+  "predecessors": [
+   "regno-di-napoli",
+   "regno-di-sicilia"
+  ],
+  "successors": [
+   "regno-d-italia"
+  ]
+ },
+ {
+  "id": "regno-di-sicilia-1848",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Regno di Sicilia (rivoluzione del 1848)"
+   }
+  ],
+  "kind": "kingdom",
+  "family": "sicilia-napoli",
+  "start_year": 1848,
+  "end_year": 1849,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Rivoluzione siciliana del 1848"
+   }
+  ],
+  "review": "draft",
+  "tint_offset": 2,
+  "capitals": [
+   {
+    "place_id": "palermo",
+    "start_year": 1848,
+    "end_year": 1849
+   }
+  ],
+  "note": "Il parlamento siciliano dichiarò decaduti i Borbone (13 aprile 1848)."
+ },
+ {
+  "id": "repubblica-di-san-marco",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Repubblica di San Marco"
+   }
+  ],
+  "kind": "republic",
+  "family": "venezia",
+  "start_year": 1848,
+  "end_year": 1849,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Repubblica di San Marco"
+   }
+  ],
+  "review": "draft",
+  "capitals": [
+   {
+    "place_id": "venezia",
+    "start_year": 1848,
+    "end_year": 1849
+   }
+  ],
+  "note": "Presidente Daniele Manin."
+ },
+ {
+  "id": "province-unite-centro-italia",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Province Unite del Centro Italia"
+   }
+  ],
+  "kind": "league",
+  "family": "savoia-italia",
+  "start_year": 1859,
+  "end_year": 1860,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Province Unite del Centro Italia"
+   }
+  ],
+  "review": "draft",
+  "tint_offset": 2,
+  "note": "Unione dei governi provvisori di Toscana, Modena, Parma e Romagna in vista dell'annessione al Regno di Sardegna.",
+  "successors": [
+   "regno-di-sardegna"
+  ]
+ },
+ {
+  "id": "repubblica-di-san-marino",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Repubblica di San Marino"
+   }
+  ],
+  "kind": "republic",
+  "family": "indipendenti",
+  "start_year": 301,
+  "end_year": 2027,
+  "certainty": "low",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "San Marino"
+   }
+  ],
+  "review": "draft",
+  "capitals": [
+   {
+    "place_id": "san-marino",
+    "start_year": 301,
+    "end_year": 2027
+   }
+  ],
+  "note": "Fondazione tradizionale (301): data leggendaria."
+ },
+ {
+  "id": "francia",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Francia"
+   }
+  ],
+  "kind": "state",
+  "family": "francia",
+  "start_year": 987,
+  "end_year": 2027,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Francia"
+   }
+  ],
+  "review": "draft",
+  "government": [
+   {
+    "type": "monarchia (Restaurazione e Monarchia di luglio)",
+    "start_year": 1815,
+    "end_year": 1848
+   },
+   {
+    "type": "Seconda Repubblica",
+    "start_year": 1848,
+    "end_year": 1852
+   },
+   {
+    "type": "Secondo Impero",
+    "start_year": 1852,
+    "end_year": 1870
+   },
+   {
+    "type": "Terza Repubblica",
+    "start_year": 1870,
+    "end_year": 1940
+   }
+  ],
+  "capitals": [
+   {
+    "place_id": "parigi",
+    "start_year": 987,
+    "end_year": 2027
+   }
+  ],
+  "note": "Entità di comodo che riunisce i regimi francesi; data d'inizio convenzionale (Ugo Capeto)."
+ },
+ {
+  "id": "confederazione-svizzera",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Confederazione svizzera"
+   }
+  ],
+  "kind": "state",
+  "family": "svizzera",
+  "start_year": 1291,
+  "end_year": 2027,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Svizzera"
+   }
+  ],
+  "review": "draft",
+  "note": "Data di fondazione tradizionale (patto del 1291)."
+ },
+ {
+  "id": "regno-unito",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Regno Unito"
+   }
+  ],
+  "kind": "kingdom",
+  "family": "britannici",
+  "start_year": 1801,
+  "end_year": 2027,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Regno Unito"
+   }
+  ],
+  "review": "draft",
+  "note": "Regno Unito di Gran Bretagna e Irlanda dal 1801."
+ }
+]

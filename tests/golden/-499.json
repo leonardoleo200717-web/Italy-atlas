@@ -1,0 +1,47 @@
+{
+ "year": -499,
+ "reviewed_by": "draft (da revisionare)",
+ "cases": [
+  {
+   "place": "Tarquinia",
+   "lon": 11.76,
+   "lat": 42.25,
+   "expect": "etruschi",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Etruschi"
+   }
+  },
+  {
+   "place": "Bologna (Felsina)",
+   "lon": 11.34,
+   "lat": 44.5,
+   "expect": "etruschi",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Felsina"
+   }
+  },
+  {
+   "place": "Sardegna meridionale",
+   "lon": 9.05,
+   "lat": 39.3,
+   "expect": "cartagine",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Sardegna punica"
+   }
+  },
+  {
+   "place": "Roma",
+   "lon": 12.5,
+   "lat": 41.9,
+   "expect": "repubblica-romana",
+   "known_issue": "Cliopatria v0.2.1 non copre la città con il poligono della Repubblica (-500..-481) e mantiene il 'Roman Kingdom' fino al -481; la data convenzionale della Repubblica è il 509 a.C.",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Repubblica romana"
+   }
+  }
+ ]
+}

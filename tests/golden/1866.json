@@ -1,0 +1,26 @@
+{
+ "year": 1866,
+ "reviewed_by": "draft (da revisionare)",
+ "cases": [
+  {
+   "place": "Venezia",
+   "lon": 12.335,
+   "lat": 45.44,
+   "expect": "regno-d-italia",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Trattato di Vienna (1866)"
+   }
+  },
+  {
+   "place": "Roma",
+   "lon": 12.5,
+   "lat": 41.9,
+   "expect": "stato-della-chiesa",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Stato Pontificio"
+   }
+  }
+ ]
+}

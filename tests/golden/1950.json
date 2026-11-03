@@ -1,0 +1,17 @@
+{
+ "year": 1950,
+ "reviewed_by": "draft (da revisionare)",
+ "cases": [
+  {
+   "place": "Trieste",
+   "lon": 13.8,
+   "lat": 45.65,
+   "expect": "territorio-libero-di-trieste",
+   "known_issue": "Cliopatria v0.2.1 assegna Trieste alla Jugoslavia nel 1947-1954; la Zona A del Territorio Libero era sotto governo militare alleato. Da curare nella fase 5.",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Territorio Libero di Trieste"
+   }
+  }
+ ]
+}
