@@ -1,0 +1,12 @@
+node_modules
+dist
+data/raw/*
+!data/raw/README.md
+!data/raw/sources.lock.json
+test-results
+playwright-report
+*.log
+.DS_Store
+
+# output generati dalla pipeline (npm run data:build)
+public/data

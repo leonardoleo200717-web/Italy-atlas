@@ -1,0 +1,49 @@
+{
+ "year": -217,
+ "reviewed_by": "draft (da revisionare)",
+ "cases": [
+  {
+   "place": "Roma",
+   "lon": 12.5,
+   "lat": 41.9,
+   "expect": "repubblica-romana",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Repubblica romana"
+   }
+  },
+  {
+   "place": "Sicilia occidentale",
+   "lon": 13.3,
+   "lat": 38.05,
+   "expect": "repubblica-romana",
+   "note": "Provincia romana dopo la prima guerra punica (241 a.C.).",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Sicilia (provincia romana)"
+   }
+  },
+  {
+   "place": "Sardegna",
+   "lon": 9.05,
+   "lat": 39.3,
+   "expect": "repubblica-romana",
+   "note": "Romana dal 238 a.C.",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Sardinia et Corsica"
+   }
+  },
+  {
+   "place": "Siracusa",
+   "lon": 15.15,
+   "lat": 37.08,
+   "expect": "poleis-greche",
+   "note": "Regno di Ierone II, alleato di Roma fino al 215 a.C.",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Ierone II"
+   }
+  }
+ ]
+}

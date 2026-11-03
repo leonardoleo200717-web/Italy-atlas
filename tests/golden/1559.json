@@ -1,0 +1,38 @@
+{
+ "year": 1559,
+ "reviewed_by": "draft (da revisionare)",
+ "cases": [
+  {
+   "place": "Milano",
+   "lon": 9.19,
+   "lat": 45.46,
+   "expect": "impero-spagnolo",
+   "note": "Ducato di Milano sotto Filippo II.",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Ducato di Milano"
+   }
+  },
+  {
+   "place": "Napoli",
+   "lon": 14.3,
+   "lat": 40.9,
+   "expect": "impero-spagnolo",
+   "note": "Viceregno spagnolo.",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Regno di Napoli"
+   }
+  },
+  {
+   "place": "Roma",
+   "lon": 12.5,
+   "lat": 41.9,
+   "expect": "stato-della-chiesa",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Stato Pontificio"
+   }
+  }
+ ]
+}

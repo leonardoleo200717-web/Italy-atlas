@@ -1,0 +1,1027 @@
+[
+ {
+  "id": "p-augusto",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Augusto"
+   }
+  ],
+  "birth_edtf": "-0062-09-23",
+  "death_edtf": "0014-08-19",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Augusto"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-tiberio",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Tiberio"
+   }
+  ],
+  "birth_edtf": "-0041-11-16",
+  "death_edtf": "0037-03-16",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Tiberio"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-onorio",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Onorio"
+   }
+  ],
+  "birth_edtf": "0384-09-09",
+  "death_edtf": "0423-08-15",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Onorio (imperatore)"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-teodorico",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Teodorico il Grande"
+   }
+  ],
+  "birth_edtf": "0454~",
+  "death_edtf": "0526-08-30",
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Teodorico il Grande"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-giustiniano",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Giustiniano I"
+   }
+  ],
+  "birth_edtf": "0482~",
+  "death_edtf": "0565-11-14",
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Giustiniano I"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-maurizio",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Maurizio (imperatore)"
+   }
+  ],
+  "birth_edtf": "0539~",
+  "death_edtf": "0602-11-27",
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Maurizio (imperatore)"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-agilulfo",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Agilulfo"
+   }
+  ],
+  "death_edtf": "0616",
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Agilulfo"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-carlo-magno",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Carlo Magno"
+   }
+  ],
+  "birth_edtf": "0748~",
+  "death_edtf": "0814-01-28",
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Carlo Magno"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-pipino-d-italia",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Pipino d'Italia"
+   }
+  ],
+  "birth_edtf": "0777",
+  "death_edtf": "0810-07-08",
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Pipino d'Italia"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-ottone-iii",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Ottone III"
+   }
+  ],
+  "birth_edtf": "0980",
+  "death_edtf": "1002-01-23",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ottone III di Sassonia"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-federico-ii",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Federico II di Svevia"
+   }
+  ],
+  "birth_edtf": "1194-12-26",
+  "death_edtf": "1250-12-13",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Federico II di Svevia"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-alfonso-v",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Alfonso V d'Aragona"
+   }
+  ],
+  "birth_edtf": "1396",
+  "death_edtf": "1458-06-27",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Alfonso V d'Aragona"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-ferrante",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Ferrante d'Aragona"
+   }
+  ],
+  "birth_edtf": "1424-06-02",
+  "death_edtf": "1494-01-25",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ferdinando I di Napoli"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-francesco-sforza",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Francesco Sforza"
+   }
+  ],
+  "birth_edtf": "1401-07-23",
+  "death_edtf": "1466-03-08",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Francesco Sforza"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-francesco-foscari",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Francesco Foscari"
+   }
+  ],
+  "birth_edtf": "1373",
+  "death_edtf": "1457-11-01",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Francesco Foscari"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-niccolo-v",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Niccolò V"
+   }
+  ],
+  "birth_edtf": "1397-11-15",
+  "death_edtf": "1455-03-24",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Papa Niccolò V"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-cosimo-il-vecchio",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Cosimo de' Medici il Vecchio"
+   }
+  ],
+  "birth_edtf": "1389-09-27",
+  "death_edtf": "1464-08-01",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Cosimo de' Medici"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-lorenzo-il-magnifico",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Lorenzo de' Medici (il Magnifico)"
+   }
+  ],
+  "birth_edtf": "1449-01-01",
+  "death_edtf": "1492-04-08",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Lorenzo de' Medici"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-carlo-v",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Carlo V d'Asburgo"
+   }
+  ],
+  "birth_edtf": "1500-02-24",
+  "death_edtf": "1558-09-21",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Carlo V d'Asburgo"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-filippo-ii",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Filippo II di Spagna"
+   }
+  ],
+  "birth_edtf": "1527-05-21",
+  "death_edtf": "1598-09-13",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Filippo II di Spagna"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-vittorio-emanuele-i",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Vittorio Emanuele I di Savoia"
+   }
+  ],
+  "birth_edtf": "1759-07-24",
+  "death_edtf": "1824-01-10",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Vittorio Emanuele I di Savoia"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-carlo-felice",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Carlo Felice di Savoia"
+   }
+  ],
+  "birth_edtf": "1765-04-06",
+  "death_edtf": "1831-04-27",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Carlo Felice di Savoia"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-carlo-alberto",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Carlo Alberto di Savoia"
+   }
+  ],
+  "birth_edtf": "1798-10-02",
+  "death_edtf": "1849-07-28",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Carlo Alberto di Savoia"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-vittorio-emanuele-ii",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Vittorio Emanuele II di Savoia"
+   }
+  ],
+  "birth_edtf": "1820-03-14",
+  "death_edtf": "1878-01-09",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Vittorio Emanuele II di Savoia"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-umberto-i",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Umberto I di Savoia"
+   }
+  ],
+  "birth_edtf": "1844-03-14",
+  "death_edtf": "1900-07-29",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Umberto I di Savoia"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-vittorio-emanuele-iii",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Vittorio Emanuele III di Savoia"
+   }
+  ],
+  "birth_edtf": "1869-11-11",
+  "death_edtf": "1947-12-28",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Vittorio Emanuele III di Savoia"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-pio-vii",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Pio VII"
+   }
+  ],
+  "birth_edtf": "1742-08-14",
+  "death_edtf": "1823-08-20",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Papa Pio VII"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-leone-xii",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Leone XII"
+   }
+  ],
+  "birth_edtf": "1760-08-22",
+  "death_edtf": "1829-02-10",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Papa Leone XII"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-pio-viii",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Pio VIII"
+   }
+  ],
+  "birth_edtf": "1761-11-20",
+  "death_edtf": "1830-11-30",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Papa Pio VIII"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-gregorio-xvi",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Gregorio XVI"
+   }
+  ],
+  "birth_edtf": "1765-09-18",
+  "death_edtf": "1846-06-01",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Papa Gregorio XVI"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-pio-ix",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Pio IX"
+   }
+  ],
+  "birth_edtf": "1792-05-13",
+  "death_edtf": "1878-02-07",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Papa Pio IX"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-leone-xiii",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Leone XIII"
+   }
+  ],
+  "birth_edtf": "1810-03-02",
+  "death_edtf": "1903-07-20",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Papa Leone XIII"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-pio-x",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Pio X"
+   }
+  ],
+  "birth_edtf": "1835-06-02",
+  "death_edtf": "1914-08-20",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Papa Pio X"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-benedetto-xv",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Benedetto XV"
+   }
+  ],
+  "birth_edtf": "1854-11-21",
+  "death_edtf": "1922-01-22",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Papa Benedetto XV"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-francesco-i-austria",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Francesco I d'Austria"
+   }
+  ],
+  "birth_edtf": "1768-02-12",
+  "death_edtf": "1835-03-02",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Francesco II d'Asburgo-Lorena"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-ferdinando-i-austria",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Ferdinando I d'Austria"
+   }
+  ],
+  "birth_edtf": "1793-04-19",
+  "death_edtf": "1875-06-29",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ferdinando I d'Austria"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-francesco-giuseppe",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Francesco Giuseppe d'Austria"
+   }
+  ],
+  "birth_edtf": "1830-08-18",
+  "death_edtf": "1916-11-21",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Francesco Giuseppe d'Austria"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-maria-luigia",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Maria Luigia d'Asburgo-Lorena"
+   }
+  ],
+  "birth_edtf": "1791-12-12",
+  "death_edtf": "1847-12-17",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Maria Luigia d'Asburgo-Lorena"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-carlo-ii-parma",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Carlo II di Borbone-Parma"
+   }
+  ],
+  "birth_edtf": "1799-12-22",
+  "death_edtf": "1883-04-16",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Carlo II di Parma"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-carlo-iii-parma",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Carlo III di Borbone-Parma"
+   }
+  ],
+  "birth_edtf": "1823-01-14",
+  "death_edtf": "1854-03-27",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Carlo III di Parma"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-roberto-i-parma",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Roberto I di Borbone-Parma"
+   }
+  ],
+  "birth_edtf": "1848-07-09",
+  "death_edtf": "1907-11-16",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Roberto I di Parma"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-maria-luisa-lucca",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Maria Luisa di Borbone-Spagna"
+   }
+  ],
+  "birth_edtf": "1782-07-06",
+  "death_edtf": "1824-03-13",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Maria Luisa di Borbone-Spagna"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-francesco-iv-modena",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Francesco IV d'Austria-Este"
+   }
+  ],
+  "birth_edtf": "1779-10-06",
+  "death_edtf": "1846-01-21",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Francesco IV di Modena"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-francesco-v-modena",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Francesco V d'Austria-Este"
+   }
+  ],
+  "birth_edtf": "1819-06-01",
+  "death_edtf": "1875-11-20",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Francesco V di Modena"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-maria-beatrice",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Maria Beatrice d'Este"
+   }
+  ],
+  "birth_edtf": "1750-04-07",
+  "death_edtf": "1829-11-14",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Maria Beatrice d'Este"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-ferdinando-iii-toscana",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Ferdinando III di Toscana"
+   }
+  ],
+  "birth_edtf": "1769-05-06",
+  "death_edtf": "1824-06-18",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ferdinando III di Toscana"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-leopoldo-ii-toscana",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Leopoldo II di Toscana"
+   }
+  ],
+  "birth_edtf": "1797-10-03",
+  "death_edtf": "1870-01-29",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Leopoldo II di Toscana"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-murat",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Gioacchino Murat"
+   }
+  ],
+  "birth_edtf": "1767-03-25",
+  "death_edtf": "1815-10-13",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Gioacchino Murat"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-ferdinando-i-due-sicilie",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Ferdinando I delle Due Sicilie"
+   }
+  ],
+  "birth_edtf": "1751-01-12",
+  "death_edtf": "1825-01-04",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ferdinando I delle Due Sicilie"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-francesco-i-due-sicilie",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Francesco I delle Due Sicilie"
+   }
+  ],
+  "birth_edtf": "1777-08-19",
+  "death_edtf": "1830-11-08",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Francesco I delle Due Sicilie"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-ferdinando-ii-due-sicilie",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Ferdinando II delle Due Sicilie"
+   }
+  ],
+  "birth_edtf": "1810-01-12",
+  "death_edtf": "1859-05-22",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ferdinando II delle Due Sicilie"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-francesco-ii-due-sicilie",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Francesco II delle Due Sicilie"
+   }
+  ],
+  "birth_edtf": "1836-01-16",
+  "death_edtf": "1894-12-27",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Francesco II delle Due Sicilie"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-ruggero-settimo",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Ruggero Settimo"
+   }
+  ],
+  "birth_edtf": "1778-05-19",
+  "death_edtf": "1863-05-02",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ruggero Settimo"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "p-daniele-manin",
+  "names": [
+   {
+    "lang": "it",
+    "name": "Daniele Manin"
+   }
+  ],
+  "birth_edtf": "1804-05-13",
+  "death_edtf": "1857-09-22",
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Daniele Manin"
+   }
+  ],
+  "review": "draft"
+ }
+]

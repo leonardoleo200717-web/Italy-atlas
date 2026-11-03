@@ -1,0 +1,37 @@
+{
+ "year": 1000,
+ "reviewed_by": "draft (da revisionare)",
+ "cases": [
+  {
+   "place": "Palermo",
+   "lon": 13.3,
+   "lat": 38.05,
+   "expect": "emirato-di-sicilia",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Emirato di Sicilia"
+   }
+  },
+  {
+   "place": "Pavia",
+   "lon": 9.16,
+   "lat": 45.19,
+   "expect": "sacro-romano-impero",
+   "note": "Regno d'Italia unito alla corona imperiale.",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Regno d'Italia (Sacro Romano Impero)"
+   }
+  },
+  {
+   "place": "Roma",
+   "lon": 12.5,
+   "lat": 41.9,
+   "expect": "stato-della-chiesa",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Stato Pontificio"
+   }
+  }
+ ]
+}

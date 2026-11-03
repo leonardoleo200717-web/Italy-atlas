@@ -1,0 +1,2200 @@
+[
+ {
+  "id": "ev-fondazione-roma",
+  "name": "Fondazione di Roma (tradizione)",
+  "date_edtf": "-0752-04-21",
+  "year": -752,
+  "type": "other",
+  "polities": [
+   "regno-di-roma"
+  ],
+  "importance": 3,
+  "certainty": "low",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Natale di Roma"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 12.48,
+   "lat": 41.89
+  },
+  "note": "Data leggendaria (Varrone)."
+ },
+ {
+  "id": "ev-cacciata-re",
+  "name": "Cacciata dei re e inizio della Repubblica (tradizione)",
+  "date_edtf": "-0508",
+  "year": -508,
+  "type": "proclamation",
+  "polities": [
+   "repubblica-romana"
+  ],
+  "importance": 4,
+  "certainty": "low",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Repubblica romana"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 12.48,
+   "lat": 41.89
+  }
+ },
+ {
+  "id": "ev-scioglimento-lega-latina",
+  "name": "Scioglimento della Lega latina",
+  "date_edtf": "-0337",
+  "year": -337,
+  "type": "treaty",
+  "polities": [
+   "repubblica-romana"
+  ],
+  "importance": 3,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Lega latina"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-via-appia",
+  "name": "Inizio della via Appia (Appio Claudio censore)",
+  "date_edtf": "-0311",
+  "year": -311,
+  "type": "other",
+  "polities": [
+   "repubblica-romana"
+  ],
+  "importance": 2,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Via Appia"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 12.5,
+   "lat": 41.85
+  }
+ },
+ {
+  "id": "ev-annibale-alpi",
+  "name": "Annibale attraversa le Alpi",
+  "date_edtf": "-0217",
+  "year": -217,
+  "type": "war",
+  "polities": [
+   "cartagine",
+   "repubblica-romana"
+  ],
+  "importance": 5,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Seconda guerra punica"
+   }
+  ],
+  "review": "draft",
+  "note": "Autunno 218 a.C."
+ },
+ {
+  "id": "ev-canne",
+  "name": "Battaglia di Canne",
+  "date_edtf": "-0215-08-02",
+  "year": -215,
+  "type": "battle",
+  "polities": [
+   "cartagine",
+   "repubblica-romana"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Battaglia di Canne"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 16.13,
+   "lat": 41.31
+  }
+ },
+ {
+  "id": "ev-distruzione-cartagine",
+  "name": "Distruzione di Cartagine",
+  "date_edtf": "-0145",
+  "year": -145,
+  "type": "war",
+  "polities": [
+   "cartagine",
+   "repubblica-romana"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Terza guerra punica"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-guerra-sociale",
+  "name": "Guerra sociale",
+  "date_edtf": "-0090",
+  "year": -90,
+  "type": "war",
+  "polities": [
+   "repubblica-romana",
+   "socii-italici"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Guerra sociale"
+   }
+  ],
+  "review": "draft",
+  "note": "91-88 a.C."
+ },
+ {
+  "id": "ev-idi-di-marzo",
+  "name": "Assassinio di Cesare",
+  "date_edtf": "-0043-03-15",
+  "year": -43,
+  "type": "other",
+  "polities": [
+   "repubblica-romana"
+  ],
+  "importance": 5,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Morte di Gaio Giulio Cesare"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 12.48,
+   "lat": 41.89
+  }
+ },
+ {
+  "id": "ev-augusto-27",
+  "name": "Ottaviano riceve il titolo di Augusto",
+  "date_edtf": "-0026-01-16",
+  "year": -26,
+  "type": "proclamation",
+  "polities": [
+   "impero-romano"
+  ],
+  "importance": 5,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Augusto"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 12.48,
+   "lat": 41.89
+  }
+ },
+ {
+  "id": "ev-morte-augusto",
+  "name": "Morte di Augusto",
+  "date_edtf": "0014-08-19",
+  "year": 14,
+  "type": "other",
+  "polities": [
+   "impero-romano"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Augusto"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 14.43,
+   "lat": 40.91
+  }
+ },
+ {
+  "id": "ev-traiano-117",
+  "name": "Massima espansione dell'Impero sotto Traiano",
+  "date_edtf": "0117",
+  "year": 117,
+  "type": "other",
+  "polities": [
+   "impero-romano"
+  ],
+  "importance": 3,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Traiano"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-constitutio-antoniniana",
+  "name": "Constitutio Antoniniana (cittadinanza a tutti i liberi)",
+  "date_edtf": "0212",
+  "year": 212,
+  "type": "other",
+  "polities": [
+   "impero-romano"
+  ],
+  "importance": 3,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Constitutio Antoniniana"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-editto-milano",
+  "name": "Editto di Milano",
+  "date_edtf": "0313",
+  "year": 313,
+  "type": "other",
+  "polities": [
+   "impero-romano"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Editto di Milano"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 9.19,
+   "lat": 45.46
+  }
+ },
+ {
+  "id": "ev-divisione-395",
+  "name": "Divisione dell'Impero alla morte di Teodosio",
+  "date_edtf": "0395-01-17",
+  "year": 395,
+  "type": "other",
+  "polities": [
+   "impero-romano-d-occidente",
+   "impero-romano-d-oriente"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Teodosio I"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-ravenna-capitale",
+  "name": "Ravenna capitale dell'Impero d'Occidente",
+  "date_edtf": "0402",
+  "year": 402,
+  "type": "other",
+  "polities": [
+   "impero-romano-d-occidente"
+  ],
+  "importance": 3,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ravenna"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 12.2,
+   "lat": 44.42
+  }
+ },
+ {
+  "id": "ev-sacco-roma-410",
+  "name": "Sacco di Roma dei Visigoti",
+  "date_edtf": "0410-08-24",
+  "year": 410,
+  "type": "war",
+  "polities": [
+   "impero-romano-d-occidente",
+   "visigoti"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Sacco di Roma (410)"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 12.48,
+   "lat": 41.89
+  }
+ },
+ {
+  "id": "ev-deposizione-romolo",
+  "name": "Deposizione di Romolo Augusto da parte di Odoacre",
+  "date_edtf": "0476-09-04",
+  "year": 476,
+  "type": "other",
+  "polities": [
+   "impero-romano-d-occidente"
+  ],
+  "importance": 5,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Romolo Augusto"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 12.2,
+   "lat": 44.42
+  }
+ },
+ {
+  "id": "ev-teodorico-493",
+  "name": "Teodorico re d'Italia",
+  "date_edtf": "0493",
+  "year": 493,
+  "type": "proclamation",
+  "polities": [
+   "regno-ostrogoto"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Teodorico il Grande"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 12.2,
+   "lat": 44.42
+  }
+ },
+ {
+  "id": "ev-guerra-gotica",
+  "name": "Inizio della guerra gotica",
+  "date_edtf": "0535",
+  "year": 535,
+  "type": "war",
+  "polities": [
+   "regno-ostrogoto",
+   "impero-romano-d-oriente"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Guerra gotica (535-553)"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-prammatica-sanzione",
+  "name": "Prammatica Sanzione di Giustiniano",
+  "date_edtf": "0554-08-13",
+  "year": 554,
+  "type": "other",
+  "polities": [
+   "impero-romano-d-oriente"
+  ],
+  "importance": 3,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Prammatica sanzione (554)"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-longobardi-568",
+  "name": "I Longobardi di Alboino entrano in Italia",
+  "date_edtf": "0568",
+  "year": 568,
+  "type": "war",
+  "polities": [
+   "longobardi"
+  ],
+  "importance": 5,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Longobardi"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 13.43,
+   "lat": 46.09
+  }
+ },
+ {
+  "id": "ev-editto-rotari",
+  "name": "Editto di Rotari",
+  "date_edtf": "0643-11-22",
+  "year": 643,
+  "type": "other",
+  "polities": [
+   "regno-longobardo"
+  ],
+  "importance": 3,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Editto di Rotari"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 9.16,
+   "lat": 45.19
+  }
+ },
+ {
+  "id": "ev-caduta-ravenna-751",
+  "name": "Astolfo conquista Ravenna: fine dell'Esarcato",
+  "date_edtf": "0751",
+  "year": 751,
+  "type": "war",
+  "polities": [
+   "regno-longobardo",
+   "impero-bizantino"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Esarcato d'Italia"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 12.2,
+   "lat": 44.42
+  }
+ },
+ {
+  "id": "ev-donazione-pipino",
+  "name": "Donazione di Pipino",
+  "date_edtf": "0756",
+  "year": 756,
+  "type": "treaty",
+  "polities": [
+   "stato-della-chiesa"
+  ],
+  "importance": 4,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Donazione di Pipino"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-pavia-774",
+  "name": "Carlo Magno conquista Pavia: fine del Regno longobardo",
+  "date_edtf": "0774-06",
+  "year": 774,
+  "type": "war",
+  "polities": [
+   "regno-longobardo",
+   "impero-carolingio"
+  ],
+  "importance": 5,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Assedio di Pavia (773-774)"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 9.16,
+   "lat": 45.19
+  }
+ },
+ {
+  "id": "ev-incoronazione-carlo",
+  "name": "Incoronazione imperiale di Carlo Magno",
+  "date_edtf": "0800-12-25",
+  "year": 800,
+  "type": "proclamation",
+  "polities": [
+   "impero-carolingio"
+  ],
+  "importance": 5,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Carlo Magno"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 12.45,
+   "lat": 41.9
+  }
+ },
+ {
+  "id": "ev-mazara-827",
+  "name": "Sbarco arabo a Mazara: inizio della conquista della Sicilia",
+  "date_edtf": "0827",
+  "year": 827,
+  "type": "war",
+  "polities": [
+   "aghlabidi"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Conquista islamica della Sicilia"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 12.59,
+   "lat": 37.65
+  }
+ },
+ {
+  "id": "ev-ottone-962",
+  "name": "Ottone I incoronato imperatore",
+  "date_edtf": "0962-02-02",
+  "year": 962,
+  "type": "proclamation",
+  "polities": [
+   "sacro-romano-impero"
+  ],
+  "importance": 5,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ottone I di Sassonia"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 12.45,
+   "lat": 41.9
+  }
+ },
+ {
+  "id": "ev-canossa",
+  "name": "Umiliazione di Canossa",
+  "date_edtf": "1077-01",
+  "year": 1077,
+  "type": "other",
+  "polities": [
+   "sacro-romano-impero",
+   "stato-della-chiesa"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Umiliazione di Canossa"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 10.46,
+   "lat": 44.58
+  }
+ },
+ {
+  "id": "ev-regno-sicilia-1130",
+  "name": "Ruggero II re di Sicilia",
+  "date_edtf": "1130-12-25",
+  "year": 1130,
+  "type": "proclamation",
+  "polities": [
+   "regno-di-sicilia"
+  ],
+  "importance": 5,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ruggero II di Sicilia"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 13.35,
+   "lat": 38.12
+  }
+ },
+ {
+  "id": "ev-legnano",
+  "name": "Battaglia di Legnano",
+  "date_edtf": "1176-05-29",
+  "year": 1176,
+  "type": "battle",
+  "polities": [
+   "sacro-romano-impero"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Battaglia di Legnano"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 8.92,
+   "lat": 45.6
+  }
+ },
+ {
+  "id": "ev-pace-costanza",
+  "name": "Pace di Costanza",
+  "date_edtf": "1183-06-25",
+  "year": 1183,
+  "type": "treaty",
+  "polities": [
+   "sacro-romano-impero"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Pace di Costanza"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-quarta-crociata",
+  "name": "Quarta crociata: Venezia e la presa di Costantinopoli",
+  "date_edtf": "1204-04-13",
+  "year": 1204,
+  "type": "war",
+  "polities": [
+   "repubblica-di-venezia",
+   "impero-bizantino"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Quarta crociata"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-benevento-1266",
+  "name": "Battaglia di Benevento: Carlo d'Angiò sconfigge Manfredi",
+  "date_edtf": "1266-02-26",
+  "year": 1266,
+  "type": "battle",
+  "polities": [
+   "regno-di-sicilia"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Battaglia di Benevento"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 14.78,
+   "lat": 41.13
+  }
+ },
+ {
+  "id": "ev-vespri",
+  "name": "Vespri siciliani",
+  "date_edtf": "1282-03-30",
+  "year": 1282,
+  "type": "revolt",
+  "polities": [
+   "regno-di-sicilia",
+   "corona-d-aragona"
+  ],
+  "importance": 5,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Vespri siciliani"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 13.35,
+   "lat": 38.12
+  }
+ },
+ {
+  "id": "ev-avignone",
+  "name": "Il papato si trasferisce ad Avignone",
+  "date_edtf": "1309",
+  "year": 1309,
+  "type": "other",
+  "polities": [
+   "stato-della-chiesa"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Cattività avignonese"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-ducato-milano-1395",
+  "name": "Gian Galeazzo Visconti duca di Milano",
+  "date_edtf": "1395-09-05",
+  "year": 1395,
+  "type": "proclamation",
+  "polities": [
+   "ducato-di-milano"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Gian Galeazzo Visconti"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 9.19,
+   "lat": 45.46
+  }
+ },
+ {
+  "id": "ev-alfonso-napoli",
+  "name": "Alfonso V d'Aragona conquista Napoli",
+  "date_edtf": "1442-06",
+  "year": 1442,
+  "type": "war",
+  "polities": [
+   "corona-d-aragona",
+   "regno-di-napoli"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Alfonso V d'Aragona"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 14.25,
+   "lat": 40.85
+  }
+ },
+ {
+  "id": "ev-pace-di-lodi",
+  "name": "Pace di Lodi",
+  "date_edtf": "1454-04-09",
+  "year": 1454,
+  "type": "treaty",
+  "polities": [
+   "ducato-di-milano",
+   "repubblica-di-venezia"
+  ],
+  "importance": 5,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Pace di Lodi"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 9.5,
+   "lat": 45.31
+  }
+ },
+ {
+  "id": "ev-lega-italica",
+  "name": "Lega italica",
+  "date_edtf": "1455-03-02",
+  "year": 1455,
+  "type": "treaty",
+  "polities": [
+   "ducato-di-milano",
+   "repubblica-di-venezia",
+   "repubblica-di-firenze",
+   "stato-della-chiesa",
+   "regno-di-napoli"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Lega italica"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-congiura-pazzi",
+  "name": "Congiura dei Pazzi",
+  "date_edtf": "1478-04-26",
+  "year": 1478,
+  "type": "revolt",
+  "polities": [
+   "repubblica-di-firenze"
+  ],
+  "importance": 3,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Congiura dei Pazzi"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 11.26,
+   "lat": 43.77
+  }
+ },
+ {
+  "id": "ev-carlo-viii",
+  "name": "Discesa di Carlo VIII in Italia",
+  "date_edtf": "1494-09",
+  "year": 1494,
+  "type": "war",
+  "polities": [
+   "regno-di-francia",
+   "regno-di-napoli"
+  ],
+  "importance": 5,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Guerra d'Italia del 1494-1498"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-agnadello",
+  "name": "Battaglia di Agnadello",
+  "date_edtf": "1509-05-14",
+  "year": 1509,
+  "type": "battle",
+  "polities": [
+   "repubblica-di-venezia",
+   "regno-di-francia"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Battaglia di Agnadello"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 9.56,
+   "lat": 45.45
+  }
+ },
+ {
+  "id": "ev-sacco-roma-1527",
+  "name": "Sacco di Roma",
+  "date_edtf": "1527-05-06",
+  "year": 1527,
+  "type": "war",
+  "polities": [
+   "stato-della-chiesa",
+   "impero-spagnolo"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Sacco di Roma (1527)"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 12.48,
+   "lat": 41.89
+  }
+ },
+ {
+  "id": "ev-bologna-1530",
+  "name": "Incoronazione di Carlo V a Bologna",
+  "date_edtf": "1530-02-24",
+  "year": 1530,
+  "type": "proclamation",
+  "polities": [
+   "sacro-romano-impero"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Carlo V d'Asburgo"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 11.34,
+   "lat": 44.5
+  }
+ },
+ {
+  "id": "ev-cateau-cambresis",
+  "name": "Pace di Cateau-Cambrésis",
+  "date_edtf": "1559-04-03",
+  "year": 1559,
+  "type": "treaty",
+  "polities": [
+   "impero-spagnolo",
+   "regno-di-francia"
+  ],
+  "importance": 5,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Pace di Cateau-Cambrésis"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-granducato-1569",
+  "name": "Cosimo I granduca di Toscana",
+  "date_edtf": "1569-08-27",
+  "year": 1569,
+  "type": "proclamation",
+  "polities": [
+   "granducato-di-toscana"
+  ],
+  "importance": 3,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Cosimo I de' Medici"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 11.26,
+   "lat": 43.77
+  }
+ },
+ {
+  "id": "ev-devoluzione-ferrara",
+  "name": "Devoluzione di Ferrara allo Stato della Chiesa",
+  "date_edtf": "1598",
+  "year": 1598,
+  "type": "annexation",
+  "polities": [
+   "stato-della-chiesa"
+  ],
+  "importance": 3,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Devoluzione di Ferrara"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 11.62,
+   "lat": 44.84
+  }
+ },
+ {
+  "id": "ev-utrecht",
+  "name": "Pace di Utrecht",
+  "date_edtf": "1713-04-11",
+  "year": 1713,
+  "type": "treaty",
+  "polities": [
+   "impero-spagnolo",
+   "stati-sabaudi"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Pace di Utrecht"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-aquisgrana-1748",
+  "name": "Pace di Aquisgrana",
+  "date_edtf": "1748-10-18",
+  "year": 1748,
+  "type": "treaty",
+  "polities": [
+   "ducato-di-parma"
+  ],
+  "importance": 3,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Pace di Aquisgrana (1748)"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-corsica-francia",
+  "name": "Trattato di Versailles: la Corsica alla Francia",
+  "date_edtf": "1768-05-15",
+  "year": 1768,
+  "type": "treaty",
+  "polities": [
+   "repubblica-di-genova",
+   "regno-di-francia"
+  ],
+  "importance": 3,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Trattato di Versailles (1768)"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 9.0,
+   "lat": 42.15
+  }
+ },
+ {
+  "id": "ev-campoformio",
+  "name": "Trattato di Campoformio",
+  "date_edtf": "1797-10-17",
+  "year": 1797,
+  "type": "treaty",
+  "polities": [
+   "repubblica-di-venezia",
+   "francia"
+  ],
+  "importance": 5,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Trattato di Campoformio"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 13.15,
+   "lat": 46.03
+  }
+ },
+ {
+  "id": "ev-regno-italia-1805",
+  "name": "Napoleone re d'Italia",
+  "date_edtf": "1805-05-26",
+  "year": 1805,
+  "type": "proclamation",
+  "polities": [
+   "regno-d-italia-napoleonico"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Regno d'Italia (1805-1814)"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 9.19,
+   "lat": 45.46
+  }
+ },
+ {
+  "id": "ev-congresso-vienna",
+  "name": "Atto finale del Congresso di Vienna",
+  "date_edtf": "1815-06-09",
+  "year": 1815,
+  "type": "treaty",
+  "polities": [
+   "regno-di-sardegna",
+   "regno-lombardo-veneto",
+   "stato-della-chiesa",
+   "granducato-di-toscana",
+   "ducato-di-parma",
+   "ducato-di-modena",
+   "ducato-di-lucca",
+   "regno-di-napoli"
+  ],
+  "importance": 5,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Congresso di Vienna"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-due-sicilie-1816",
+  "name": "Nasce il Regno delle Due Sicilie",
+  "date_edtf": "1816-12-08",
+  "year": 1816,
+  "type": "proclamation",
+  "polities": [
+   "regno-delle-due-sicilie"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Regno delle Due Sicilie"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 14.25,
+   "lat": 40.85
+  }
+ },
+ {
+  "id": "ev-moti-1820",
+  "name": "Moti del 1820-1821",
+  "date_edtf": "1820-07",
+  "year": 1820,
+  "type": "revolt",
+  "polities": [
+   "regno-delle-due-sicilie",
+   "regno-di-sardegna"
+  ],
+  "importance": 3,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Moti del 1820-1821"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-moti-1831",
+  "name": "Moti del 1831",
+  "date_edtf": "1831-02",
+  "year": 1831,
+  "type": "revolt",
+  "polities": [
+   "ducato-di-modena",
+   "ducato-di-parma",
+   "stato-della-chiesa"
+  ],
+  "importance": 3,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Moti del 1830-1831"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-giovine-italia",
+  "name": "Mazzini fonda la Giovine Italia",
+  "date_edtf": "1831",
+  "year": 1831,
+  "type": "other",
+  "polities": [],
+  "importance": 3,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Giovine Italia"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-lucca-toscana",
+  "name": "Il Ducato di Lucca passa alla Toscana",
+  "date_edtf": "1847-10",
+  "year": 1847,
+  "type": "annexation",
+  "polities": [
+   "ducato-di-lucca",
+   "granducato-di-toscana"
+  ],
+  "importance": 2,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Ducato di Lucca"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 10.5,
+   "lat": 43.84
+  }
+ },
+ {
+  "id": "ev-rivoluzione-siciliana",
+  "name": "Insurrezione di Palermo",
+  "date_edtf": "1848-01-12",
+  "year": 1848,
+  "type": "revolt",
+  "polities": [
+   "regno-delle-due-sicilie",
+   "regno-di-sicilia-1848"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Rivoluzione siciliana del 1848"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 13.35,
+   "lat": 38.12
+  }
+ },
+ {
+  "id": "ev-statuto-albertino",
+  "name": "Statuto Albertino",
+  "date_edtf": "1848-03-04",
+  "year": 1848,
+  "type": "other",
+  "polities": [
+   "regno-di-sardegna"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Statuto albertino"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 7.67,
+   "lat": 45.07
+  }
+ },
+ {
+  "id": "ev-cinque-giornate",
+  "name": "Cinque giornate di Milano",
+  "date_edtf": "1848-03-18",
+  "year": 1848,
+  "type": "revolt",
+  "polities": [
+   "regno-lombardo-veneto"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Cinque giornate di Milano"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 9.19,
+   "lat": 45.46
+  },
+  "note": "18-22 marzo 1848."
+ },
+ {
+  "id": "ev-san-marco-1848",
+  "name": "Proclamazione della Repubblica di San Marco",
+  "date_edtf": "1848-03-22",
+  "year": 1848,
+  "type": "proclamation",
+  "polities": [
+   "repubblica-di-san-marco"
+  ],
+  "importance": 3,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Repubblica di San Marco"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 12.34,
+   "lat": 45.44
+  }
+ },
+ {
+  "id": "ev-repubblica-romana-1849",
+  "name": "Repubblica Romana",
+  "date_edtf": "1849-02-09",
+  "year": 1849,
+  "type": "proclamation",
+  "polities": [
+   "stato-della-chiesa"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Repubblica Romana (1849)"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 12.48,
+   "lat": 41.89
+  },
+  "note": "Caduta il 4 luglio 1849 per l'intervento francese."
+ },
+ {
+  "id": "ev-novara",
+  "name": "Battaglia di Novara",
+  "date_edtf": "1849-03-23",
+  "year": 1849,
+  "type": "battle",
+  "polities": [
+   "regno-di-sardegna",
+   "impero-austriaco"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Battaglia di Novara (1849)"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 8.62,
+   "lat": 45.45
+  }
+ },
+ {
+  "id": "ev-resa-venezia",
+  "name": "Resa di Venezia",
+  "date_edtf": "1849-08-22",
+  "year": 1849,
+  "type": "war",
+  "polities": [
+   "repubblica-di-san-marco",
+   "impero-austriaco"
+  ],
+  "importance": 3,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Repubblica di San Marco"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 12.34,
+   "lat": 45.44
+  }
+ },
+ {
+  "id": "ev-plombieres",
+  "name": "Accordi di Plombières",
+  "date_edtf": "1858-07-21",
+  "year": 1858,
+  "type": "treaty",
+  "polities": [
+   "regno-di-sardegna",
+   "francia"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Accordi di Plombières"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-magenta",
+  "name": "Battaglia di Magenta",
+  "date_edtf": "1859-06-04",
+  "year": 1859,
+  "type": "battle",
+  "polities": [
+   "regno-di-sardegna",
+   "francia",
+   "impero-austriaco"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Battaglia di Magenta"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 8.88,
+   "lat": 45.46
+  }
+ },
+ {
+  "id": "ev-solferino",
+  "name": "Battaglie di Solferino e San Martino",
+  "date_edtf": "1859-06-24",
+  "year": 1859,
+  "type": "battle",
+  "polities": [
+   "regno-di-sardegna",
+   "francia",
+   "impero-austriaco"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Battaglia di Solferino"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 10.57,
+   "lat": 45.37
+  }
+ },
+ {
+  "id": "ev-villafranca",
+  "name": "Armistizio di Villafranca",
+  "date_edtf": "1859-07-11",
+  "year": 1859,
+  "type": "treaty",
+  "polities": [
+   "francia",
+   "impero-austriaco"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Armistizio di Villafranca"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 10.84,
+   "lat": 45.35
+  }
+ },
+ {
+  "id": "ev-zurigo",
+  "name": "Trattato di Zurigo",
+  "date_edtf": "1859-11-10",
+  "year": 1859,
+  "type": "treaty",
+  "polities": [
+   "francia",
+   "impero-austriaco",
+   "regno-di-sardegna"
+  ],
+  "importance": 3,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Trattato di Zurigo"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-plebisciti-1860",
+  "name": "Plebisciti di Emilia e Toscana",
+  "date_edtf": "1860-03-11",
+  "year": 1860,
+  "type": "plebiscite",
+  "polities": [
+   "regno-di-sardegna",
+   "province-unite-centro-italia"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Plebisciti risorgimentali"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-trattato-torino",
+  "name": "Trattato di Torino: Nizza e Savoia alla Francia",
+  "date_edtf": "1860-03-24",
+  "year": 1860,
+  "type": "treaty",
+  "polities": [
+   "regno-di-sardegna",
+   "francia"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Trattato di Torino (1860)"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 7.67,
+   "lat": 45.07
+  }
+ },
+ {
+  "id": "ev-mille",
+  "name": "Partenza della Spedizione dei Mille da Quarto",
+  "date_edtf": "1860-05-05",
+  "year": 1860,
+  "type": "war",
+  "polities": [
+   "regno-delle-due-sicilie"
+  ],
+  "importance": 5,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Spedizione dei Mille"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 9.0,
+   "lat": 44.4
+  }
+ },
+ {
+  "id": "ev-teano",
+  "name": "Incontro di Teano",
+  "date_edtf": "1860-10-26",
+  "year": 1860,
+  "type": "other",
+  "polities": [
+   "regno-di-sardegna"
+  ],
+  "importance": 3,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Incontro di Teano"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 14.07,
+   "lat": 41.25
+  }
+ },
+ {
+  "id": "ev-plebiscito-sud",
+  "name": "Plebiscito delle province napoletane e siciliane",
+  "date_edtf": "1860-10-21",
+  "year": 1860,
+  "type": "plebiscite",
+  "polities": [
+   "regno-di-sardegna",
+   "regno-delle-due-sicilie"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Plebisciti risorgimentali"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-gaeta",
+  "name": "Capitolazione di Gaeta",
+  "date_edtf": "1861-02-13",
+  "year": 1861,
+  "type": "war",
+  "polities": [
+   "regno-delle-due-sicilie",
+   "regno-di-sardegna"
+  ],
+  "importance": 3,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Assedio di Gaeta (1860-1861)"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 13.57,
+   "lat": 41.21
+  }
+ },
+ {
+  "id": "ev-regno-italia-1861",
+  "name": "Proclamazione del Regno d'Italia",
+  "date_edtf": "1861-03-17",
+  "year": 1861,
+  "type": "proclamation",
+  "polities": [
+   "regno-d-italia"
+  ],
+  "importance": 5,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Proclamazione del Regno d'Italia"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 7.67,
+   "lat": 45.07
+  }
+ },
+ {
+  "id": "ev-firenze-capitale",
+  "name": "Firenze capitale",
+  "date_edtf": "1865",
+  "year": 1865,
+  "type": "other",
+  "polities": [
+   "regno-d-italia"
+  ],
+  "importance": 3,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Firenze capitale d'Italia"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 11.26,
+   "lat": 43.77
+  }
+ },
+ {
+  "id": "ev-custoza-1866",
+  "name": "Battaglia di Custoza (1866)",
+  "date_edtf": "1866-06-24",
+  "year": 1866,
+  "type": "battle",
+  "polities": [
+   "regno-d-italia",
+   "impero-austriaco"
+  ],
+  "importance": 3,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Battaglia di Custoza (1866)"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 10.79,
+   "lat": 45.38
+  }
+ },
+ {
+  "id": "ev-trattato-vienna-1866",
+  "name": "Trattato di Vienna: il Veneto all'Italia",
+  "date_edtf": "1866-10-03",
+  "year": 1866,
+  "type": "treaty",
+  "polities": [
+   "regno-d-italia",
+   "impero-austriaco"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Trattato di Vienna (1866)"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-mentana",
+  "name": "Battaglia di Mentana",
+  "date_edtf": "1867-11-03",
+  "year": 1867,
+  "type": "battle",
+  "polities": [
+   "stato-della-chiesa",
+   "francia"
+  ],
+  "importance": 3,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Battaglia di Mentana"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 12.64,
+   "lat": 42.04
+  }
+ },
+ {
+  "id": "ev-porta-pia",
+  "name": "Presa di Roma (breccia di Porta Pia)",
+  "date_edtf": "1870-09-20",
+  "year": 1870,
+  "type": "war",
+  "polities": [
+   "regno-d-italia",
+   "stato-della-chiesa"
+  ],
+  "importance": 5,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Presa di Roma"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 12.5,
+   "lat": 41.91
+  }
+ },
+ {
+  "id": "ev-roma-capitale",
+  "name": "Roma capitale d'Italia",
+  "date_edtf": "1871-02-03",
+  "year": 1871,
+  "type": "other",
+  "polities": [
+   "regno-d-italia"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Roma capitale"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 12.48,
+   "lat": 41.89
+  }
+ },
+ {
+  "id": "ev-triplice",
+  "name": "Triplice alleanza",
+  "date_edtf": "1882-05-20",
+  "year": 1882,
+  "type": "treaty",
+  "polities": [
+   "regno-d-italia",
+   "austria-ungheria",
+   "impero-tedesco"
+  ],
+  "importance": 3,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Triplice alleanza (1882)"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-adua",
+  "name": "Battaglia di Adua",
+  "date_edtf": "1896-03-01",
+  "year": 1896,
+  "type": "battle",
+  "polities": [
+   "regno-d-italia"
+  ],
+  "importance": 3,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Battaglia di Adua"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-libia",
+  "name": "Guerra italo-turca: Libia e Dodecaneso",
+  "date_edtf": "1911-09-29",
+  "year": 1911,
+  "type": "war",
+  "polities": [
+   "regno-d-italia",
+   "impero-ottomano"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Guerra italo-turca"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-ingresso-guerra",
+  "name": "L'Italia entra nella prima guerra mondiale",
+  "date_edtf": "1915-05-24",
+  "year": 1915,
+  "type": "war",
+  "polities": [
+   "regno-d-italia",
+   "austria-ungheria"
+  ],
+  "importance": 5,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Fronte italiano (1915-1918)"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-vittorio-veneto",
+  "name": "Battaglia di Vittorio Veneto e armistizio di Villa Giusti",
+  "date_edtf": "1918-11-04",
+  "year": 1918,
+  "type": "battle",
+  "polities": [
+   "regno-d-italia",
+   "austria-ungheria"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Battaglia di Vittorio Veneto"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 12.3,
+   "lat": 45.98
+  }
+ },
+ {
+  "id": "ev-marcia-roma",
+  "name": "Marcia su Roma",
+  "date_edtf": "1922-10-28",
+  "year": 1922,
+  "type": "other",
+  "polities": [
+   "regno-d-italia"
+  ],
+  "importance": 5,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Marcia su Roma"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 12.48,
+   "lat": 41.89
+  }
+ },
+ {
+  "id": "ev-patti-lateranensi",
+  "name": "Patti Lateranensi",
+  "date_edtf": "1929-02-11",
+  "year": 1929,
+  "type": "treaty",
+  "polities": [
+   "regno-d-italia",
+   "santa-sede"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Patti lateranensi"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 12.5,
+   "lat": 41.89
+  }
+ },
+ {
+  "id": "ev-armistizio-1943",
+  "name": "Armistizio di Cassibile reso noto",
+  "date_edtf": "1943-09-08",
+  "year": 1943,
+  "type": "treaty",
+  "polities": [
+   "regno-d-italia"
+  ],
+  "importance": 5,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Armistizio di Cassibile"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-liberazione",
+  "name": "Liberazione",
+  "date_edtf": "1945-04-25",
+  "year": 1945,
+  "type": "war",
+  "polities": [
+   "regno-d-italia"
+  ],
+  "importance": 5,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Festa della Liberazione"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-referendum-1946",
+  "name": "Referendum istituzionale",
+  "date_edtf": "1946-06-02",
+  "year": 1946,
+  "type": "plebiscite",
+  "polities": [
+   "regno-d-italia",
+   "repubblica-italiana"
+  ],
+  "importance": 5,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Referendum istituzionale del 1946"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-trattato-parigi-1947",
+  "name": "Trattato di Parigi",
+  "date_edtf": "1947-02-10",
+  "year": 1947,
+  "type": "treaty",
+  "polities": [
+   "repubblica-italiana"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Trattati di Parigi fra Italia e potenze alleate"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-costituzione",
+  "name": "Entrata in vigore della Costituzione",
+  "date_edtf": "1948-01-01",
+  "year": 1948,
+  "type": "other",
+  "polities": [
+   "repubblica-italiana"
+  ],
+  "importance": 4,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Costituzione della Repubblica Italiana"
+   }
+  ],
+  "review": "draft"
+ },
+ {
+  "id": "ev-memorandum-londra",
+  "name": "Memorandum di Londra: Trieste all'Italia",
+  "date_edtf": "1954-10-05",
+  "year": 1954,
+  "type": "treaty",
+  "polities": [
+   "repubblica-italiana"
+  ],
+  "importance": 3,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Memorandum di Londra"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 13.77,
+   "lat": 45.65
+  }
+ },
+ {
+  "id": "ev-trattato-osimo",
+  "name": "Trattato di Osimo",
+  "date_edtf": "1975-11-10",
+  "year": 1975,
+  "type": "treaty",
+  "polities": [
+   "repubblica-italiana"
+  ],
+  "importance": 3,
+  "certainty": "high",
+  "sources": [
+   {
+    "id": "src-wikipedia-it",
+    "loc": "Trattato di Osimo"
+   }
+  ],
+  "review": "draft",
+  "location": {
+   "lon": 13.48,
+   "lat": 43.48
+  }
+ }
+]

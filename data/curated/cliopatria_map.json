@@ -1,0 +1,1606 @@
+{
+ "_doc": "Mappatura dei nomi entità Cliopatria v0.2.1 → polity dell'atlante. I nomi italiani e le famiglie cromatiche sono scelte editoriali/cartografiche, non dati storici; i confini e le date restano quelli di Cliopatria. Le entità non elencate ricevono id 'clio-<slug>', nome inglese e famiglia 'neutro'. Una finestra [start_year, end_year) permette di attribuire a polity diverse righe con lo stesso nome Cliopatria.",
+ "entries": [
+  {
+   "name": "Phoenicia",
+   "polity_id": "fenicia",
+   "name_it": "Fenicia",
+   "family": "cartagine",
+   "kind": "people"
+  },
+  {
+   "name": "Phoenician Colonies",
+   "polity_id": "colonie-fenicie",
+   "name_it": "Colonie fenicie",
+   "family": "cartagine",
+   "kind": "people"
+  },
+  {
+   "name": "Carthage",
+   "polity_id": "cartagine",
+   "name_it": "Cartagine",
+   "family": "cartagine",
+   "kind": "state",
+   "external": true
+  },
+  {
+   "name": "Etruscans",
+   "polity_id": "etruschi",
+   "name_it": "Etruschi",
+   "family": "popoli-preromani",
+   "kind": "people"
+  },
+  {
+   "name": "Mamertines",
+   "polity_id": "mamertini",
+   "name_it": "Mamertini (Messana)",
+   "family": "popoli-preromani",
+   "kind": "people"
+  },
+  {
+   "name": "Italian City-States",
+   "polity_id": "socii-italici",
+   "name_it": "Socii italici insorti (guerra sociale)",
+   "family": "popoli-preromani",
+   "kind": "league"
+  },
+  {
+   "name": "Greek City-States",
+   "polity_id": "poleis-greche",
+   "name_it": "Poleis greche",
+   "family": "greci",
+   "kind": "people"
+  },
+  {
+   "name": "Greek Colonies",
+   "polity_id": "colonie-greche",
+   "name_it": "Colonie greche",
+   "family": "greci",
+   "kind": "people"
+  },
+  {
+   "name": "Macedonian Empire",
+   "polity_id": "impero-macedone",
+   "name_it": "Impero macedone",
+   "family": "greci",
+   "kind": "empire",
+   "tint_offset": 1
+  },
+  {
+   "name": "Antigonid Macedonia",
+   "polity_id": "macedonia-antigonide",
+   "name_it": "Macedonia antigonide",
+   "family": "greci",
+   "kind": "kingdom",
+   "tint_offset": 1
+  },
+  {
+   "name": "Roman Kingdom",
+   "polity_id": "regno-di-roma",
+   "name_it": "Regno di Roma",
+   "family": "roma",
+   "kind": "kingdom",
+   "tint_offset": 1
+  },
+  {
+   "name": "Roman Republic",
+   "polity_id": "repubblica-romana",
+   "name_it": "Repubblica romana",
+   "family": "roma",
+   "kind": "republic",
+   "external": true
+  },
+  {
+   "name": "Roman Empire",
+   "polity_id": "impero-romano",
+   "name_it": "Impero romano",
+   "family": "roma",
+   "kind": "empire",
+   "external": true
+  },
+  {
+   "name": "Western Roman Empire",
+   "polity_id": "impero-romano-d-occidente",
+   "name_it": "Impero romano d'Occidente",
+   "family": "roma",
+   "kind": "empire",
+   "external": true
+  },
+  {
+   "name": "Eastern Roman Empire",
+   "polity_id": "impero-romano-d-oriente",
+   "name_it": "Impero romano d'Oriente",
+   "family": "bisanzio",
+   "kind": "empire",
+   "external": true
+  },
+  {
+   "name": "Byzantine Empire",
+   "polity_id": "impero-bizantino",
+   "name_it": "Impero bizantino",
+   "family": "bisanzio",
+   "kind": "empire",
+   "external": true
+  },
+  {
+   "name": "Despotate of Epirus",
+   "polity_id": "despotato-d-epiro",
+   "name_it": "Despotato d'Epiro",
+   "family": "bisanzio",
+   "kind": "state",
+   "tint_offset": 1
+  },
+  {
+   "name": "Duchy of Naples",
+   "polity_id": "ducato-di-napoli",
+   "name_it": "Ducato di Napoli",
+   "family": "bisanzio",
+   "kind": "duchy",
+   "tint_offset": 1
+  },
+  {
+   "name": "Vandals",
+   "polity_id": "vandali",
+   "name_it": "Vandali",
+   "family": "goti",
+   "kind": "people"
+  },
+  {
+   "name": "Vandal Kingdom",
+   "polity_id": "regno-dei-vandali",
+   "name_it": "Regno dei Vandali",
+   "family": "goti",
+   "kind": "kingdom"
+  },
+  {
+   "name": "Visigoths",
+   "polity_id": "visigoti",
+   "name_it": "Visigoti",
+   "family": "goti",
+   "kind": "people",
+   "tint_offset": 1
+  },
+  {
+   "name": "Visigothic Kingdom",
+   "polity_id": "regno-visigoto",
+   "name_it": "Regno visigoto",
+   "family": "goti",
+   "kind": "kingdom",
+   "tint_offset": 1
+  },
+  {
+   "name": "Ostrogoths",
+   "polity_id": "ostrogoti",
+   "name_it": "Ostrogoti",
+   "family": "goti",
+   "kind": "people"
+  },
+  {
+   "name": "Ostrogothic Kingdom",
+   "polity_id": "regno-ostrogoto",
+   "name_it": "Regno ostrogoto",
+   "family": "goti",
+   "kind": "kingdom"
+  },
+  {
+   "name": "Burgundian Kingdom",
+   "polity_id": "regno-dei-burgundi",
+   "name_it": "Regno dei Burgundi",
+   "family": "goti",
+   "kind": "kingdom",
+   "tint_offset": 1
+  },
+  {
+   "name": "Kingdom of the Gepids",
+   "polity_id": "regno-dei-gepidi",
+   "name_it": "Regno dei Gepidi",
+   "family": "goti",
+   "kind": "kingdom",
+   "tint_offset": 1
+  },
+  {
+   "name": "Lombards",
+   "polity_id": "longobardi",
+   "name_it": "Longobardi",
+   "family": "longobardi",
+   "kind": "people"
+  },
+  {
+   "name": "Kingdom of Italy",
+   "start_year": 568,
+   "end_year": 775,
+   "polity_id": "regno-longobardo",
+   "name_it": "Regno longobardo",
+   "family": "longobardi",
+   "kind": "kingdom"
+  },
+  {
+   "name": "Duchy of Tuscia",
+   "polity_id": "ducato-di-tuscia",
+   "name_it": "Ducato di Tuscia",
+   "family": "longobardi",
+   "kind": "duchy",
+   "tint_offset": 1
+  },
+  {
+   "name": "Duchy of Spoleto",
+   "polity_id": "ducato-di-spoleto",
+   "name_it": "Ducato di Spoleto",
+   "family": "longobardi",
+   "kind": "duchy",
+   "tint_offset": 1
+  },
+  {
+   "name": "Duchy of Benevento",
+   "polity_id": "ducato-di-benevento",
+   "name_it": "Ducato (poi Principato) di Benevento",
+   "family": "longobardi",
+   "kind": "duchy",
+   "tint_offset": 1
+  },
+  {
+   "name": "Principality of Salerno",
+   "polity_id": "principato-di-salerno",
+   "name_it": "Principato di Salerno",
+   "family": "longobardi",
+   "kind": "state",
+   "tint_offset": 1
+  },
+  {
+   "name": "Principality of Capua",
+   "polity_id": "principato-di-capua",
+   "name_it": "Principato di Capua",
+   "family": "longobardi",
+   "kind": "state",
+   "tint_offset": 1
+  },
+  {
+   "name": "Kingdom of Italy",
+   "start_year": 775,
+   "end_year": 1100,
+   "polity_id": "regno-d-italia-medievale",
+   "name_it": "Regno d'Italia (Regnum Italiae)",
+   "family": "regno-italia-sri",
+   "kind": "kingdom"
+  },
+  {
+   "name": "Upper Burgundy and Italy",
+   "polity_id": "borgogna-e-italia",
+   "name_it": "Borgogna Superiore e Regno d'Italia",
+   "family": "regno-italia-sri",
+   "kind": "kingdom",
+   "tint_offset": 1
+  },
+  {
+   "name": "Holy Roman Empire",
+   "polity_id": "sacro-romano-impero",
+   "name_it": "Sacro Romano Impero",
+   "family": "regno-italia-sri",
+   "kind": "empire"
+  },
+  {
+   "name": "Holy Roman Empire Minor States",
+   "polity_id": "sri-stati-minori",
+   "name_it": "Stati minori del Sacro Romano Impero",
+   "family": "regno-italia-sri",
+   "kind": "composite",
+   "tint_offset": 1
+  },
+  {
+   "name": "Patriarchate of Aquileia",
+   "polity_id": "patriarcato-di-aquileia",
+   "name_it": "Patriarcato di Aquileia",
+   "family": "regno-italia-sri",
+   "kind": "state",
+   "tint_offset": 2
+  },
+  {
+   "name": "Kingdom of Germany",
+   "polity_id": "regno-di-germania",
+   "name_it": "Regno di Germania",
+   "family": "germania",
+   "kind": "kingdom"
+  },
+  {
+   "name": "House of Hohenstaufen",
+   "polity_id": "casa-hohenstaufen",
+   "name_it": "Domini degli Hohenstaufen",
+   "family": "germania",
+   "kind": "other"
+  },
+  {
+   "name": "Kingdom of Alamannia",
+   "polity_id": "alamanni",
+   "name_it": "Regno degli Alamanni",
+   "family": "germania",
+   "kind": "kingdom"
+  },
+  {
+   "name": "Bavarians",
+   "polity_id": "bavari",
+   "name_it": "Bavari",
+   "family": "germania",
+   "kind": "people"
+  },
+  {
+   "name": "Duchy of Bavaria",
+   "polity_id": "ducato-di-baviera",
+   "name_it": "Ducato di Baviera",
+   "family": "germania",
+   "kind": "duchy"
+  },
+  {
+   "name": "Kingdom of Bavaria",
+   "polity_id": "regno-di-baviera",
+   "name_it": "Regno di Baviera",
+   "family": "germania",
+   "kind": "kingdom"
+  },
+  {
+   "name": "German Empire",
+   "polity_id": "impero-tedesco",
+   "name_it": "Impero tedesco",
+   "family": "germania",
+   "kind": "empire"
+  },
+  {
+   "name": "Weimar Republic",
+   "polity_id": "repubblica-di-weimar",
+   "name_it": "Repubblica di Weimar",
+   "family": "germania",
+   "kind": "republic"
+  },
+  {
+   "name": "Nazi Germany",
+   "polity_id": "germania-nazista",
+   "name_it": "Germania nazista",
+   "family": "germania",
+   "kind": "state"
+  },
+  {
+   "name": "Federal Republic of Germany",
+   "polity_id": "germania-ovest",
+   "name_it": "Repubblica federale di Germania",
+   "family": "germania",
+   "kind": "republic"
+  },
+  {
+   "name": "Federated Republic of Germany",
+   "polity_id": "germania",
+   "name_it": "Germania",
+   "family": "germania",
+   "kind": "republic"
+  },
+  {
+   "name": "Kingdom of the Franks",
+   "polity_id": "regno-dei-franchi",
+   "name_it": "Regno dei Franchi",
+   "family": "franchi",
+   "kind": "kingdom"
+  },
+  {
+   "name": "Merovingian Empire",
+   "polity_id": "regno-merovingio",
+   "name_it": "Regno merovingio",
+   "family": "franchi",
+   "kind": "kingdom"
+  },
+  {
+   "name": "Salian Franks",
+   "polity_id": "franchi-salii",
+   "name_it": "Franchi Salii",
+   "family": "franchi",
+   "kind": "people"
+  },
+  {
+   "name": "Carolingian Empire",
+   "polity_id": "impero-carolingio",
+   "name_it": "Impero carolingio",
+   "family": "franchi",
+   "kind": "empire"
+  },
+  {
+   "name": "Middle Franks",
+   "polity_id": "francia-media",
+   "name_it": "Francia Media (Lotaringia)",
+   "family": "franchi",
+   "kind": "kingdom"
+  },
+  {
+   "name": "West Franks",
+   "polity_id": "francia-occidentale",
+   "name_it": "Francia Occidentale",
+   "family": "franchi",
+   "kind": "kingdom",
+   "tint_offset": 1
+  },
+  {
+   "name": "East Franks",
+   "polity_id": "francia-orientale",
+   "name_it": "Francia Orientale",
+   "family": "franchi",
+   "kind": "kingdom",
+   "tint_offset": 1
+  },
+  {
+   "name": "Aquitaine",
+   "polity_id": "aquitania",
+   "name_it": "Aquitania",
+   "family": "franchi",
+   "kind": "duchy",
+   "tint_offset": 2
+  },
+  {
+   "name": "Upper Burgundy",
+   "polity_id": "borgogna-superiore",
+   "name_it": "Borgogna Superiore",
+   "family": "franchi",
+   "kind": "kingdom",
+   "tint_offset": 1
+  },
+  {
+   "name": "Lower Burgundy",
+   "polity_id": "borgogna-inferiore",
+   "name_it": "Borgogna Inferiore (Provenza)",
+   "family": "franchi",
+   "kind": "kingdom",
+   "tint_offset": 1
+  },
+  {
+   "name": "Kingdom of Lower Burgundy",
+   "polity_id": "regno-di-borgogna-inferiore",
+   "name_it": "Regno di Borgogna Inferiore",
+   "family": "franchi",
+   "kind": "kingdom",
+   "tint_offset": 1
+  },
+  {
+   "name": "Kingdom of Arles",
+   "polity_id": "regno-di-arles",
+   "name_it": "Regno di Arles",
+   "family": "franchi",
+   "kind": "kingdom",
+   "tint_offset": 2
+  },
+  {
+   "name": "Papal States",
+   "polity_id": "stato-della-chiesa",
+   "name_it": "Stato della Chiesa",
+   "family": "papato",
+   "kind": "state"
+  },
+  {
+   "name": "Revolutionary Roman Republic",
+   "polity_id": "repubblica-romana-1798",
+   "name_it": "Repubblica Romana (1798-1799)",
+   "family": "francia",
+   "kind": "republic",
+   "tint_offset": 1
+  },
+  {
+   "name": "Rashidun Caliphate",
+   "polity_id": "califfato-rashidun",
+   "name_it": "Califfato dei Rashidun",
+   "family": "islam",
+   "kind": "empire"
+  },
+  {
+   "name": "Umayyad Caliphate",
+   "polity_id": "califfato-omayyade",
+   "name_it": "Califfato omayyade",
+   "family": "islam",
+   "kind": "empire"
+  },
+  {
+   "name": "Abbasid Caliphate",
+   "polity_id": "califfato-abbaside",
+   "name_it": "Califfato abbaside",
+   "family": "islam",
+   "kind": "empire"
+  },
+  {
+   "name": "Fatimid Caliphate",
+   "polity_id": "califfato-fatimide",
+   "name_it": "Califfato fatimide",
+   "family": "islam",
+   "kind": "empire"
+  },
+  {
+   "name": "Aghlabid Dynasty",
+   "polity_id": "aghlabidi",
+   "name_it": "Emirato aghlabide",
+   "family": "islam",
+   "kind": "state"
+  },
+  {
+   "name": "Emirate of Sicily",
+   "polity_id": "emirato-di-sicilia",
+   "name_it": "Emirato di Sicilia",
+   "family": "islam",
+   "kind": "state"
+  },
+  {
+   "name": "Zirid dynasty",
+   "polity_id": "ziridi",
+   "name_it": "Ziridi",
+   "family": "islam",
+   "kind": "state",
+   "tint_offset": 1
+  },
+  {
+   "name": "Hammadid Dynasty",
+   "polity_id": "hammadidi",
+   "name_it": "Hammadidi",
+   "family": "islam",
+   "kind": "state",
+   "tint_offset": 1
+  },
+  {
+   "name": "Almohad Caliphate",
+   "polity_id": "almohadi",
+   "name_it": "Califfato almohade",
+   "family": "islam",
+   "kind": "empire"
+  },
+  {
+   "name": "Hafsid Dynasty",
+   "polity_id": "hafsidi",
+   "name_it": "Hafsidi",
+   "family": "islam",
+   "kind": "state"
+  },
+  {
+   "name": "Marinid Sultanate",
+   "polity_id": "merinidi",
+   "name_it": "Sultanato merinide",
+   "family": "islam",
+   "kind": "state",
+   "tint_offset": 1
+  },
+  {
+   "name": "Giudicato of Cagliari",
+   "polity_id": "giudicato-di-cagliari",
+   "name_it": "Giudicato di Cagliari",
+   "family": "indipendenti",
+   "kind": "kingdom"
+  },
+  {
+   "name": "Giudicato of Gallura",
+   "polity_id": "giudicato-di-gallura",
+   "name_it": "Giudicato di Gallura",
+   "family": "indipendenti",
+   "kind": "kingdom"
+  },
+  {
+   "name": "Giudicato of Logudoro",
+   "polity_id": "giudicato-di-torres",
+   "name_it": "Giudicato di Torres (Logudoro)",
+   "family": "indipendenti",
+   "kind": "kingdom"
+  },
+  {
+   "name": "Giudicato of Arborea",
+   "polity_id": "giudicato-di-arborea",
+   "name_it": "Giudicato di Arborea",
+   "family": "indipendenti",
+   "kind": "kingdom"
+  },
+  {
+   "name": "Republic of Venice",
+   "polity_id": "repubblica-di-venezia",
+   "name_it": "Repubblica di Venezia",
+   "family": "venezia",
+   "kind": "republic",
+   "external": true
+  },
+  {
+   "name": "Republic of Genoa",
+   "polity_id": "repubblica-di-genova",
+   "name_it": "Repubblica di Genova",
+   "family": "genova",
+   "kind": "republic",
+   "external": true
+  },
+  {
+   "name": "Ligurian Republic",
+   "polity_id": "repubblica-ligure",
+   "name_it": "Repubblica Ligure",
+   "family": "francia",
+   "kind": "republic",
+   "tint_offset": 1
+  },
+  {
+   "name": "Republic of Pisa",
+   "polity_id": "repubblica-di-pisa",
+   "name_it": "Repubblica di Pisa",
+   "family": "indipendenti",
+   "kind": "republic",
+   "external": true
+  },
+  {
+   "name": "Republic of Amalfi",
+   "polity_id": "repubblica-di-amalfi",
+   "name_it": "Repubblica di Amalfi",
+   "family": "indipendenti",
+   "kind": "republic"
+  },
+  {
+   "name": "Republic of Florence",
+   "polity_id": "repubblica-di-firenze",
+   "name_it": "Repubblica di Firenze / Stato mediceo",
+   "family": "firenze",
+   "kind": "republic"
+  },
+  {
+   "name": "Grand Duchy of Tuscany",
+   "polity_id": "granducato-di-toscana",
+   "name_it": "Granducato di Toscana",
+   "family": "austria",
+   "kind": "state",
+   "tint_offset": 2
+  },
+  {
+   "name": "Kingdom of Etruria",
+   "polity_id": "regno-d-etruria",
+   "name_it": "Regno d'Etruria",
+   "family": "francia",
+   "kind": "kingdom",
+   "tint_offset": 1
+  },
+  {
+   "name": "Duchy of Milan",
+   "polity_id": "ducato-di-milano",
+   "name_it": "Ducato di Milano",
+   "family": "milano",
+   "kind": "duchy"
+  },
+  {
+   "name": "Ambrosian Republic",
+   "polity_id": "repubblica-ambrosiana",
+   "name_it": "Aurea Repubblica Ambrosiana",
+   "family": "milano",
+   "kind": "republic",
+   "tint_offset": 1
+  },
+  {
+   "name": "Norman Italy",
+   "polity_id": "italia-normanna",
+   "name_it": "Domini normanni",
+   "family": "sicilia-napoli",
+   "kind": "other",
+   "tint_offset": 1
+  },
+  {
+   "name": "Kingdom of Sicily",
+   "polity_id": "regno-di-sicilia",
+   "name_it": "Regno di Sicilia",
+   "family": "sicilia-napoli",
+   "kind": "kingdom",
+   "external": true
+  },
+  {
+   "name": "Kingdom of Africa",
+   "polity_id": "regno-d-africa",
+   "name_it": "Regno d'Africa (normanno)",
+   "family": "sicilia-napoli",
+   "kind": "kingdom",
+   "tint_offset": 1
+  },
+  {
+   "name": "House of Anjou-Sicily",
+   "polity_id": "angioini-domini-balcanici",
+   "name_it": "Domini angioini nei Balcani",
+   "family": "sicilia-napoli",
+   "kind": "other",
+   "tint_offset": 1
+  },
+  {
+   "name": "Kingdom of Naples",
+   "polity_id": "regno-di-napoli",
+   "name_it": "Regno di Napoli",
+   "family": "sicilia-napoli",
+   "kind": "kingdom"
+  },
+  {
+   "name": "Kingdom of Naples (Napoleonic)",
+   "start_year": 1700,
+   "end_year": 1806,
+   "polity_id": "regno-di-napoli",
+   "name_it": "Regno di Napoli",
+   "family": "sicilia-napoli",
+   "kind": "kingdom"
+  },
+  {
+   "name": "Kingdom of Naples (Napoleonic)",
+   "start_year": 1806,
+   "end_year": 1816,
+   "polity_id": "regno-di-napoli-napoleonico",
+   "name_it": "Regno di Napoli (napoleonico)",
+   "family": "francia",
+   "kind": "kingdom",
+   "tint_offset": 1
+  },
+  {
+   "name": "Kingdom of the Two Sicilies",
+   "polity_id": "regno-delle-due-sicilie",
+   "name_it": "Regno delle Due Sicilie",
+   "family": "sicilia-napoli",
+   "kind": "kingdom"
+  },
+  {
+   "name": "Crown of Aragon",
+   "polity_id": "corona-d-aragona",
+   "name_it": "Corona d'Aragona",
+   "family": "aragona-spagna",
+   "kind": "kingdom",
+   "external": true
+  },
+  {
+   "name": "Crown of Castile",
+   "polity_id": "corona-di-castiglia",
+   "name_it": "Corona di Castiglia",
+   "family": "aragona-spagna",
+   "kind": "kingdom",
+   "tint_offset": 1
+  },
+  {
+   "name": "Spanish Empire",
+   "polity_id": "impero-spagnolo",
+   "name_it": "Monarchia spagnola",
+   "family": "aragona-spagna",
+   "kind": "empire",
+   "external": true
+  },
+  {
+   "name": "Kingdom of Spain",
+   "polity_id": "impero-spagnolo",
+   "name_it": "Monarchia spagnola",
+   "family": "aragona-spagna",
+   "kind": "empire"
+  },
+  {
+   "name": "Iberian Union",
+   "polity_id": "impero-spagnolo",
+   "name_it": "Monarchia spagnola (Unione iberica)",
+   "family": "aragona-spagna",
+   "kind": "empire"
+  },
+  {
+   "name": "Francoist Spain",
+   "polity_id": "spagna-franchista",
+   "name_it": "Spagna franchista",
+   "family": "aragona-spagna",
+   "kind": "state"
+  },
+  {
+   "name": "Kingdom of France",
+   "polity_id": "regno-di-francia",
+   "name_it": "Regno di Francia",
+   "family": "francia",
+   "kind": "kingdom"
+  },
+  {
+   "name": "Capetian House of Anjou",
+   "polity_id": "angioini-capetingi",
+   "name_it": "Domini angioini (Capetingi)",
+   "family": "francia",
+   "kind": "other",
+   "tint_offset": 1
+  },
+  {
+   "name": "House of Valois-Anjou",
+   "polity_id": "valois-angio",
+   "name_it": "Domini dei Valois-Angiò",
+   "family": "francia",
+   "kind": "other",
+   "tint_offset": 1
+  },
+  {
+   "name": "Dauphiné",
+   "polity_id": "delfinato",
+   "name_it": "Delfinato",
+   "family": "francia",
+   "kind": "other",
+   "tint_offset": 1
+  },
+  {
+   "name": "Duchy of Burgundy",
+   "polity_id": "ducato-di-borgogna",
+   "name_it": "Ducato di Borgogna",
+   "family": "francia",
+   "kind": "duchy",
+   "tint_offset": 2
+  },
+  {
+   "name": "French First Republic",
+   "polity_id": "francia",
+   "name_it": "Francia",
+   "family": "francia",
+   "kind": "state"
+  },
+  {
+   "name": "French Directory",
+   "polity_id": "francia",
+   "name_it": "Francia",
+   "family": "francia",
+   "kind": "state"
+  },
+  {
+   "name": "French Consulate",
+   "polity_id": "francia",
+   "name_it": "Francia",
+   "family": "francia",
+   "kind": "state"
+  },
+  {
+   "name": "First French Empire",
+   "polity_id": "francia",
+   "name_it": "Francia",
+   "family": "francia",
+   "kind": "state"
+  },
+  {
+   "name": "Bourbon Kingdom of France",
+   "polity_id": "francia",
+   "name_it": "Francia",
+   "family": "francia",
+   "kind": "state"
+  },
+  {
+   "name": "French Second Republic",
+   "polity_id": "francia",
+   "name_it": "Francia",
+   "family": "francia",
+   "kind": "state"
+  },
+  {
+   "name": "Second French Empire",
+   "polity_id": "francia",
+   "name_it": "Francia",
+   "family": "francia",
+   "kind": "state"
+  },
+  {
+   "name": "French Third Republic",
+   "polity_id": "francia",
+   "name_it": "Francia",
+   "family": "francia",
+   "kind": "state"
+  },
+  {
+   "name": "Vichy France",
+   "polity_id": "francia-di-vichy",
+   "name_it": "Francia di Vichy",
+   "family": "francia",
+   "kind": "state",
+   "tint_offset": 1
+  },
+  {
+   "name": "Free French",
+   "polity_id": "francia-libera",
+   "name_it": "Francia libera",
+   "family": "francia",
+   "kind": "state",
+   "tint_offset": 1
+  },
+  {
+   "name": "French Fourth Republic",
+   "polity_id": "francia",
+   "name_it": "Francia",
+   "family": "francia",
+   "kind": "state"
+  },
+  {
+   "name": "French Fifth Republic",
+   "polity_id": "francia",
+   "name_it": "Francia",
+   "family": "francia",
+   "kind": "state"
+  },
+  {
+   "name": "French Algeria",
+   "polity_id": "algeria-francese",
+   "name_it": "Algeria francese",
+   "family": "francia",
+   "kind": "colony",
+   "tint_offset": 1
+  },
+  {
+   "name": "French Africa",
+   "polity_id": "africa-francese",
+   "name_it": "Africa francese",
+   "family": "francia",
+   "kind": "colony",
+   "tint_offset": 1
+  },
+  {
+   "name": "Cisalpine Republic",
+   "polity_id": "repubblica-cisalpina",
+   "name_it": "Repubblica Cisalpina",
+   "family": "francia",
+   "kind": "republic",
+   "tint_offset": 1
+  },
+  {
+   "name": "Cispadane Republic",
+   "polity_id": "repubblica-cispadana",
+   "name_it": "Repubblica Cispadana",
+   "family": "francia",
+   "kind": "republic",
+   "tint_offset": 1
+  },
+  {
+   "name": "Italian Republic",
+   "start_year": 1800,
+   "end_year": 1805,
+   "polity_id": "repubblica-italiana-1802",
+   "name_it": "Repubblica Italiana (1802-1805)",
+   "family": "francia",
+   "kind": "republic",
+   "tint_offset": 1
+  },
+  {
+   "name": "Italian Republic",
+   "start_year": 1805,
+   "end_year": 1815,
+   "polity_id": "regno-d-italia-napoleonico",
+   "name_it": "Regno d'Italia (napoleonico)",
+   "family": "francia",
+   "kind": "kingdom",
+   "tint_offset": 1
+  },
+  {
+   "name": "Helvetic Republic",
+   "polity_id": "repubblica-elvetica",
+   "name_it": "Repubblica Elvetica",
+   "family": "svizzera",
+   "kind": "republic",
+   "tint_offset": 1
+  },
+  {
+   "name": "Swiss Confederation",
+   "polity_id": "confederazione-svizzera",
+   "name_it": "Confederazione svizzera",
+   "family": "svizzera",
+   "kind": "state"
+  },
+  {
+   "name": "County of Savoy",
+   "polity_id": "contea-di-savoia",
+   "name_it": "Contea (poi Ducato) di Savoia",
+   "family": "savoia-italia",
+   "kind": "state",
+   "tint_offset": 1
+  },
+  {
+   "name": "House of Savoy",
+   "polity_id": "stati-sabaudi",
+   "name_it": "Stati sabaudi",
+   "family": "savoia-italia",
+   "kind": "state",
+   "tint_offset": 1
+  },
+  {
+   "name": "Kingdom of Sardinia",
+   "polity_id": "regno-di-sardegna",
+   "name_it": "Regno di Sardegna",
+   "family": "savoia-italia",
+   "kind": "kingdom"
+  },
+  {
+   "name": "Italian Nationalists",
+   "polity_id": "insorti-italiani-1848",
+   "name_it": "Governi provvisori italiani (1848)",
+   "family": "savoia-italia",
+   "kind": "other",
+   "tint_offset": 2
+  },
+  {
+   "name": "Kingdom of Italy",
+   "start_year": 1861,
+   "end_year": 1946,
+   "polity_id": "regno-d-italia",
+   "name_it": "Regno d'Italia",
+   "family": "savoia-italia",
+   "kind": "kingdom",
+   "external": true
+  },
+  {
+   "name": "Republic of Italy",
+   "polity_id": "repubblica-italiana",
+   "name_it": "Repubblica Italiana",
+   "family": "savoia-italia",
+   "kind": "republic",
+   "external": true
+  },
+  {
+   "name": "Duchy of Parma and Piacenza",
+   "polity_id": "ducato-di-parma",
+   "name_it": "Ducato di Parma e Piacenza",
+   "family": "indipendenti",
+   "kind": "duchy"
+  },
+  {
+   "name": "Duchy of Modena and Reggio",
+   "polity_id": "ducato-di-modena",
+   "name_it": "Ducato di Modena e Reggio",
+   "family": "austria",
+   "kind": "duchy",
+   "tint_offset": 2
+  },
+  {
+   "name": "Republic of San Marino",
+   "polity_id": "repubblica-di-san-marino",
+   "name_it": "Repubblica di San Marino",
+   "family": "indipendenti",
+   "kind": "republic"
+  },
+  {
+   "name": "Corsican Republic",
+   "polity_id": "repubblica-corsa",
+   "name_it": "Repubblica Corsa",
+   "family": "indipendenti",
+   "kind": "republic"
+  },
+  {
+   "name": "Principality of Monaco",
+   "polity_id": "principato-di-monaco",
+   "name_it": "Principato di Monaco",
+   "family": "indipendenti",
+   "kind": "state"
+  },
+  {
+   "name": "Kingdom of Monaco",
+   "polity_id": "principato-di-monaco",
+   "name_it": "Principato di Monaco",
+   "family": "indipendenti",
+   "kind": "state"
+  },
+  {
+   "name": "Republic of Ragusa",
+   "polity_id": "repubblica-di-ragusa",
+   "name_it": "Repubblica di Ragusa",
+   "family": "indipendenti",
+   "kind": "republic"
+  },
+  {
+   "name": "Malta",
+   "polity_id": "malta",
+   "name_it": "Malta",
+   "family": "indipendenti",
+   "kind": "state"
+  },
+  {
+   "name": "Duchy of Styria",
+   "polity_id": "ducato-di-stiria",
+   "name_it": "Ducato di Stiria",
+   "family": "austria",
+   "kind": "duchy",
+   "tint_offset": 1
+  },
+  {
+   "name": "House of Habsburg",
+   "polity_id": "domini-asburgici",
+   "name_it": "Domini asburgici",
+   "family": "austria",
+   "kind": "other"
+  },
+  {
+   "name": "Habsburg Monarchy",
+   "polity_id": "monarchia-asburgica",
+   "name_it": "Monarchia asburgica",
+   "family": "austria",
+   "kind": "state"
+  },
+  {
+   "name": "Electorate of Salzburg",
+   "polity_id": "elettorato-di-salisburgo",
+   "name_it": "Elettorato di Salisburgo",
+   "family": "austria",
+   "kind": "state",
+   "tint_offset": 1
+  },
+  {
+   "name": "Austrian Empire",
+   "polity_id": "impero-austriaco",
+   "name_it": "Impero austriaco",
+   "family": "austria",
+   "kind": "empire"
+  },
+  {
+   "name": "Austria-Hungary",
+   "polity_id": "austria-ungheria",
+   "name_it": "Austria-Ungheria",
+   "family": "austria",
+   "kind": "empire"
+  },
+  {
+   "name": "Republic of Austria",
+   "polity_id": "repubblica-d-austria",
+   "name_it": "Repubblica d'Austria",
+   "family": "austria",
+   "kind": "republic"
+  },
+  {
+   "name": "Second Republic of Austria",
+   "polity_id": "austria",
+   "name_it": "Austria",
+   "family": "austria",
+   "kind": "republic"
+  },
+  {
+   "name": "Ottoman Empire",
+   "polity_id": "impero-ottomano",
+   "name_it": "Impero ottomano",
+   "family": "ottomani",
+   "kind": "empire"
+  },
+  {
+   "name": "Regency of Algiers",
+   "polity_id": "reggenza-di-algeri",
+   "name_it": "Reggenza di Algeri",
+   "family": "ottomani",
+   "kind": "state",
+   "tint_offset": 1
+  },
+  {
+   "name": "Beylik of Tunis",
+   "polity_id": "beylicato-di-tunisi",
+   "name_it": "Beylicato di Tunisi",
+   "family": "ottomani",
+   "kind": "state",
+   "tint_offset": 1
+  },
+  {
+   "name": "Kingdom of England",
+   "polity_id": "regno-d-inghilterra",
+   "name_it": "Regno d'Inghilterra",
+   "family": "britannici",
+   "kind": "kingdom"
+  },
+  {
+   "name": "British Empire",
+   "polity_id": "regno-unito",
+   "name_it": "Impero britannico",
+   "family": "britannici",
+   "kind": "empire"
+  },
+  {
+   "name": "British Colonial Empire",
+   "polity_id": "regno-unito",
+   "name_it": "Impero britannico",
+   "family": "britannici",
+   "kind": "empire"
+  },
+  {
+   "name": "Kingdom of Great Britain",
+   "polity_id": "regno-unito",
+   "name_it": "Regno Unito",
+   "family": "britannici",
+   "kind": "kingdom"
+  },
+  {
+   "name": "Kingdom of Bosnia",
+   "polity_id": "regno-di-bosnia",
+   "name_it": "Regno di Bosnia",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Banate of Bosnia",
+   "polity_id": "banato-di-bosnia",
+   "name_it": "Banato di Bosnia",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Serbian Empire",
+   "polity_id": "impero-serbo",
+   "name_it": "Impero serbo",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Kingdom of Serbia",
+   "polity_id": "regno-di-serbia",
+   "name_it": "Regno di Serbia",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Grand Principality of Serbia",
+   "polity_id": "gran-principato-di-serbia",
+   "name_it": "Gran Principato di Serbia",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Kingdom of Hungary",
+   "polity_id": "regno-d-ungheria",
+   "name_it": "Regno d'Ungheria",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Principality of Hungary",
+   "polity_id": "principato-d-ungheria",
+   "name_it": "Principato d'Ungheria",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Kingdom of Croatia",
+   "polity_id": "regno-di-croazia",
+   "name_it": "Regno di Croazia",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Duchy of Croatia",
+   "polity_id": "ducato-di-croazia",
+   "name_it": "Ducato di Croazia",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "First Bulgarian Empire",
+   "polity_id": "primo-impero-bulgaro",
+   "name_it": "Primo Impero bulgaro",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Second Bulgarian Empire",
+   "polity_id": "secondo-impero-bulgaro",
+   "name_it": "Secondo Impero bulgaro",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Avar Khaganate",
+   "polity_id": "khaganato-avaro",
+   "name_it": "Khaganato avaro",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Huns",
+   "polity_id": "unni",
+   "name_it": "Unni",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Hunnic Empire",
+   "polity_id": "impero-unno",
+   "name_it": "Impero unno",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Carantania",
+   "polity_id": "carantania",
+   "name_it": "Carantania",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Kingdom of Duklja",
+   "polity_id": "regno-di-doclea",
+   "name_it": "Regno di Doclea",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Great Principality of Duklja",
+   "polity_id": "principato-di-doclea",
+   "name_it": "Principato di Doclea",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Albanian Principalities",
+   "polity_id": "principati-albanesi",
+   "name_it": "Principati albanesi",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Principality of Valona",
+   "polity_id": "principato-di-valona",
+   "name_it": "Principato di Valona",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Kingdom of Numidia",
+   "polity_id": "numidia",
+   "name_it": "Regno di Numidia",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Illyrian Kingdom",
+   "polity_id": "regno-illirico",
+   "name_it": "Regno illirico",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Achaemenid Empire",
+   "polity_id": "impero-achemenide",
+   "name_it": "Impero achemenide",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Gallic Empire",
+   "polity_id": "impero-delle-gallie",
+   "name_it": "Impero delle Gallie",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Ptolemaic Kingdom",
+   "polity_id": "regno-tolemaico",
+   "name_it": "Regno tolemaico",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Montenegro",
+   "polity_id": "montenegro",
+   "name_it": "Montenegro",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Albania",
+   "polity_id": "albania",
+   "name_it": "Albania",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Yugoslavia",
+   "polity_id": "jugoslavia",
+   "name_it": "Regno di Jugoslavia",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Socialist Federal Republic of Yugoslavia",
+   "polity_id": "rsf-jugoslavia",
+   "name_it": "Jugoslavia socialista",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Republic of Slovenia",
+   "polity_id": "slovenia",
+   "name_it": "Slovenia",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Republic of Croatia",
+   "polity_id": "croazia",
+   "name_it": "Croazia",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Independent State of Croatia",
+   "polity_id": "stato-indipendente-di-croazia",
+   "name_it": "Stato Indipendente di Croazia",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Bosnia and Herzegovina",
+   "polity_id": "bosnia-erzegovina",
+   "name_it": "Bosnia ed Erzegovina",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "People's Socialist Republic of Albania",
+   "polity_id": "albania-socialista",
+   "name_it": "Albania socialista",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Republic of Albania",
+   "polity_id": "albania",
+   "name_it": "Albania",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Republic of Tunisia",
+   "polity_id": "tunisia",
+   "name_it": "Tunisia",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "People's Democratic Republic of Algeria",
+   "polity_id": "algeria",
+   "name_it": "Algeria",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Hungary",
+   "polity_id": "ungheria",
+   "name_it": "Ungheria",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Hungarian Republic",
+   "polity_id": "ungheria",
+   "name_it": "Ungheria",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Hungarian People's Republic",
+   "polity_id": "ungheria",
+   "name_it": "Ungheria",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Kingdom of Portugal",
+   "polity_id": "regno-di-portogallo",
+   "name_it": "Regno di Portogallo",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Principality of Liechtenstein",
+   "polity_id": "liechtenstein",
+   "name_it": "Liechtenstein",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Union of Soviet Socialist Republics",
+   "polity_id": "urss",
+   "name_it": "Unione Sovietica",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Comtat Venaissin",
+   "polity_id": "contado-venassino",
+   "name_it": "Contado Venassino (pontificio)",
+   "family": "papato",
+   "kind": "state",
+   "tint_offset": 1
+  },
+  {
+   "name": "Principality of Orange",
+   "polity_id": "principato-d-orange",
+   "name_it": "Principato d'Orange",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Kingdom of Majorca",
+   "polity_id": "regno-di-maiorca",
+   "name_it": "Regno di Maiorca",
+   "family": "aragona-spagna",
+   "kind": "kingdom",
+   "tint_offset": 1
+  },
+  {
+   "name": "Principality of Achaea",
+   "polity_id": "principato-d-acaia",
+   "name_it": "Principato d'Acaia",
+   "family": "neutro",
+   "kind": "state"
+  },
+  {
+   "name": "Kingdom of Thessalonica",
+   "polity_id": "regno-di-tessalonica",
+   "name_it": "Regno di Tessalonica",
+   "family": "neutro",
+   "kind": "kingdom"
+  },
+  {
+   "name": "Angevin Empire",
+   "polity_id": "impero-angioino",
+   "name_it": "Impero angioino (Plantageneti)",
+   "family": "britannici",
+   "kind": "empire",
+   "tint_offset": 1
+  },
+  {
+   "name": "County of Toulouse",
+   "polity_id": "contea-di-tolosa",
+   "name_it": "Contea di Tolosa",
+   "family": "francia",
+   "kind": "state",
+   "tint_offset": 2
+  },
+  {
+   "name": "Kingdom of Greece",
+   "polity_id": "regno-di-grecia",
+   "name_it": "Regno di Grecia",
+   "family": "neutro",
+   "kind": "kingdom"
+  },
+  {
+   "name": "German Confederation",
+   "polity_id": "confederazione-germanica",
+   "name_it": "Confederazione germanica",
+   "family": "germania",
+   "kind": "league"
+  },
+  {
+   "name": "Septinsular Republic",
+   "polity_id": "repubblica-settinsulare",
+   "name_it": "Repubblica Settinsulare",
+   "family": "neutro",
+   "kind": "republic"
+  },
+  {
+   "name": "Mycenaean Greece",
+   "polity_id": "grecia-micenea",
+   "name_it": "Grecia micenea",
+   "family": "greci",
+   "kind": "people",
+   "tint_offset": 1
+  },
+  {
+   "name": "Greek Dark Ages",
+   "polity_id": "medioevo-ellenico",
+   "name_it": "Grecia («secoli bui»)",
+   "family": "greci",
+   "kind": "people",
+   "tint_offset": 1
+  },
+  {
+   "name": "Gothia",
+   "polity_id": "gothia",
+   "name_it": "Gothia",
+   "family": "goti",
+   "kind": "people",
+   "tint_offset": 1
+  },
+  {
+   "name": "Burgundians",
+   "polity_id": "burgundi",
+   "name_it": "Burgundi",
+   "family": "goti",
+   "kind": "people",
+   "tint_offset": 1
+  },
+  {
+   "name": "Rugiland",
+   "polity_id": "rugiland",
+   "name_it": "Rugiland (Rugi)",
+   "family": "goti",
+   "kind": "people",
+   "tint_offset": 1
+  },
+  {
+   "name": "Duchy of Lorraine",
+   "polity_id": "ducato-di-lorena",
+   "name_it": "Ducato di Lorena",
+   "family": "neutro",
+   "kind": "duchy"
+  },
+  {
+   "name": "House of Bourbon",
+   "polity_id": "casa-di-borbone",
+   "name_it": "Domini dei Borbone",
+   "family": "francia",
+   "kind": "other",
+   "tint_offset": 1
+  }
+ ]
+}

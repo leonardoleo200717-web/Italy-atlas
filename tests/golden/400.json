@@ -1,0 +1,26 @@
+{
+ "year": 400,
+ "reviewed_by": "draft (da revisionare)",
+ "cases": [
+  {
+   "place": "Roma",
+   "lon": 12.5,
+   "lat": 41.9,
+   "expect": "impero-romano-d-occidente",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Impero romano d'Occidente"
+   }
+  },
+  {
+   "place": "Milano",
+   "lon": 9.19,
+   "lat": 45.46,
+   "expect": "impero-romano-d-occidente",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Impero romano d'Occidente"
+   }
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "year": 1861,
+ "reviewed_by": "draft (da revisionare)",
+ "cases": [
+  {
+   "place": "Torino",
+   "lon": 7.67,
+   "lat": 45.07,
+   "expect": "regno-d-italia",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Proclamazione del Regno d'Italia"
+   }
+  },
+  {
+   "place": "Napoli",
+   "lon": 14.25,
+   "lat": 40.85,
+   "expect": "regno-d-italia",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Regno d'Italia (1861-1946)"
+   }
+  },
+  {
+   "place": "Roma",
+   "lon": 12.5,
+   "lat": 41.9,
+   "expect": "stato-della-chiesa",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Stato Pontificio"
+   }
+  },
+  {
+   "place": "Venezia",
+   "lon": 12.335,
+   "lat": 45.44,
+   "expect": "regno-lombardo-veneto",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Regno Lombardo-Veneto"
+   }
+  },
+  {
+   "place": "Mantova",
+   "lon": 10.79,
+   "lat": 45.16,
+   "expect": "regno-lombardo-veneto",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Trattato di Zurigo"
+   }
+  },
+  {
+   "place": "Trento",
+   "lon": 11.12,
+   "lat": 46.07,
+   "expect": "impero-austriaco",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Contea del Tirolo"
+   }
+  },
+  {
+   "place": "Nizza",
+   "lon": 7.26,
+   "lat": 43.72,
+   "expect": "francia",
+   "source": {
+    "id": "src-wikipedia-it",
+    "loc": "Trattato di Torino (1860)"
+   }
+  }
+ ]
+}

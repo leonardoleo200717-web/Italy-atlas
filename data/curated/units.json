@@ -1,0 +1,2549 @@
+[
+ {
+  "id": "uta-modena",
+  "name": "Provincia di Modena (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5358"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5358"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-reggio-emilia",
+  "name": "Provincia di Reggio Emilia (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5359"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "low",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5359"
+   }
+  ],
+  "review": "draft",
+  "note": "Guastalla fu parmense fino al 1847, poi modenese."
+ },
+ {
+  "id": "uta-parma",
+  "name": "Provincia di Parma (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5360"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5360"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-piacenza",
+  "name": "Provincia di Piacenza (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5361"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "low",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5361"
+   }
+  ],
+  "review": "draft",
+  "note": "UTA da suddividere: l'area di Bobbio era sabauda dal 1743."
+ },
+ {
+  "id": "uta-bologna",
+  "name": "Provincia di Bologna (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5362"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5362"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-ferrara",
+  "name": "Provincia di Ferrara (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5363"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5363"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-ravenna",
+  "name": "Provincia di Ravenna (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5364"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5364"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-forli-cesena",
+  "name": "Provincia di Forlì-Cesena (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5365"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5365"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-rimini",
+  "name": "Provincia di Rimini (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5366"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5366"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-genova",
+  "name": "Provincia di Genova (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5367"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5367"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-savona",
+  "name": "Provincia di Savona (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5368"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5368"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-imperia",
+  "name": "Provincia di Imperia (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5369"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5369"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-la-spezia",
+  "name": "Provincia di La Spezia (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5370"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5370"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-carbonia-iglesias",
+  "name": "Provincia di Carbonia-Iglesias (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5371"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5371"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-medio-campidano",
+  "name": "Provincia di Medio Campidano (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5372"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5372"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-oristano",
+  "name": "Provincia di Oristano (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5373"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5373"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-sassari",
+  "name": "Provincia di Sassari (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5374"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5374"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-olbia-tempio",
+  "name": "Provincia di Olbia-Tempio (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5375"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5375"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-nuoro",
+  "name": "Provincia di Nuoro (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5376"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5376"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-ogliastra",
+  "name": "Provincia di Ogliastra (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5377"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5377"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-cagliari",
+  "name": "Provincia di Cagliari (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5378"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5378"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-grosseto",
+  "name": "Provincia di Grosseto (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5379"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5379"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-livorno",
+  "name": "Provincia di Livorno (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5380"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5380"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-pisa",
+  "name": "Provincia di Pisa (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5381"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5381"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-massa-carrara",
+  "name": "Provincia di Massa-Carrara (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5382"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "low",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5382"
+   }
+  ],
+  "review": "draft",
+  "note": "UTA da suddividere: la Lunigiana era frammentata tra Toscana, Modena e Parma."
+ },
+ {
+  "id": "uta-lucca",
+  "name": "Provincia di Lucca (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5383"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "low",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5383"
+   }
+  ],
+  "review": "draft",
+  "note": "UTA da suddividere: la Garfagnana apparteneva al Ducato di Modena."
+ },
+ {
+  "id": "uta-pistoia",
+  "name": "Provincia di Pistoia (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5384"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5384"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-prato",
+  "name": "Provincia di Prato (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5385"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5385"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-firenze",
+  "name": "Provincia di Firenze (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5386"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5386"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-arezzo",
+  "name": "Provincia di Arezzo (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5387"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5387"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-siena",
+  "name": "Provincia di Siena (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5388"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5388"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-matera",
+  "name": "Provincia di Matera (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5389"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5389"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-potenza",
+  "name": "Provincia di Potenza (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5390"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5390"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-cosenza",
+  "name": "Provincia di Cosenza (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5391"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5391"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-crotone",
+  "name": "Provincia di Crotone (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5392"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5392"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-catanzaro",
+  "name": "Provincia di Catanzaro (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5393"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5393"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-vibo-valentia",
+  "name": "Provincia di Vibo Valentia (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5394"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5394"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-reggio-calabria",
+  "name": "Provincia di Reggio Calabria (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5395"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5395"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-caserta",
+  "name": "Provincia di Caserta (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5396"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5396"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-napoli",
+  "name": "Provincia di Napoli (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5397"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5397"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-benevento",
+  "name": "Provincia di Benevento (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5398"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "low",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5398"
+   }
+  ],
+  "review": "draft",
+  "note": "La città di Benevento era enclave pontificia (fino al 1860) entro le Due Sicilie: non rappresentata a questa grana."
+ },
+ {
+  "id": "uta-avellino",
+  "name": "Provincia di Avellino (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5399"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5399"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-salerno",
+  "name": "Provincia di Salerno (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5400"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5400"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-campobasso",
+  "name": "Provincia di Campobasso (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5401"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5401"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-isernia",
+  "name": "Provincia di Isernia (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5402"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5402"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-bari",
+  "name": "Provincia di Bari (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5403"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5403"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-foggia",
+  "name": "Provincia di Foggia (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5404"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5404"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-barletta-andria-trani",
+  "name": "Provincia di Barletta-Andria-Trani (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5405"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5405"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-brindisi",
+  "name": "Provincia di Brindisi (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5406"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5406"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-lecce",
+  "name": "Provincia di Lecce (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5407"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5407"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-taranto",
+  "name": "Provincia di Taranto (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5408"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5408"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-trapani",
+  "name": "Provincia di Trapani (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5409"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5409"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-palermo",
+  "name": "Provincia di Palermo (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5410"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5410"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-messina",
+  "name": "Provincia di Messina (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5411"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5411"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-enna",
+  "name": "Provincia di Enna (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5412"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5412"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-catania",
+  "name": "Provincia di Catania (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5413"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5413"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-siracusa",
+  "name": "Provincia di Siracusa (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5414"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5414"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-ragusa",
+  "name": "Provincia di Ragusa (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5415"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5415"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-caltanissetta",
+  "name": "Provincia di Caltanissetta (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5416"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5416"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-agrigento",
+  "name": "Provincia di Agrigento (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5417"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5417"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-pescara",
+  "name": "Provincia di Pescara (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5418"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5418"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-teramo",
+  "name": "Provincia di Teramo (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5419"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5419"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-l-aquila",
+  "name": "Provincia di L'Aquila (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5420"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5420"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-chieti",
+  "name": "Provincia di Chieti (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5421"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5421"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-roma",
+  "name": "Provincia di Roma (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5422"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5422"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-viterbo",
+  "name": "Provincia di Viterbo (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5423"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5423"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-rieti",
+  "name": "Provincia di Rieti (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5424"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "low",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5424"
+   }
+  ],
+  "review": "draft",
+  "note": "Il circondario di Rieti apparteneva allo Stato della Chiesa (delegazione); confini moderni approssimati."
+ },
+ {
+  "id": "uta-frosinone",
+  "name": "Provincia di Frosinone (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5425"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "low",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5425"
+   }
+  ],
+  "review": "draft",
+  "note": "UTA da suddividere: Sora e Cassino erano nel Regno di Napoli/Due Sicilie; Pontecorvo enclave pontificia."
+ },
+ {
+  "id": "uta-latina",
+  "name": "Provincia di Latina (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5426"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "low",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5426"
+   }
+  ],
+  "review": "draft",
+  "note": "UTA da suddividere: Fondi, Formia e Gaeta erano nel Regno di Napoli/Due Sicilie (Terra di Lavoro)."
+ },
+ {
+  "id": "uta-ancona",
+  "name": "Provincia di Ancona (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5427"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5427"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-pesaro-e-urbino",
+  "name": "Provincia di Pesaro e Urbino (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5428"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5428"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-macerata",
+  "name": "Provincia di Macerata (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5429"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5429"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-fermo",
+  "name": "Provincia di Fermo (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5430"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5430"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-ascoli-piceno",
+  "name": "Provincia di Ascoli Piceno (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5431"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5431"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-perugia",
+  "name": "Provincia di Perugia (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5432"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5432"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-terni",
+  "name": "Provincia di Terni (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5433"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5433"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-torino",
+  "name": "Provincia di Torino (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5434"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5434"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-biella",
+  "name": "Provincia di Biella (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5435"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5435"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-vercelli",
+  "name": "Provincia di Vercelli (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5436"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5436"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-verbano-cusio-ossola",
+  "name": "Provincia di Verbano-Cusio-Ossola (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5437"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5437"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-novara",
+  "name": "Provincia di Novara (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5438"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5438"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-alessandria",
+  "name": "Provincia di Alessandria (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5439"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5439"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-asti",
+  "name": "Provincia di Asti (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5440"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5440"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-cuneo",
+  "name": "Provincia di Cuneo (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5441"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5441"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-aosta",
+  "name": "Provincia di Aosta (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5442"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5442"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-bergamo",
+  "name": "Provincia di Bergamo (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5443"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5443"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-sondrio",
+  "name": "Provincia di Sondrio (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5444"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5444"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-brescia",
+  "name": "Provincia di Brescia (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5445"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5445"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-mantova",
+  "name": "Provincia di Mantova (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5446"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5446"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-cremona",
+  "name": "Provincia di Cremona (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5447"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5447"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-lodi",
+  "name": "Provincia di Lodi (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5448"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5448"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-pavia",
+  "name": "Provincia di Pavia (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5449"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "low",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5449"
+   }
+  ],
+  "review": "draft",
+  "note": "UTA da suddividere: Lomellina e Oltrepò erano sabaudi dal 1743 (Worms), il Pavese a nord del Ticino lombardo-austriaco."
+ },
+ {
+  "id": "uta-milano",
+  "name": "Provincia di Milano (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5450"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5450"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-varese",
+  "name": "Provincia di Varese (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5451"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5451"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-como",
+  "name": "Provincia di Como (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5452"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5452"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-lecco",
+  "name": "Provincia di Lecco (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5453"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5453"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-monza-e-brianza",
+  "name": "Provincia di Monza e Brianza (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5454"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5454"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-udine",
+  "name": "Provincia di Udine (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5455"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5455"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-pordenone",
+  "name": "Provincia di Pordenone (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5456"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5456"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-gorizia",
+  "name": "Provincia di Gorizia (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5457"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5457"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-trieste",
+  "name": "Provincia di Trieste (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5458"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5458"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-bolzano",
+  "name": "Provincia di Bolzano (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5459"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5459"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-trento",
+  "name": "Provincia di Trento (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5460"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5460"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-venezia",
+  "name": "Provincia di Venezia (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5461"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5461"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-rovigo",
+  "name": "Provincia di Rovigo (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5462"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5462"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-padova",
+  "name": "Provincia di Padova (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5463"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5463"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-verona",
+  "name": "Provincia di Verona (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5464"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5464"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-vicenza",
+  "name": "Provincia di Vicenza (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5465"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5465"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-treviso",
+  "name": "Provincia di Treviso (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5466"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5466"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-belluno",
+  "name": "Provincia di Belluno (confini moderni)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "ITA-5467"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne",
+    "loc": "admin-1 ITA-5467"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini provinciali moderni usati come approssimazione dei confini storici."
+ },
+ {
+  "id": "uta-san-marino",
+  "name": "San Marino",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "SMR-4886",
+    "SMR-4887",
+    "SMR-4888",
+    "SMR-4889",
+    "SMR-4890",
+    "SMR-4891",
+    "SMR-4884",
+    "SMR-4885",
+    "SMR-4883"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini attuali di San Marino."
+ },
+ {
+  "id": "uta-vaticano",
+  "name": "Vaticano",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "VAT+00?"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne"
+   }
+  ],
+  "review": "draft",
+  "note": "Confini attuali della Città del Vaticano (1929)."
+ },
+ {
+  "id": "uta-nizza",
+  "name": "Nizza (dipartimento Alpi Marittime)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "FRA-5266"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne"
+   }
+  ],
+  "review": "draft",
+  "note": "UTA da suddividere: il dipartimento include l'arrondissement di Grasse, francese anche prima del 1860; Mentone e Roccabruna erano monegasche fino al 1848."
+ },
+ {
+  "id": "uta-savoia",
+  "name": "Savoia (dip. Savoia e Alta Savoia)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "FRA-5341",
+    "FRA-5302"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne"
+   }
+  ],
+  "review": "draft",
+  "note": "Dipartimenti francesi moderni come approssimazione del Ducato di Savoia."
+ },
+ {
+  "id": "uta-corsica",
+  "name": "Corsica",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "FRA-5297",
+    "FRA-5281"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne"
+   }
+  ],
+  "review": "draft",
+  "note": "Isola intera."
+ },
+ {
+  "id": "uta-ticino",
+  "name": "Ticino",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "CHE-168"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne"
+   }
+  ],
+  "review": "draft",
+  "note": "Cantone moderno."
+ },
+ {
+  "id": "uta-istria",
+  "name": "Istria (contea istriana moderna)",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "HRV-1592"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne"
+   }
+  ],
+  "review": "draft",
+  "note": "Solo la parte croata moderna; la costa slovena (Capodistria, Pirano) non è inclusa."
+ },
+ {
+  "id": "uta-malta",
+  "name": "Malta",
+  "geometry_ref": {
+   "dataset": "ne_10m_admin_1",
+   "adm1_codes": [
+    "MLT-5950",
+    "MLT-5949",
+    "MLT-5936",
+    "MLT-5935",
+    "MLT-5934",
+    "MLT-5928",
+    "MLT-5926",
+    "MLT-5925",
+    "MLT-5924",
+    "MLT-5923",
+    "MLT-5947",
+    "MLT-5948",
+    "MLT-5972",
+    "MLT-5973",
+    "MLT-5968",
+    "MLT-5963",
+    "MLT-5962",
+    "MLT-5956",
+    "MLT-5952",
+    "MLT-5974",
+    "MLT-5981",
+    "MLT-5984",
+    "MLT-5985",
+    "MLT-5987",
+    "MLT-5980",
+    "MLT-5979",
+    "MLT-5978",
+    "MLT-5977",
+    "MLT-5976",
+    "MLT-5975",
+    "MLT-5982",
+    "MLT-5983",
+    "MLT-5986",
+    "MLT-5927",
+    "MLT-5929",
+    "MLT-5920",
+    "MLT-5922",
+    "MLT-5921",
+    "MLT-5946",
+    "MLT-5945",
+    "MLT-5933",
+    "MLT-5932",
+    "MLT-5937",
+    "MLT-5931",
+    "MLT-5939",
+    "MLT-5930",
+    "MLT-5943",
+    "MLT-5944",
+    "MLT-5957",
+    "MLT-5964",
+    "MLT-5969",
+    "MLT-5970",
+    "MLT-5971",
+    "MLT-5967",
+    "MLT-5961",
+    "MLT-5959",
+    "MLT-5960",
+    "MLT-5965",
+    "MLT-5966",
+    "MLT-5958",
+    "MLT-5938",
+    "MLT-5954",
+    "MLT-5941",
+    "MLT-5953",
+    "MLT-5955",
+    "MLT-5942",
+    "MLT-5940",
+    "MLT-5951"
+   ]
+  },
+  "valid_from": 1815,
+  "valid_to": 1915,
+  "certainty": "medium",
+  "sources": [
+   {
+    "id": "src-ne"
+   }
+  ],
+  "review": "draft",
+  "note": "Arcipelago intero."
+ }
+]

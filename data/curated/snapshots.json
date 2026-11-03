@@ -1,0 +1,19 @@
+[
+  { "year": -499, "mvp": true, "reason": "500 a.C.: popoli preromani, Etruschi al culmine, Magna Grecia" },
+  { "year": -217, "mvp": true, "reason": "218 a.C.: Annibale in Italia, inizio della seconda guerra punica" },
+  { "year": 14, "mvp": true, "reason": "14 d.C.: morte di Augusto" },
+  { "year": 400, "mvp": true, "reason": "400: Impero d'Occidente, capitale a Milano (Ravenna dal 402)" },
+  { "year": 600, "mvp": true, "reason": "600: Italia divisa tra Longobardi e Bizantini" },
+  { "year": 800, "mvp": true, "reason": "800: incoronazione di Carlo Magno" },
+  { "year": 1000, "mvp": true, "reason": "1000: Regno d'Italia nel Sacro Romano Impero; Sicilia islamica" },
+  { "year": 1200, "mvp": true, "reason": "1200: età comunale; Regno di Sicilia" },
+  { "year": 1454, "mvp": true, "reason": "1454: Pace di Lodi" },
+  { "year": 1559, "mvp": true, "reason": "1559: pace di Cateau-Cambrésis" },
+  { "year": 1815, "mvp": true, "reason": "1815: Congresso di Vienna" },
+  { "year": 1861, "mvp": true, "reason": "1861: proclamazione del Regno d'Italia" },
+  { "year": 1848, "mvp": false, "reason": "1848: rivoluzioni, Repubblica di San Marco, Sicilia indipendente" },
+  { "year": 1859, "mvp": false, "reason": "1859: seconda guerra d'indipendenza" },
+  { "year": 1860, "mvp": false, "reason": "1860: annessioni, Spedizione dei Mille, Nizza e Savoia alla Francia" },
+  { "year": 1866, "mvp": false, "reason": "1866: terza guerra d'indipendenza, Veneto all'Italia" },
+  { "year": 1870, "mvp": false, "reason": "1870: presa di Roma" }
+]
